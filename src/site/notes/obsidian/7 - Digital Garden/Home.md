@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/7-digital-garden/home/","tags":["gardenEntry"],"created":"2025-08-10T15:39:37.205+01:00","updated":"2025-08-10T16:51:32.565+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/7-digital-garden/home/","tags":["gardenEntry"],"created":"2025-08-10T15:39:37.205+01:00","updated":"2025-08-10T22:29:35.899+01:00"}
 ---
 
 <div class="card-grid">
   <div class="card">
     <h3>Card Title 1</h3>
-    <p>This is the content for card 1. You can add links, images, or even embed files here.</p>
+	 <p><b>Values</b> are the starting point — our moral compass</p>
   </div>
   <div class="card">
     <h3>Card Title 2</h3>
