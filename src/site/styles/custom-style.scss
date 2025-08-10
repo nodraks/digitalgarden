@@ -11,7 +11,7 @@ body {
     //   color: black;
     //  }
 
-  .card-grid { 
+.card-grid { 
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
   gap: 1.5em;
@@ -46,5 +46,5 @@ body {
   .card.featured {
     grid-column: span 1;
   }
-
+}
 }
