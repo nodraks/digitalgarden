@@ -1,16 +1,11 @@
+/* Optional overrides */
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  /* background-color: white; */
+  /* .content { font-size: 14px; } */
+  /* h1 { color: black; } */
+}
 
+/* Grid */
 .card-grid { 
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
@@ -37,14 +32,14 @@ body {
 }
 
 /* Make selected cards wider */
-.card.featured {
+.card-grid > .card.featured {
   grid-column: span 2;
 }
 
-/* Optional: on very narrow screens, reset to normal width */
+/* On very narrow screens, reset to normal width */
 @media (max-width: 600px) {
-  .card.featured {
+  .card-grid > .card.featured {
     grid-column: span 1;
   }
 }
-}
+
