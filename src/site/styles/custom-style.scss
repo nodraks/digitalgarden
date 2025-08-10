@@ -10,7 +10,8 @@ body {
     //  h1 {
     //   color: black;
     //  }
-.card-grid {
+
+  .card-grid { 
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
   gap: 1.5em;
@@ -26,6 +27,7 @@ body {
   transition: box-shadow 0.2s;
   border: 1px solid var(--background-modifier-border, #e0e0e0);
 }
+
 .card:hover {
   box-shadow: 0 8px 32px rgba(0,0,0,0.13);
 }
@@ -33,5 +35,16 @@ body {
 .card h3 {
   margin-top: 0;
 }
-   
+
+/* Make selected cards wider */
+.card.featured {
+  grid-column: span 2;
+}
+
+/* Optional: on very narrow screens, reset to normal width */
+@media (max-width: 600px) {
+  .card.featured {
+    grid-column: span 1;
+  }
+
 }
