@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/7-digital-garden/values-ethics-and-ethos/","tags":["gardenEntry"],"created":"2025-08-10T13:42:13.590+01:00","updated":"2025-08-10T15:14:03.131+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/7-digital-garden/values-ethics-and-ethos/","created":"2025-08-10T13:42:13.590+01:00","updated":"2025-08-10T15:40:42.753+01:00"}
 ---
 
 **Values** are the starting point — our moral compass.
