@@ -5,12 +5,10 @@
 <div class="card-grid">
   <div class="card">	
 	  <a class="internal-link" href="/values-ethos" aria-label="Open: values-ethos"></a>  
-    <h3>Values --> Ethos</h3>
-	<p><i>In the context of working with Large Language Models</i></p>
-	 <p><b>Values</b> are a moral compass</p>
-	 <p><b>Ethics</b> guide how we apply  values</p>
-	 <p><b>Culture</b> is where values and ethics live</p>
-	 <p><b>Ethos</b> is the vibe or spirit of that culture</p>
+     <p><b>Values</b>, our moral compass.<br>
+	 <b>Ethics</b>, how we apply them.<br>
+	 <b>Culture</b>, where values and ethics live.<br>
+	 <b>Ethos</b>, the vibe or spirit of that culture.</p>
   </div>
   <div class="card">
 	 <h3>Card Title 2</h3>
