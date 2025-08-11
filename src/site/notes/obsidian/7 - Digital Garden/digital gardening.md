@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/7-digital-garden/digital-gardening/","created":"2025-07-13T15:31:37.838+01:00","updated":"2025-08-11T22:35:46.188+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/7-digital-garden/digital-gardening/","created":"2025-07-13T15:31:37.838+01:00","updated":"2025-08-11T22:51:33.623+01:00"}
 ---
-
-2025-07-13 11:31
-Status: 
-Tags: 
 
 # Digital Gardening
 A garden is a collection of evolving ideas that aren’t strictly organised by their publication date. They’re inherently exploratory – notes are linked through contextual associations. They aren’t refined or complete - notes are published as half-finished thoughts that will grow and evolve over time. They’re less rigid, less performative, and less perfect than the personal websites we’re used to seeing.
@@ -14,5 +10,7 @@ A garden is a collection of evolving ideas that aren’t strictly organised by t
 
 **Blogchain** A self-contained series of blog posts on the same topic. 
 
-# References
-https://maggieappleton.com/
+# References 
+[Maggie Appleton's site](https://maggieappleton.com/)
+
+
