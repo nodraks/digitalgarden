@@ -4,7 +4,7 @@
 
 <div class="card-grid">
   <div class="card">
-	 <h3>Marjon - Anapoly Collaboration</h3>
+	 <h3>Marjon & Anapoly:<br>a collaboration?</h3>
     <p>Potential project:<br>
     To demonstrate how values and ethos can shape human–AI interaction in a university setting.</p>
   </div>
