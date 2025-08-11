@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/anapoly-and-marjon/values-culture-ethics-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-11T22:07:19.018+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/anapoly-and-marjon/values-culture-ethics-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-11T23:12:45.998+01:00"}
 ---
 
 # How Values, Culture, Ethics & Ethos Connect
