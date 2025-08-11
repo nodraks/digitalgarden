@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/anapoly-and-marjon/home/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-11T23:16:29.988+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/anapoly-and-marjon/home/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-11T23:17:22.889+01:00"}
 ---
 
 # A space for ideas about a collaboration between Marjon and Anapoly
+
+---
 
 ## What is [[obsidian/6 - Main Notes/digital gardening\|digital gardening]]? 
 ## [[obsidian/Anapoly & Marjon/Marjon & Anapoly\|Marjon & Anapoly]]   
