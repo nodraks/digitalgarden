@@ -17,15 +17,9 @@
 	 <b>Ethos</b>, the vibe or spirit of that culture.</p>
   </div>
   <div class="card">
-    <h3>Card Title 3</h3>
-    <p>This is the content for card 3.</p>
   </div>
  <div class="card">
-    <h3>Card Title 4</h3>
-    <p>This is the content for card 5; it will wrap onto the next row.</p>
  </div>
   <div class="card">
-    <h3>Card Title 5</h3>
-    <p>This is the content for card 5; it will wrap onto the next row.</p>
   </div>
 </div>
