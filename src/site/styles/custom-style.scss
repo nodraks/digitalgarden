@@ -5,7 +5,6 @@ body {
   /* h1 { color: black; } */
 }
 
-/* Grid */
 .card-grid { 
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
@@ -32,14 +31,23 @@ body {
 }
 
 /* Make selected cards wider */
-.card-grid > .card.featured {
+.card.featured {
   grid-column: span 2;
 }
 
-/* On very narrow screens, reset to normal width */
+/* Optional: on very narrow screens, reset to normal width */
 @media (max-width: 600px) {
-  .card-grid > .card.featured {
+  .card.featured {
     grid-column: span 1;
   }
 }
-
+/* Make the wikilink cover the whole card while staying rename-safe */
+.card { position: relative; }
+.card .internal-link {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  text-indent: -9999px; /* hide "Open" label */
+  overflow: hidden;
+}
+.card .internal-link:focus { outline: 2px solid; } /* keyboard visible focus */
