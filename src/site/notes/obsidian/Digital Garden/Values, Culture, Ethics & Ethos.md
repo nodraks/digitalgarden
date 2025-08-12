@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/values-culture-ethics-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-12T11:41:29.428+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/values-culture-ethics-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-12T11:44:32.331+01:00"}
 ---
 
 [[obsidian/Digital Garden/Home\|Home]] 
@@ -23,4 +23,4 @@ Ethos is the vibe or spirit of that culture when values are actively lived out.
 
 ---
 
-Some [[obsidian/Digital Garden/Warning Thoughts\|Warning Thoughts]] from Dennis
+Some [[obsidian/Digital Garden/Warning Thoughts\|Warning Thoughts]] from Dennis Silverwood
