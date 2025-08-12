@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/values-culture-ethics-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-11T23:12:45.998+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/values-culture-ethics-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-12T11:41:29.428+01:00"}
 ---
 
+[[obsidian/Digital Garden/Home\|Home]] 
 # How Values, Culture, Ethics & Ethos Connect
 *Source: Chat with Perplexity AI* 
 

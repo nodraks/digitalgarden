@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/warning-thoughts/","created":"2025-08-11T21:44:09.618+01:00","updated":"2025-08-11T23:06:30.925+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/warning-thoughts/","created":"2025-08-11T21:44:09.618+01:00","updated":"2025-08-12T11:41:44.683+01:00"}
 ---
 
-
+[[obsidian/Digital Garden/Home\|Home]] 
 # Warning Thoughts
 *from Dennis Silverwood*
 
