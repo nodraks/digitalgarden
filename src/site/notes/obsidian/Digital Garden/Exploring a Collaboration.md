@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/exploring-a-collaboration/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-12T08:49:54.011+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/exploring-a-collaboration/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-12T11:37:13.271+01:00"}
 ---
 
-# Background
+[[obsidian/Digital Garden/Home\|Home]] 
+
+# Exploring a collaboration
+
+## Background
 
 AI Acclimatisation Lab run by Anapoly, attended by Giles Freathy.
 Discussion Giles Freathy / Alec Fearon about possibilities for collaboration between our two organisations.
