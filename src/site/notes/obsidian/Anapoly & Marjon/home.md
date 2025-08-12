@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/anapoly-and-marjon/home/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-11T23:32:55.643+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/anapoly-and-marjon/home/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-12T08:02:15.851+01:00"}
 ---
 
-# A digital garden for ideas about a collaboration between Marjon and Anapoly
+# A digital garden for ideas about shaping Human-AI interaction
 
 ---
 
