@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/digital-gardening/","created":"2025-07-13T15:31:37.838+01:00","updated":"2025-08-12T11:45:25.870+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/digital-gardening/","created":"2025-07-13T15:31:37.838+01:00","updated":"2025-08-12T11:49:29.529+01:00"}
 ---
 
 [[obsidian/Digital Garden/Home\|home]] 
 # Digital Gardening
+
+---
 
 ## What is a digital garden?
 
