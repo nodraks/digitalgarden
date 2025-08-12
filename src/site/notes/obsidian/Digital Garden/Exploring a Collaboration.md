@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/exploring-a-collaboration/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-12T08:45:44.043+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/exploring-a-collaboration/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-12T08:47:50.826+01:00"}
 ---
 
 # Background
@@ -13,7 +13,7 @@ There is a need to imbue students with values of benefit to society.
 Students need to have an ethos of caring about how the human-AI relationship evolves.
 Hence idea of an initiative to create an ethos designed to shape Human-AI interaction in the university setting. 
 
-## The idea  
+## Purpose of a collaboration  
 
 To explore how values and ethos can shape human–AI interaction in a university setting.
 
