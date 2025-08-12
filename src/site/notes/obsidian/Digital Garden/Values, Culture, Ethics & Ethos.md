@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/values-culture-ethics-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-12T11:44:32.331+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/values-culture-ethics-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-12T11:48:21.676+01:00"}
 ---
 
 [[obsidian/Digital Garden/Home\|Home]] 
 # How Values, Culture, Ethics & Ethos Connect
 *Source: Chat with Perplexity AI* 
+
+---
 
 At the foundation are **values** — the beliefs and principles about what is important, desirable, or right. They answer the question: What matters most to us? Values may be personal (honesty, curiosity), organisational (innovation, accountability), or societal (justice, equality). They are the moral “raw material” from which everything else flows.
 
