@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/anapoly-and-marjon/background/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-11T23:55:11.811+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/anapoly-and-marjon/background/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-12T00:05:25.236+01:00"}
 ---
 
 # Background
 
-Acclimatisation Lab run by Anapoly, attended by Giles Freathy.
-Discussion Giles Freathy / Alec Fearon about possibilities for collaboration between out two organisations.
+AI Acclimatisation Lab run by Anapoly, attended by Giles Freathy.
+Discussion Giles Freathy / Alec Fearon about possibilities for collaboration between our two organisations.
 Collaboration would be designed to extend the capability of both organisations for the social good. 
 Students are among those most at risk from the misuse of AI. 
 There is a risk that students might outsource their thinking to AI and lose or not acquire the ability for critical thinking. 
