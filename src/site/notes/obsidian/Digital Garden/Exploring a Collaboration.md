@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/exploring-a-collaboration/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-12T11:47:04.217+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/exploring-a-collaboration/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-12T12:12:17.365+01:00"}
 ---
 
-[[obsidian/Digital Garden/Home\|Home]] 
+<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
 # Exploring a collaboration
 

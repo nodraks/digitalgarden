@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/values-culture-ethics-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-12T11:48:21.676+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/values-culture-ethics-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-12T12:14:24.520+01:00"}
 ---
 
-[[obsidian/Digital Garden/Home\|Home]] 
+<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 # How Values, Culture, Ethics & Ethos Connect
 *Source: Chat with Perplexity AI* 
 
