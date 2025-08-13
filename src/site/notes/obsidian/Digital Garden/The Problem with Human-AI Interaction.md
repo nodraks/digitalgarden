@@ -8,7 +8,7 @@
 
 ---
 
-[[obsidian/Digital Garden/Warning Thoughts\|Warning Thoughts]] 
+Dennis Silverwood put forward some [[obsidian/Digital Garden/Warning Thoughts\|Warning Thoughts]]. 
 
 To get a better understanding of the nature of the problem, we decided to write an essay examining the dangers posed to young people by the temptation to outsource their thinking to AI, and exploring whether responsible AI use can mitigate these dangers. 
 
