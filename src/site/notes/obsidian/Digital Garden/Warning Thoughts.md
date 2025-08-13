@@ -20,3 +20,9 @@ AI detaches you from reality.
 Is may not be telling you the truth. What is truth? Does AI check/ triangulate/ critique itself?
 
 AI is not intelligent. Intelligence is the ability acquire and apply knowledge and skills.
+
+There is a risk that people might outsource their thinking to AI and lose or never acquire the ability for critical thinking.  
+
+"*Intelligence cannot be present without understanding. No computer has any awareness of what it does.*" ~ widely attributed to Roger Penrose, though when and where is obscure. 
+
+We need an ethos of caring about how the human-AI relationship evolves.  

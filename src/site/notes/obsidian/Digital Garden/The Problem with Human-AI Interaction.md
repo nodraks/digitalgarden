@@ -10,7 +10,6 @@
 
 [[obsidian/Digital Garden/Warning Thoughts\|Warning Thoughts]] 
 
-There is a risk that people might outsource their thinking to AI and lose or never acquire the ability for critical thinking.  
-We need an ethos of caring about how the human-AI relationship evolves.  
+Looking into the problem
+- the first step [[obsidian/Digital Garden/Prompt to build contextual scaffolding\|Prompt to build contextual scaffolding]]
 
-"*Intelligence cannot be present without understanding. No computer has any awareness of what it does.*" ~ widely attributed to Roger Penrose, though when and where is obscure. 
