@@ -11,5 +11,4 @@
 [[obsidian/Digital Garden/Warning Thoughts\|Warning Thoughts]] 
 
 There is a risk that people might outsource their thinking to AI and lose or never acquire the ability for critical thinking.  
-WE
 We need an ethos of caring about how the human-AI relationship evolves.  
