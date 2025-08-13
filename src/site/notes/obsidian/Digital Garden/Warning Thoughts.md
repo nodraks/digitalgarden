@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/warning-thoughts/","created":"2025-08-11T21:44:09.618+01:00","updated":"2025-08-13T22:32:08.812+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/warning-thoughts/","created":"2025-08-11T21:44:09.618+01:00","updated":"2025-08-13T22:33:31.058+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -19,7 +19,7 @@ Bad actors can see what you (either anonymously or personally) are doing.
 
 AI detaches you from reality.
 
-Is may not be telling you the truth. What is truth? Does AI check/ triangulate/ critique itself?
+It may not be telling you the truth. What is truth? Does AI check/ triangulate/ critique itself?
 
 AI is not intelligent. Intelligence is the ability acquire and apply knowledge and skills.
 
