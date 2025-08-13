@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/project-instructions-ai-and-young-people/"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/project-instructions-ai-and-young-people/","created":"2025-08-13T15:38:51.970+01:00","updated":"2025-08-13T15:42:16.950+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 

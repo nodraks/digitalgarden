@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/project-instructions/"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/project-instructions/","created":"2025-08-13T15:24:22.727+01:00","updated":"2025-08-13T15:25:44.004+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 

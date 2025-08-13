@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/prompt-to-build-contextual-scaffolding/"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/prompt-to-build-contextual-scaffolding/","created":"2025-08-13T13:45:16.903+01:00","updated":"2025-08-13T15:58:01.256+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 

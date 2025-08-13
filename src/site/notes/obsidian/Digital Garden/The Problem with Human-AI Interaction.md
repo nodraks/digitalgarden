@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/the-problem-with-human-ai-interaction/"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-13T22:28:06.129+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -12,7 +12,9 @@ Dennis Silverwood put forward some [[obsidian/Digital Garden/Warning Thoughts\|W
 
 To get a better understanding of the nature of the problem, we decided to write an essay examining the dangers posed to young people by the temptation to outsource their thinking to AI, and exploring whether responsible AI use can mitigate these dangers. 
 
-The starting point was to enlist help from ChatGPT for this work. First, by working with the AI to craft a [[obsidian/Digital Garden/Prompt to build contextual scaffolding\|Prompt to build contextual scaffolding]]. Then, as the scaffolding took shape, we were able to craft [[obsidian/Digital Garden/Project Instructions – AI & Young People\|Project Instructions – AI & Young People]] tailored to the specifics of this essay. When writing these, it was important to draw the [[obsidian/Digital Garden/Distinction between Project Instructions and Project Files\|Distinction between Project Instructions and Project Files]] 
+Some background is needed here. If we want AI to stay helpful and relevant, we need to give it the right information, and that information is held in its context. Importantly, that context must evolve alongside and keep pace with the work being carried out. So it's important to understand what context is, because that is what controls ChatGPT's behaviour. [[obsidian/Digital Garden/ChatGPT-5 context architecture\|ChatGPT-5 context architecture]] gives a non-technical explanation of this, and the [[obsidian/Digital Garden/Contextual Scaffolding Framework\|Contextual Scaffolding Framework]] explains how to structure contextual information during the development of a knowledge-based product. 
+
+Turning back to our proposed essay, the starting point was to enlist help from ChatGPT for this work. First, by working with the AI to craft a [[obsidian/Digital Garden/Prompt to build contextual scaffolding\|Prompt to build contextual scaffolding]]. Then, as the scaffolding took shape, we were able to craft [[obsidian/Digital Garden/Project Instructions – AI & Young People\|Project Instructions – AI & Young People]] tailored to the specifics of this essay. When writing these, it was important to draw the [[obsidian/Digital Garden/Distinction between Project Instructions and Project Files\|Distinction between Project Instructions and Project Files]] 
 
 With [[obsidian/Digital Garden/Project Instructions – AI & Young People\|Project Instructions – AI & Young People]] now setup, we turned our attention to strengthening the initiation phase. We wanted to set up the literature review for maximum quality and relevance. There was a great deal more to this than I had expected; I had to remind myself how many projects are setup to fail from the outset, by not spending enough effort on getting the foundations right. 
 

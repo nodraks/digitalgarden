@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/distinction-between-project-instructions-and-project-files/"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/distinction-between-project-instructions-and-project-files/","created":"2025-08-13T15:46:51.452+01:00","updated":"2025-08-13T16:05:09.626+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
