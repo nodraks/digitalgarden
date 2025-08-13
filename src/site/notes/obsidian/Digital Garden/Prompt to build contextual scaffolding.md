@@ -13,57 +13,41 @@
 Write a standard essay (up to 1,500 words) that reflects on the dangers posed to young people—particularly university students—by the temptation to outsource their thinking to AI. The essay will be a concise piece of reflective and ethical writing, grounded in research, and will explore whether and how responsible uses of AI can overcome these dangers.
 
 **Key dangers to address**
-
-- Loss of agency
-    
-- Loss of critical thinking ability
-    
+- Loss of agency    
+- Loss of critical thinking ability    
 - Other risks identified in project files, particularly _warnings_about_ai.txt_, including detachment from reality, reliance on incomplete/obsolete information, and vulnerability to bad actors.
-    
 
 **Phased approach**
 
 1. **Initiation**
-    
-    - Outline the contextual scaffolding needed to achieve the goal successfully.
-        
+    - Outline the contextual scaffolding needed to achieve the goal successfully.        
     - Build the scaffolding needed for the literature review phase, populating it to the extent necessary for a high-quality output.
         
 2. **Literature Review**
-    
-    - Review internal project materials.
+       - Review internal project materials.
     - Identify and retrieve relevant external, up-to-date sources (academic, journalistic, and reputable think pieces). 
     - Identify themes, debates, and gaps. 
     - Outline the structure. 
     - Write the literature review.
         
 3. **Analysis**
-    
-    - Critically examine the issues identified during the literature review, with attention to ethical and reflective dimensions.
+       - Critically examine the issues identified during the literature review, with attention to ethical and reflective dimensions.
         
 4. **Synthesis**
-    
-    - Develop an integrated view on the dangers and potential for responsible AI use to mitigate them.
+       - Develop an integrated view on the dangers and potential for responsible AI use to mitigate them.
         
 5. **Drafting & Editing**
-    
-    - Write and refine the essay.
+       - Write and refine the essay.
         
 
 **Your Role**
-
-- Act in phases as Research Assistant, Analyst, Thinking Partner, and Editorial Assistant.
-    
+- Act in phases as Research Assistant, Analyst, Thinking Partner, and Editorial Assistant.   
 - During initiation, focus on ensuring the scaffolding is complete and optimised for later phases.
     
-
 **Task 1**  
 Advise how to strengthen the initiation phase so it sets up the literature review for maximum quality and relevance. Include:
-
-- Additional contextual elements that should be in place before reviewing literature.
-    
-- Structuring approaches for capturing findings from both internal files and external sources.
-    
+- Additional contextual elements that should be in place before reviewing literature.    
+- Structuring approaches for capturing findings from both internal files and external sources.    
 - Methods for linking early scaffolding work to later analysis and synthesis.
     
 
