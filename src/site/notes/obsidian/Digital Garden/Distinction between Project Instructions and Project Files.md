@@ -4,6 +4,8 @@
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
+# Distinction between Project Instructions and Project Files
+
 I asked ChatGPT to help me understand the division or boundary between the content of Project Instructions and the content of reference material in Project Files. This is how the AI explained it. 
 
 Here’s a clear way to see the difference — it’s about **function vs. substance**.
