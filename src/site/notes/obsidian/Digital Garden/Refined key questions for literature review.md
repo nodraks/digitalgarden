@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/refined-key-questions-for-literature-review/","created":"2025-08-13T16:41:23.689+01:00","updated":"2025-08-13T17:14:43.323+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/refined-key-questions-for-literature-review/","created":"2025-08-13T16:41:23.689+01:00","updated":"2025-08-13T23:01:01.933+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
 # Refined Key Questions for Literature Review
 
-I asked the AI clarify how the key questions should be refined. It explained that **refinement** wasn’t to change the _scope_ of my existing Key Questions in the [[obsidian/Digital Garden/Project Instructions – AI & Young People\|Project Instructions – AI & Young People]], but to make them **operational** for the literature review, so they act as sorting and tagging criteria rather than just big-picture guiding questions. Right now, in my [[obsidian/Digital Garden/Project Instructions – AI & Young People\|Project Instructions – AI & Young People]], the Key Questions are strategic:
+I asked the AI to clarify how the key questions should be refined. It explained that the **refinement** wasn’t to change the _scope_ of my existing Key Questions in the [[obsidian/Digital Garden/Project Instructions – AI & Young People\|Project Instructions – AI & Young People]], but to make them **operational** for the literature review, so they act as sorting and tagging criteria rather than just big-picture guiding questions. Right now, in my [[obsidian/Digital Garden/Project Instructions – AI & Young People\|Project Instructions – AI & Young People]], the Key Questions are strategic:
 
 > - What are the main temptations for young people to outsource their thinking to AI?>     
 > - What dangers arise from these temptations…?     

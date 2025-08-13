@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-13T22:36:56.005+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-13T23:05:58.269+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -18,4 +18,4 @@ Turning back to our proposed essay, the starting point was to enlist help from C
 
 With [[obsidian/Digital Garden/Project Instructions – AI & Young People\|Project Instructions – AI & Young People]] now installed, we turned our attention to strengthening the initiation phase. We wanted to set up the literature review for maximum quality and relevance. There was a great deal more to this than I had expected; I had to remind myself how many projects are setup to fail from the outset by not spending enough effort on getting the foundations right. 
 
-First, we [[obsidian/Digital Garden/Refined key questions for literature review\|Refined key questions for literature review]]. 
+First, we [[obsidian/Digital Garden/Refined key questions for literature review\|Refined key questions for literature review]]. This prompted me to consider giving the literature review to a team of, say, five people, dividing up the key questions accordingly. See [[obsidian/6 - Main Notes/Team approach to literature review\|Team approach to literature review]]. 
