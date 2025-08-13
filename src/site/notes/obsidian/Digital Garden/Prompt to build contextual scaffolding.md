@@ -32,8 +32,10 @@ Write a standard essay (up to 1,500 words) that reflects on the dangers posed to
 2. **Literature Review**
     
     - Review internal project materials.
-        
-    - Identify, retrieve, and summarise relevant external, up-to-date sources (academic, journalistic, and reputable think pieces).
+    - Identify and retrieve relevant external, up-to-date sources (academic, journalistic, and reputable think pieces). 
+    - Identify themes, debates, and gaps. 
+    - Outline the structure. 
+    - Write the literature review.
         
 3. **Analysis**
     
