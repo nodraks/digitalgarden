@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-13T22:30:40.714+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-13T22:35:21.943+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -10,7 +10,7 @@
 
 Dennis Silverwood put forward some [[obsidian/Digital Garden/Warning Thoughts\|Warning Thoughts]]. 
 
-To get a better understanding of the nature of the problem, we decided to write an essay examining the dangers posed to young people by the temptation to outsource their thinking to AI, and exploring whether responsible AI use can mitigate these dangers. 
+To get a better understanding of the nature of the problem, we decided to write an essay. This would examine the dangers posed to young people by the temptation to outsource their thinking to AI, and it would explore whether responsible use of AI can mitigate these dangers. 
 
 Some background is needed here. If we want AI to stay helpful and relevant, we need to give it the right information, and that information is held in its context. Importantly, that context must evolve alongside and keep pace with the work being carried out. So it's important to understand what context is, because that is what controls ChatGPT's behaviour. [[obsidian/Digital Garden/ChatGPT-5 context architecture\|ChatGPT-5 context architecture]] gives a non-technical explanation of this, and the [[obsidian/Digital Garden/Contextual Scaffolding Framework\|Contextual Scaffolding Framework]] explains how to structure contextual information during the development of a knowledge-based product. 
 
