@@ -6,7 +6,7 @@
 
 # Refined Key Questions for Literature Review
 
-I asked the AI clarify how the key questions should be refined. It explained that **refinement** wasn’t to change the _scope_ of my existing Key Questions in the [[obsidian/Digital Garden/Project Instructions – AI & Young People\|Project Instructions – AI & Young People]], but to make them **operational** for the literature review, so they act as sorting and tagging criteria rather than just big-picture guiding questions. Right now, in my Project Instructions, the Key Questions are strategic:
+I asked the AI clarify how the key questions should be refined. It explained that **refinement** wasn’t to change the _scope_ of my existing Key Questions in the [[obsidian/Digital Garden/Project Instructions – AI & Young People\|Project Instructions – AI & Young People]], but to make them **operational** for the literature review, so they act as sorting and tagging criteria rather than just big-picture guiding questions. Right now, in my [[obsidian/Digital Garden/Project Instructions – AI & Young People\|Project Instructions – AI & Young People]], the Key Questions are strategic:
 
 > - What are the main temptations for young people to outsource their thinking to AI?>     
 > - What dangers arise from these temptations…?     
