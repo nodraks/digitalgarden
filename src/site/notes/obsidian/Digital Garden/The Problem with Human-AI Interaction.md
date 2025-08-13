@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-13T22:35:21.943+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-13T22:36:56.005+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -16,6 +16,6 @@ Some background is needed here. If we want AI to stay helpful and relevant, we n
 
 Turning back to our proposed essay, the starting point was to enlist help from ChatGPT for this work. First, we worked with the AI to craft a [[obsidian/Digital Garden/Prompt to build contextual scaffolding\|Prompt to build contextual scaffolding]]. Then, as the scaffolding took shape, we were able to craft [[obsidian/Digital Garden/Project Instructions – AI & Young People\|Project Instructions – AI & Young People]] tailored to the specifics of this essay. When writing these, it was important to draw a [[obsidian/Digital Garden/Distinction between Project Instructions and Project Files\|Distinction between Project Instructions and Project Files]] 
 
-With [[obsidian/Digital Garden/Project Instructions – AI & Young People\|Project Instructions – AI & Young People]] now installed, we turned our attention to strengthening the initiation phase. We wanted to set up the literature review for maximum quality and relevance. There was a great deal more to this than I had expected; I had to remind myself how many projects are setup to fail from the outset, by not spending enough effort on getting the foundations right. 
+With [[obsidian/Digital Garden/Project Instructions – AI & Young People\|Project Instructions – AI & Young People]] now installed, we turned our attention to strengthening the initiation phase. We wanted to set up the literature review for maximum quality and relevance. There was a great deal more to this than I had expected; I had to remind myself how many projects are setup to fail from the outset by not spending enough effort on getting the foundations right. 
 
 First, we [[obsidian/Digital Garden/Refined key questions for literature review\|Refined key questions for literature review]]. 
