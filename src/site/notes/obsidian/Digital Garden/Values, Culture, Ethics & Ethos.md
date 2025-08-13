@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/values-culture-ethics-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-12T12:14:24.520+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/values-culture-ethics-and-ethos/"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
