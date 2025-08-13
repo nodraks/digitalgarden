@@ -12,3 +12,5 @@
 
 There is a risk that people might outsource their thinking to AI and lose or never acquire the ability for critical thinking.  
 We need an ethos of caring about how the human-AI relationship evolves.  
+
+"*Intelligence cannot be present without understanding. No computer has any awareness of what it does.*" ~ widely attributed to Roger Penrose, though when and where is obscure. 
