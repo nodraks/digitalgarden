@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/refined-key-questions-for-the-literature-review/","created":"2025-08-13T16:41:23.689+01:00","updated":"2025-08-14T10:09:39.849+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/refined-key-questions-for-the-literature-review/","created":"2025-08-13T16:41:23.689+01:00","updated":"2025-08-14T11:04:28.122+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -9,15 +9,15 @@
 I asked the AI to clarify how the key questions should be refined. It explained that the **refinement** wasn’t to change the _scope_ of my existing Key Questions in the [[obsidian/Digital Garden/project Instructions – AI & Young People\|project Instructions – AI & Young People]], but to make them **operational** for the literature review, so they act as sorting and tagging criteria rather than just big-picture guiding questions. Right now, in my [[obsidian/Digital Garden/project Instructions – AI & Young People\|project Instructions – AI & Young People]], the Key Questions are strategic:
 
 > - What are the main temptations for young people to outsource their thinking to AI?>     
-> - What dangers arise from these temptations…?     
+> - What dangers arise from these temptations …?     
 
 For the initiation phase, we can turn these into **research-ready questions** that:
 
-1. Are **specific enough** to guide what we look for in each source.    
-2. Naturally map onto table columns, tags, and the temptation–danger–mitigation chain.    
-3. Cover both internal and external sources in the same framework.
+- are **specific enough** to guide what we look for in each source;    
+- map naturally onto table columns, tags, and the temptation–danger–mitigation chain; and 
+- cover both internal and external sources in the same framework.
 
-The AI offered the following **operational rewrite** of the Key Questions, keeping the original intent but breaking each into practical sub-questions for source capture. They seemed very good, so I accepted them pending more detailed consideration. The intention is to use these as the **capture criteria** for each source, so that the literature review will naturally produce well-structured content for the later analysis and synthesis phases.
+The AI offered the following **operational rewrite** of the Key Questions, keeping the original intent but breaking each into practical sub-questions for for use in capturing source material. They seemed good, so I accepted them pending more detailed consideration. The intention is to use these as the **capture criteria** for each source, so that the literature review will naturally produce well-structured content for the later analysis and synthesis phases.
 
 ---
 
