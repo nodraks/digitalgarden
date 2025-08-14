@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-14T23:25:10.966+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-14T23:36:24.550+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -15,11 +15,11 @@ When aiming to achieve a goal that relates to a knowledge-based product, many ap
 
 **Project approach** — used when the goal is well understood and can be defined with little uncertainty. Here, acceptable levels of risk to quality, cost, and time allow for a single, goal-directed project.
 
-**Programme approach** — used when the goal contains too much uncertainty for a single tightly-bound project to be viable. The programme comprises successive phases, each with a well-defined purpose, delivered using the project approach. The purpose is to reduce uncertainty and progressively stabilise towards a well-defined goal. By its nature, a complex goal will usually require this programme approach.
+**Programme approach** — used when the goal contains too much uncertainty for a single tightly-bound project to be viable. The programme comprises successive phases, each with a well-defined purpose that is delivered using the project approach. The purpose is to reduce uncertainty and progressively stabilise towards a well-defined goal. By its nature, a complex goal will usually require this programme approach.
 
 ## Project Approach
 
-For a knowledge-based product, a typical project might have the following product-focused stages:
+For a knowledge-based product, a typical project might have the following stages:
 
 - **Initiation** → confirm the product’s purpose, scope, and intended audience; agree acceptance criteria; and identify resources.
     
@@ -48,7 +48,7 @@ For a knowledge-based product, a typical programme might have the following phas
     
 - **Operation & Maintenance** → publishing, version control, updates, ongoing relevance checks.
 
-When an AI is part of the team working towards a knowledge-based goal, we need the AI to stay helpful and relevant. To achieve this we must give it the information it needs to do its job in the way we want it done, and that information must evolve alongside the work being done. We use the term contextual scaffolding for this.
+When an AI is part of the team working towards a knowledge-related goal, we need the AI to stay helpful and relevant. To achieve this we must give it the information it needs to do its job in the way we want it done, and that information must evolve alongside the work being done. We use the term contextual scaffolding for this.
 
 ## Contextual Scaffolding
 
@@ -70,3 +70,7 @@ An AI’s context is its active workspace, where different layers of information
     
 
 These layers work together as follows: the System Layer and Project Instructions establish long-term guidance; the Canvas and Conversation Context manage the immediate working state; Referenced Files supply just-in-time knowledge. The AI blends these elements within the limits of its context window, which determines how much information it can use at one time.
+
+## Goal-Directed Context Management
+
+The art of goal-directed context management is to align the evolving context with the structure and purpose of the chosen approach, ensuring the AI always has the right information, at the right level of detail, to contribute effectively to the current phase of work.
