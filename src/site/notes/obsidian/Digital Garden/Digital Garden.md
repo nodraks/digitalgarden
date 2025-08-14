@@ -7,7 +7,7 @@
 
 ---
 
-## What is [[obsidian/6 - Main Notes/digital gardening\|digital gardening]]? 
+## What is [[obsidian/Digital Garden/digital gardening\|digital gardening]]? 
 ## [[obsidian/Digital Garden/Values, Culture, Ethics & Ethos\|Values, Culture, Ethics & Ethos]]
 
 **Values**, our moral compass.
