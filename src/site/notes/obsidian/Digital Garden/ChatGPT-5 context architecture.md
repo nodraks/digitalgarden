@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/chat-gpt-5-context-architecture/","created":"2025-08-13T21:46:40.065+01:00","updated":"2025-08-13T21:47:22.164+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/chat-gpt-5-context-architecture/","created":"2025-08-13T21:46:40.065+01:00","updated":"2025-08-14T07:39:14.886+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
 # ChatGPT-5's context architecture
 
-Imagine ChatGPT-5's context as its **dynamic workspace**, a meticulously organised environment where different layers of information come together to help it understand you and respond intelligently. This isn't just a simple memory; it's a sophisticated setup that ensures the AI always has the right information at its "fingertips" to perform tasks effectively.
+Imagine ChatGPT-5's context as its **dynamic workspace**, a meticulously organised environment where different layers of information come together to help it understand you and respond appropriately. This isn't just a simple memory; it's a sophisticated setup that ensures the AI always has the right information at its "fingertips" to perform tasks effectively.
 
 Within this workspace, several key component parts work in harmony:
 
