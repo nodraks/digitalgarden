@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/warning-thoughts/","created":"2025-08-11T21:44:09.618+01:00","updated":"2025-08-13T22:33:31.058+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/warning-thoughts/","created":"2025-08-11T21:44:09.618+01:00","updated":"2025-08-14T08:50:13.511+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -8,6 +8,10 @@
 
 --- 
 AI has burst upon us ... the answer to all our prayers and problems. Or is it?
+
+AI is not intelligent. Intelligence is the ability to acquire and apply knowledge and skills.
+
+"*Intelligence cannot be present without understanding. No computer has any awareness of what it does.*" ~ widely attributed to <a href="https://en.wikipedia.org/wiki/Roger_Penrose">Roger Penrose</a>, though when and where is obscure.
 
 Friendship - AI is not your friend. AI has no interest in you, your emotions, your future etc.
 
@@ -21,10 +25,6 @@ AI detaches you from reality.
 
 It may not be telling you the truth. What is truth? Does AI check/ triangulate/ critique itself?
 
-AI is not intelligent. Intelligence is the ability acquire and apply knowledge and skills.
-
 There is a risk that people might outsource their thinking to AI and lose or never acquire the ability for critical thinking.  
-
-"*Intelligence cannot be present without understanding. No computer has any awareness of what it does.*" ~ widely attributed to Roger Penrose, though when and where is obscure. 
 
 We need an ethos of caring about how the human-AI relationship evolves.  
