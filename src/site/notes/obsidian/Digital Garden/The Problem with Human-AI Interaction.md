@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-14T10:10:15.971+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-14T10:58:48.503+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
 # The Problem with Human-AI Interaction
+
+*As you read on, please keep in mind that this is a work in progress and that it is not complete*
 
 ---
 
