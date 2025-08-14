@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/distinction-between-project-instructions-and-project-files/","created":"2025-08-13T15:46:51.452+01:00","updated":"2025-08-13T16:05:09.626+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/distinction-between-project-instructions-and-project-files/","created":"2025-08-13T15:46:51.452+01:00","updated":"2025-08-14T07:56:03.084+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -38,7 +38,7 @@ Here’s a clear way to see the difference — it’s about **function vs. subst
     - In this project: ethos documents, AI warnings, contextual scaffolding papers.
         
 - **Example (from your files):**    
-    > _“There is a risk that students might outsource their thinking to AI and lose or not acquire the ability for critical thinking”_warnings_about_ai.
+    >_“There is a risk that students might outsource their thinking to AI and lose or not acquire the ability for critical thinking”_warnings_about_ai._
     
 
 ---
