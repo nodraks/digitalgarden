@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/chat-gpt-5-context-architecture/","created":"2025-08-13T21:46:40.065+01:00","updated":"2025-08-14T07:45:16.504+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/chat-gpt-5-context-architecture/","created":"2025-08-13T21:46:40.065+01:00","updated":"2025-08-14T07:49:25.591+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -18,6 +18,6 @@ Then we have the **Conversation Context**, also known as the **Context Window**,
 
 Finally, the **System Layer** operates mostly behind the scenes, like the **operating rules of a workplace**. These are instructions originating from OpenAI itself, which you don't directly see, and they are combined with your project's specific settings.  The role of the system layer is to set the fundamental safety rules, govern the AI's overall behaviour, and determine which features are available to you.
 
-These different layers are integrated into a cohesive system. When you interact with ChatGPT-5, the **System Layer** and **Project Instructions** establish the **persistent background** – they provide the long-term guidance that consistently shapes the AI's approach. The **Conversation Context** and the **Canvas** then collectively manage the **current working state**, focusing on the immediate tasks and interactions. Meanwhile, **Referenced Files** are brought in to supply **just-in-time knowledge** whenever it's required.
+These different layers are integrated into a cohesive system. When you interact with ChatGPT, the **System Layer** and **Project Instructions** establish the **persistent background**; they provide the long-term guidance that consistently shapes the AI's approach. The **Conversation Context** and the **Canvas** then collectively manage the **current working state**, focusing on the immediate tasks and interactions. Meanwhile, **Referenced Files** are brought in to supply **just-in-time knowledge** whenever it's required.
 
-The AI effectively blends all these elements together to form its response, always operating **within the limits of its context window** – this is the maximum amount of information it can "keep in mind" at any given moment. 
+The AI effectively blends all these elements together to form its response, always operating **within the limits of its context window**. This has a maximum size, governing the amount of information it can "keep in mind" at any given moment. 
