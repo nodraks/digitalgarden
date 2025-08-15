@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T07:08:59.271+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T07:17:04.483+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -54,9 +54,9 @@ For a knowledge-based product, a typical programme might have the following phas
     
 - **Operation & Maintenance** → publishing, version control, updates, ongoing relevance checks.
 
-When an AI is part of the team working towards a knowledge-related goal, we need the AI to stay helpful and relevant. To achieve this we must give it the information it needs to do its job in the way we want it done, and that information must evolve alongside the work being done. We use the term contextual scaffolding for this.
-
 ## Contextual Scaffolding
+
+When an AI is part of the team working towards a knowledge-related goal, we need the AI to stay helpful and relevant. To achieve this we must give it the information it needs to do its job in the way we want it done, and that information must evolve alongside the work being done. We use the term contextual scaffolding for this.
 
 Contextual scaffolding is the structured set of information and references that keeps the AI aligned with the work’s objectives and current state. It provides the AI with relevant background, an up-to-date view of progress, and clear direction for the next step. In a project or programme setting, this scaffolding must evolve with each stage so the AI remains accurate, relevant, and grounded.
 
