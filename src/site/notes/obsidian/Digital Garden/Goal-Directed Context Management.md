@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T06:59:28.977+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T07:08:59.271+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -14,6 +14,8 @@
 ## Knowledge-Based Products
 
 A knowledge-based product is any output whose primary value lies in the information, expertise, or analysis it contains. This can include documents (books, manuals, reports, policies), structured content (training courses, standards, knowledge bases), and digital artefacts such as software, where the embedded rules, logic, and data represent codified knowledge. In all cases, the emphasis is on creating, organising, and delivering knowledge in a usable form.
+
+The lifecycle of such a product (see Appendix) typically begins with **concept** and **feasibility**, where needs are identified and options assessed. It moves through **definition** and **development**, where requirements are set and the product is created, followed by **acceptance** and **release** to confirm and deliver the output. The product then enters **operation and maintenance**, where it is used, monitored, and updated as necessary, before ultimately reaching **retirement**, when it is withdrawn or replaced. This sequence ensures the product remains valuable and relevant throughout its existence.
 
 When aiming to achieve a goal that relates to a knowledge-based product, many approaches are possible. But two broad ones stand out.  
 
@@ -78,3 +80,25 @@ These layers work together as follows: the System Layer and Project Instructions
 ## Goal-Directed Context Management
 
 The art of goal-directed context management is to align the evolving context with the structure and purpose of the chosen approach, ensuring the AI always has the right information, at the right level of detail, to contribute effectively to the current phase of work.
+
+## Appendix: Knowledge-Based Product Lifecycle
+
+A knowledge-based product life-cycle typically follows this flow:
+
+1. **Concept** – Identify the need or opportunity and outline broad ideas for the product.
+    
+2. **Feasibility** – Evaluate options for viability, resource needs, and potential impact; select the best option to pursue.
+    
+3. **Definition** – Specify detailed requirements, structure, and quality criteria.
+    
+4. **Development** – Produce the product content or code, integrating research, drafting, and review.
+    
+5. **Acceptance** – Validate the product against agreed requirements and secure formal sign-off.
+    
+6. **Release** – Publish, distribute, or implement the product for its intended audience.
+    
+7. **Operation** – The product is used in practice; monitor for performance and relevance.
+    
+8. **Maintenance** – Update and refine the product to keep it accurate and effective over time.
+    
+9. **Retirement** – Withdraw the product when it is obsolete, replacing or archiving it as needed.
