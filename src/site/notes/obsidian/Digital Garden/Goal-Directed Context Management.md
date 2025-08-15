@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T09:11:23.005+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T09:27:40.033+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -15,10 +15,9 @@ A knowledge-based product is any output whose primary value lies in the informat
 
 The lifecycle of such a product (see Appendix) typically begins with **concept** and **feasibility**, where needs are identified and options assessed. It moves through **definition** and **development**, where requirements are set and the product is created, followed by **acceptance** and **release** to confirm and deliver the output. The product then enters **operation and maintenance**, where it is used, monitored, and updated as necessary, before ultimately reaching **retirement**, when it is withdrawn or replaced. This sequence ensures the product remains valuable and relevant throughout its existence.
 
-When aiming to achieve a goal that relates to a knowledge-based product, many approaches are possible. But two broad ones stand out.  
+A goal might be to **develop a comprehensive staff onboarding procedure** that meets compliance requirements and supports consistent training. Another might be to **create a new organisational policy framework** covering governance, ethics, and operational standards. Each can be tackled in different ways, depending on how clearly the goal is defined and how much uncertainty it contains. Two broad approaches stand out:
 
-**Project approach** — used when the goal is well understood and can be defined with little uncertainty. Here, acceptable levels of risk to quality, cost, and time allow for a single, goal-directed project.
-
+**Project approach** — used when the goal is well understood and can be defined with little uncertainty. Here, acceptable levels of risk to quality, cost, and time allow for a single, goal-directed project.  
 **Programme approach** — used when the goal contains too much uncertainty for a single tightly-bound project to be viable. The programme comprises successive phases, each with a well-defined purpose that is delivered using the project approach. The purpose is to reduce uncertainty and progressively stabilise towards a well-defined goal. By its nature, a complex goal will usually require this programme approach.
 ## Project Approach
 
