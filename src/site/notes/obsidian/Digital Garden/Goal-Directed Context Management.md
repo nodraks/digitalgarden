@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T09:10:02.333+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T09:11:23.005+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
 # Goal-Directed Context Management
-*Status: well advanced*
+*Status: ready for experimentation*
 
 ---
 
