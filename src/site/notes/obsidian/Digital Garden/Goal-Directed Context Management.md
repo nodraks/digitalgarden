@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T07:47:43.931+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T08:01:11.278+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -76,7 +76,7 @@ These layers work together as follows: the System Layer and Project Instructions
 
 The art of goal-directed context management is to align the evolving context with the structure and purpose of the chosen approach, ensuring the AI always has the right information, at the right level of detail, to contribute effectively to the current phase of work.
 
-Here is an [[obsidian/Digital Garden/example of the project approach\|example of the project approach]] applied to the creation of a staff onboarding procedure
+Here is an [[obsidian/Digital Garden/example of the project approach\|example of the project approach]] applied to the creation of a staff onboarding procedure.
 
 ---
 
