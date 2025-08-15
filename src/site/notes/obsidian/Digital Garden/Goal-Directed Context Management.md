@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T09:27:40.033+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T09:31:13.610+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -55,7 +55,7 @@ When an AI is part of the team working towards a knowledge-related goal, we need
 Contextual scaffolding defines the scope and substance of what the AI should know at any point in the work. Context is the operational environment in which that scaffolding is applied. In other words, scaffolding determines _what_ information and guidance are relevant, while context determines _how_ that information is held, combined, and used in real time to produce outputs. Together, they ensure the AI is both well-informed and immediately effective.
 ## Context
 
-An AI’s context is its active workspace, where different layers of information combine to guide its responses. For ChatGPT, these layers include:
+An AI’s context is its active workspace, where different layers of information combine to guide its responses. For ChatGPT, these layers are:
 
 - **Project Instructions** — persistent, high-level guidance that defines objectives, constraints, tone, and priorities for the work.
     
@@ -68,10 +68,10 @@ An AI’s context is its active workspace, where different layers of information
 - **System Layer** — underlying rules and behaviours set by OpenAI and project settings.
     
 
-These layers work together as follows: the System Layer and Project Instructions establish long-term guidance; the Canvas and Conversation Context manage the immediate working state; Referenced Files supply just-in-time knowledge. The AI blends these elements within the limits of its context window, which determines how much information it can use at one time.
+The layers work together as follows: the System Layer and Project Instructions establish long-term guidance; the Canvas and Conversation Context manage the immediate working state; Referenced Files supply just-in-time knowledge. The AI blends these elements within the limits of its context window, which determines how much information it can use at one time.
 ## Goal-Directed Context Management
 
-The art of goal-directed context management is to align the evolving context with the structure and purpose of the chosen approach, ensuring the AI always has the right information, at the right level of detail, to contribute effectively to the current phase of work.
+The art of goal-directed context management is to align the evolving context with the structure and purpose of the chosen approach, ensuring the AI always has the right information, at the right level of detail, to contribute effectively to the current stage of work.
 
 ## Example of the Project Approach
 
