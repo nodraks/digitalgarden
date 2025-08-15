@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T08:13:43.580+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T09:10:02.333+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -74,9 +74,23 @@ These layers work together as follows: the System Layer and Project Instructions
 
 The art of goal-directed context management is to align the evolving context with the structure and purpose of the chosen approach, ensuring the AI always has the right information, at the right level of detail, to contribute effectively to the current phase of work.
 
-Here is an [[obsidian/Digital Garden/example of the project approach\|example of the project approach]] applied to the creation of a staff onboarding procedure.
+## Example of the Project Approach
 
-Here is an [[obsidian/Digital Garden/example of the programme approach\|example of the programme approach]] applied to the development of a policy framework.
+Here is an [[obsidian/Digital Garden/example of the project approach\|example of the project approach]] applied to the creation of a staff onboarding procedure. 
+
+In the _Design & Planning_ stage of the staff onboarding procedure project, the contextual scaffolding would comprise both **persistent context** and **current context**.
+
+The **current context** is the stage-specific working information actively loaded into the AI’s working memory — for example, the agreed structure of the onboarding document, the latest draft text, HR compliance requirements relevant to this stage, outstanding stakeholder inputs, and immediate action items. It excludes earlier exploratory materials from the Initiation stage to prevent distraction or drift.
+
+The **persistent context** holds the enduring reference framework for the project. This includes the project instructions — overall objectives, target audience, scope boundaries, tone, and quality standards — and referenced files such as the approved project plan, HR manuals, legal guidelines, and IT setup checklists. Persistent context ensures the AI retains a clear understanding of the big picture — how the current stage connects to prior work and fits into the overall sequence toward final delivery.
+
+## Example of the Programme Approach
+
+Here is an [[obsidian/Digital Garden/example of the programme approach\|example of the programme approach]] applied to the development of a policy framework. In a programme such as this, the **volume and diversity of information** will be significantly greater than in a single project. Multiple phases will generate numerous and often lengthy documents: consultation summaries, draft policy sections, legal reviews, implementation plans, and more.
+
+Here, **persistent context** contains the programme’s overarching objectives, governance arrangements, phase plans, and other enduring references that anchor all phases. The **current context** is tightly scoped to the phase in progress. For example, during the Definition phase, it might hold the agreed structure for the framework, key stakeholder requirements, and a shortlist of draft policy themes under development. 
+
+Most of the programme’s working materials will be stored as **referenced files** rather than loaded directly into the current context. This approach allows the AI to retrieve and use relevant material on demand, without overloading its active workspace. By carefully selecting which elements to bring into the current context, we ensure the AI remains focused on the present phase while retaining quick access to the broader and more complex body of programme knowledge.
 
 ---
 
