@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/what-is-context/","created":"2025-08-03T08:49:16.639+01:00","updated":"2025-08-16T08:55:37.893+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/what-is-context/","created":"2025-08-03T08:49:16.639+01:00","updated":"2025-08-16T09:37:43.758+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -8,24 +8,33 @@
 
 ---
 
- Context is the AI's user interface. When we work with a general-purpose AI like ChatGPT, we interact with it through it's context.  We do this in several ways. 
+When we work with a general-purpose AI like ChatGPT, its behaviour is governed by what is called its **context**. By this, we mean the information it is given which is additional to the knowledge it learned during its training. We cannot change its learned knowledge, but we can control some of its context.  That is how we interact with it.  We do this in several ways. 
  
  The most immediately obvious is the **chat window**. Here, you can conduct a conversation with the AI, instructing, guiding and questioning it in real time. 
-
-- To work jointly with the AI on shared text, we use a **canvas**. It is opened by the AI, alongside the chat window, when we tell it to. It works like a text editor in which both human and AI can edit the content. 
-
+- To work jointly with the AI on shared text during a chat, we use a **canvas**. The AI opens a canvas, alongside the chat window, when we tell it to. It works like a text editor in which both human and AI can edit the content. 
 - We can share files with the AI during a chat by uploading them into the chat window. This lets us refer the AI, during a conversation, to information contained in the files. 
 
 The AI stores our chats until we choose to delete them, and we can resume a chat from where we left off. But the AI cannot yet refer to the content of an earlier chat during the course of the current chat. 
 
-A less obvious way to interact with the AI is through **custom instructions**. These are like settings, letting us configure how the AI behaves across all our chats with it. We can give it information such as:
+A less obvious way to interact with the AI is through **custom instructions**. These are settings which let us configure how the AI behaves across all our chats with it. We can give it information such as:
 - what to call us;
 - what we do;
 - what kind of personality the AI should have;
 - what traits it should have; and
 - any other behavioural instructions we want to give it. 
 
-To collaborate with the AI on a larger piece of work, where we want several 
+To collaborate with the AI on a larger piece of work where we want to share the same files across many chats, we use what ChatGPT calls a **project**. 
+- All the chats in a project are grouped together for ease of access.
+- There is a space where we can upload project files.
+- All chats in the project can read the project files.
+- I don't think the AI can yet refer to the content of other chats during the conduct of a chat. 
+
+Different projects have different purposes, and we might want to the AI to behave differently to suit these purposes. In that case, we use **project instructions** within each project to configure the AI's behaviour within that project. Project instructions:
+- can contain any behavioural instructions we want to give it;
+- apply only that project; and
+- override custom instructions.
+
+Underlying all of the above are the **system level instructions** coded into the AI by its makers. These configure how it behaves with regard to ethics, bias, safety, and many other important matters. We can't change these, but we can build on top of them through our custom or project instructions.
 
 That’s what we mean by **context**. It’s the information you give the AI to help it understand what you want. A vague prompt gives you a vague answer. A clear prompt, with the right background, gets you something much more useful.
 
