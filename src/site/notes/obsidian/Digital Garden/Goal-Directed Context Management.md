@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T13:41:19.686+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T14:28:37.579+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -11,7 +11,7 @@ _With acknowledgement to Erling S. Andersen, whose book <a href="https://www.am
 ---
 ## Introduction
 
-This document contains a framework for managing an AI's context when it is being used to create knowledge-based products. The aim is to keep the AI both useful and relevant by having the right information in its context throughout the progress of work. 
+This document sets out a framework for managing an AI when it is being used as a collaborator during the production or editing of knowledge-based products. 
 
 To use a large language model such as ChatGPT (aka an AI) as a collaborator, we have to configure it's behaviour to suit the purpose of our work. We do this by giving it information. in the form of instructions, guidance, questions, and reference material. We put this information into the AI's context to govern how it behaves:
 - to apply a standard behaviour across all chats, we use custom instructions;
