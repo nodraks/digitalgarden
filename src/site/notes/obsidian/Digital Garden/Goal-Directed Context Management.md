@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T10:11:57.016+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T12:48:16.324+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -9,13 +9,20 @@
 _With acknowledgement to Erling S. Andersen, whose book <a href="https://www.amazon.co.uk/Goal-Directed-Project-Management-Techniques/dp/0749453346">Goal Directed Project Management</a> inspired me in 1988_
 
 ---
-
 ## Introduction
 
-To use a large language model such as ChatGPT (aka an AI) as a collaborator, we have to configure it to suit the purpose of our work. We do this by giving it information. The information is put into the AI's context. See [[obsidian/Digital Garden/What is context\|What is context]]? It is important to understand this. 
+To use a large language model such as ChatGPT (aka an AI) as a collaborator, we have to configure it's behaviour to suit the purpose of our work. We do this by giving it information. in the form of instructions, guidance, questions, and reference material. We put this information into the AI's context to govern how it behaves:
+- in all chats through custom instructions;
+- in groups of chats (organised as projects) through project instructions and project files;
+- during individual chats through prompts, the canvas, and file uploads (prompts can include instructions, guidance and questions). 
+
+ Thus, we control the AI by putting information into its context. This is similar to the way we control a computer by giving it a program to run. But there is an important difference: a computer executes the instructions in its program precisely; an AI (large language model) interprets the information we give it. We should aim, therefore, to give the AI only as much room for manoeuvre as we judge appropriate. A vague prompt gets a vague answer. A precise prompt with the right background information gets us something much more useful. 
+ 
+ See [[obsidian/Digital Garden/What is context\|What is context]] for a more detailed explanation of context. It is important to understand it well. 
+
+
 
 This document contains a framework for managing an AI's context when it is being used to create knowledge-based products. The aim is to keep the AI both useful and relevant by having the right information in its context throughout the progress of work. 
-
 ## Knowledge-Based Products
 
 A knowledge-based product is any output whose primary value lies in the information, expertise, or analysis it contains. This can include documents (books, manuals, reports, policies), structured content (training courses, standards, knowledge bases), and digital artefacts such as software, where the embedded rules, logic, and data represent codified knowledge. In all cases, the emphasis is on creating, organising, and delivering knowledge in a usable form.
