@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T08:15:08.032+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T10:11:57.016+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -12,13 +12,10 @@ _With acknowledgement to Erling S. Andersen, whose book <a href="https://www.am
 
 ## Introduction
 
-To use a large language model such as ChatGPT (aka an AI) as a collaborator, we have to configure it to suit the purpose of our work. We do this by giving it information. The information is put into the AI's context. 
-This is a framework for managing the information used by 
-an AI uses when helping to create knowledge-based products. Its aim is to keep the AI both useful and relevant by ensuring it always has the right material, in the right form, for the stage of work in progress.
+To use a large language model such as ChatGPT (aka an AI) as a collaborator, we have to configure it to suit the purpose of our work. We do this by giving it information. The information is put into the AI's context. See [[obsidian/Digital Garden/What is context\|What is context]]? It is important to understand this. 
 
-It is intended for people who work with general-purpose AI tools as active members of a project team. The framework applies whether the work is a single, well-defined project or a multi-phase programme where goals take shape over time.
+This document contains a framework for managing an AI's context when it is being used to create knowledge-based products. The aim is to keep the AI both useful and relevant by having the right information in its context throughout the progress of work. 
 
-The document explains the concepts of _context_ and _contextual scaffolding_, shows how they work together to guide AI contributions, and provides examples of their application. It also outlines lifecycle stages for knowledge-based products and how to align AI context with each stage.
 ## Knowledge-Based Products
 
 A knowledge-based product is any output whose primary value lies in the information, expertise, or analysis it contains. This can include documents (books, manuals, reports, policies), structured content (training courses, standards, knowledge bases), and digital artefacts such as software, where the embedded rules, logic, and data represent codified knowledge. In all cases, the emphasis is on creating, organising, and delivering knowledge in a usable form.
