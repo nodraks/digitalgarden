@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T17:03:31.440+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T17:07:14.564+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -35,7 +35,7 @@ Work whose purpose is well defined and carries an acceptable risk of failure can
 
 When AI is used by a member of a project team, its characteristics make it more like an additional member of the team than a software tool. The AI, like the human, must be given roles and assigned tasks. It, too, must obtain detailed information from the project scaffolding. Unlike a human, however, the AI cannot yet go and fetch the information it needs; the human user must provide it. The human does does so by putting relevant information into the AI's context. 
 
-Information required for input to the AI's context over the course of the project is held in a part of the project scaffolding called the contextual scaffolding. Although closely integrated with other parts of the project scaffolding, the contextual scaffolding has a distinct purpose: to hold the information artefacts needed to manage the behaviour and effectiveness of the AI over the course of the project. 
+Information required for input to the AI's context over the course of the project is held in a part of the project scaffolding called the contextual scaffolding. Although closely integrated with other parts of the project scaffolding, the contextual scaffolding has a distinct purpose: to hold the information artefacts needed to manage the behaviour and effectiveness of the AI over the course of the project. The contextual scaffolding is the responsibility of the project's AI manager. 
 ## Knowledge-Based Products
 
 A knowledge-based product is any output whose primary value lies in the information, expertise, or analysis it contains. This can include documents (books, manuals, reports, policies), structured content (training courses, standards, knowledge bases), and digital artefacts such as software, where the embedded rules, logic, and data represent codified knowledge. In all cases, the emphasis is on creating, organising, and delivering knowledge in a usable form.
