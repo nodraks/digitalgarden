@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/what-is-context/","created":"2025-08-03T08:49:16.639+01:00","updated":"2025-08-16T10:45:06.784+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/what-is-context/","created":"2025-08-03T08:49:16.639+01:00","updated":"2025-08-16T18:42:25.175+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -18,7 +18,7 @@ We can share files with the AI during a chat by uploading them into the chat win
 
 The AI stores our chats until we choose to delete them, and we can resume a chat from where we left off. But the AI cannot yet refer to the content of an earlier chat during the course of the currently open chat. 
 
-A less obvious way to interact with the AI is through **custom instructions**. These are settings which let us configure how the AI behaves across all our chats with it. We can give it information such as:
+A less obvious way to control the AI is through **custom instructions**. These are settings which let us configure how the AI behaves across all our chats with it. We can give it information such as:
 - what to call us;
 - what we do;
 - what kind of personality the AI should have;

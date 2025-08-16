@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T17:36:05.812+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T18:34:38.359+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -13,9 +13,9 @@ _With acknowledgement to Erling S. Andersen, whose book <a href="https://www.am
 
 This document sets out a framework for managing a large language model such as ChatGPT (aka an AI) when it is being used as a collaborator during the production or editing of knowledge-based products. 
 
-To use an AI, we have to configure it's behaviour to suit the purpose of our work. We do this by giving it information in the form of instructions, guidance, questions, and reference material. We put this information into the AI's context to govern how it behaves. See [[obsidian/Digital Garden/What is context\|What is context]] for a more detailed explanation of context. It is important to understand it well. 
+To use an AI effectively, we have to configure it's behaviour to suit the purpose of our work. We do this by giving it information in the form of instructions, guidance, questions, and reference material. We put this information into the AI's context to govern how it behaves. See [[obsidian/Digital Garden/What is context\|What is context]] for a more detailed explanation of context. It is important to understand it well. 
 
-To apply a standard behaviour across all chats, we use custom instructions.
+To apply a standard behaviour from the AI across all chats, we use custom instructions.
 
 During individual chats, we control the AI through prompts, the canvas, and file uploads (prompts can include instructions, guidance and questions). 
 
