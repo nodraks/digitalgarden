@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/what-is-context/","created":"2025-08-03T08:49:16.639+01:00","updated":"2025-08-16T09:53:49.300+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/what-is-context/","created":"2025-08-03T08:49:16.639+01:00","updated":"2025-08-16T10:45:06.784+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -31,9 +31,9 @@ To collaborate with the AI on a larger piece of work where we want to share the 
 - All chats in the project can read the project files.
 - I don't think the AI can yet refer to the content of other chats during the conduct of a chat. 
 
-Different projects have different purposes, and we might want to the AI to behave differently to suit these purposes. In that case, we use **project instructions** within each project to configure the AI's behaviour within that project. Project instructions:
+Different projects have different purposes, and we might want to the AI to behave differently to suit these purposes. In that case, we use **project instructions** to configure the AI's behaviour within that project. Project instructions:
 - can contain any behavioural instructions we want to give the AI;
-- apply only that project; and
+- apply only to that project; and
 - override custom instructions.
 
 Underlying all of the above are the **system level instructions** coded into the AI by its makers. These configure how it behaves with regard to ethics, bias, safety, and many other important matters. We can't change these, but we can build on top of them through our custom or project instructions.
