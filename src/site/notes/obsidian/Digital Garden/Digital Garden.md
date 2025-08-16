@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-15T13:12:19.905+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-16T07:56:48.256+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
 # A digital garden for ideas about shaping Human-AI interaction
+*digital garden: a place to share and develop ideas in a flexible, interconnected, and constantly updated space.*
 
 ---
 
