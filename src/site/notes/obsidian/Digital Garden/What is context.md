@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/what-is-context/","created":"2025-08-03T08:49:16.639+01:00","updated":"2025-08-16T18:42:25.175+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/what-is-context/","created":"2025-08-03T08:49:16.639+01:00","updated":"2025-08-16T18:44:58.789+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
 # What is an AI's context?
+*Transparency label: human-only*
 
 ---
 
