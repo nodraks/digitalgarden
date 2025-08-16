@@ -1,18 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-15T20:55:28.501+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T08:15:08.032+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
 # Goal-Directed Context Management
-*Status: ready for experimentation*
+*Status: well advanced, but some important pieces missing. Not yet useable*
 _With acknowledgement to Erling S. Andersen, whose book <a href="https://www.amazon.co.uk/Goal-Directed-Project-Management-Techniques/dp/0749453346">Goal Directed Project Management</a> inspired me in 1988_
 
 ---
 
 ## Introduction
 
-This framework sets out a practical method for managing the information an AI uses when helping to create knowledge-based products. Its aim is to keep the AI both useful and relevant by ensuring it always has the right material, in the right form, for the stage of work in progress.
+To use a large language model such as ChatGPT (aka an AI) as a collaborator, we have to configure it to suit the purpose of our work. We do this by giving it information. The information is put into the AI's context. 
+This is a framework for managing the information used by 
+an AI uses when helping to create knowledge-based products. Its aim is to keep the AI both useful and relevant by ensuring it always has the right material, in the right form, for the stage of work in progress.
 
 It is intended for people who work with general-purpose AI tools as active members of a project team. The framework applies whether the work is a single, well-defined project or a multi-phase programme where goals take shape over time.
 
