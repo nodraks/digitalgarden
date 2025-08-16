@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T13:40:13.899+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T13:41:19.686+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -10,6 +10,8 @@ _With acknowledgement to Erling S. Andersen, whose book <a href="https://www.am
 
 ---
 ## Introduction
+
+This document contains a framework for managing an AI's context when it is being used to create knowledge-based products. The aim is to keep the AI both useful and relevant by having the right information in its context throughout the progress of work. 
 
 To use a large language model such as ChatGPT (aka an AI) as a collaborator, we have to configure it's behaviour to suit the purpose of our work. We do this by giving it information. in the form of instructions, guidance, questions, and reference material. We put this information into the AI's context to govern how it behaves:
 - to apply a standard behaviour across all chats, we use custom instructions;
@@ -24,7 +26,6 @@ There are similarities with the way a human behaves when carrying out a task. Th
 
 To keep things simple, let's focus on a task whose goal is well understood and can be achieved with little risk of failure. Typically, the work required would be organised as a project and the scaffolding for it would take the form of the project plan and related documentation.    
 
-This document contains a framework for managing an AI's context when it is being used to create knowledge-based products. The aim is to keep the AI both useful and relevant by having the right information in its context throughout the progress of work. 
 ## Knowledge-Based Products
 
 A knowledge-based product is any output whose primary value lies in the information, expertise, or analysis it contains. This can include documents (books, manuals, reports, policies), structured content (training courses, standards, knowledge bases), and digital artefacts such as software, where the embedded rules, logic, and data represent codified knowledge. In all cases, the emphasis is on creating, organising, and delivering knowledge in a usable form.
