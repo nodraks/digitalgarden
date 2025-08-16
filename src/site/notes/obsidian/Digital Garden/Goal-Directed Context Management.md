@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T15:06:41.909+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T15:43:45.457+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -17,19 +17,23 @@ To use an AI, we have to configure it's behaviour to suit the purpose of our wor
 
 To apply a standard behaviour across all chats, we use custom instructions.
 
-To set up the behaviour for a group of chats organised as a project, we do it through project instructions and project files.
+During individual chats, we control the AI through prompts, the canvas, and file uploads (prompts can include instructions, guidance and questions). 
 
-During individual chats, we do it through prompts, the canvas, and file uploads (prompts can include instructions, guidance and questions). 
+To set up the standard of behaviour for a group of chats organised as a project, we do it through project instructions.
+
+To make information available to all chats in a project, we upload project files.
+
+Finally, if we need the services of AI specialist, we create a form of agent (called a GPT). We configure the agent with bespoke instructions to make its behaviour appropriate to its role, and we upload reference files to give it a knowledge base. Our agent can then be called in as necessary to provide specialist advice through chats. 
 
  This method of controlling the AI by putting information into its context is similar to the way we control a computer by giving it a program to run. But there is an important difference: a computer executes the instructions in its program precisely; an AI (large language model) interprets the information we give it. We should aim, therefore, to give the AI all the information it needs to avoid losing focus. A vague prompt gets a vague answer. A precise prompt with the right background information gets us something much more useful. 
  
-There are similarities with the way we manage a human. The human has a store of learned knowledge to call upon, can be given instructions on how to behave during the task, can use reference material, can converse with others, and can co-edit documents with them. Like an AI, the human interprets the information obtained by these means. 
+There are similarities with the way we manage a human. The human has a store of learned knowledge to call upon, can be given instructions on how to behave during a task, can use reference material, can converse with others, and can co-edit documents with them. Like an AI, the human interprets the information obtained by these means. 
 
-As the scale or complexity of the task grows, it becomes increasingly difficult to coordinate the work of two or more humans to achieve a common goal. To overcome this problem, we use project and programme methodologies to structure the work; these provide a form of scaffolding to let the work be carried out safely and effectively. The scaffolding is made strong and stable through a plan which - amongst other things -  divides the work into manageable packages, defines who or what will do the work, when and how it will be done, and what work outputs are required. 
+As the scale or complexity of a task grows, it becomes increasingly difficult to coordinate the work of two or more humans to achieve a common goal. To overcome this problem, we use project and programme methodologies to structure the work; these provide a form of scaffolding to let the work be carried out safely and effectively. The scaffolding is made strong and stable through a plan which - amongst other things -  divides the work into manageable packages, defines who or what will do the work, when and how it will be done, and what work outputs are required. 
 
-Work whose purpose is well defined and carries an acceptable risk of failure can be organised as a project. The scaffolding for it takes the form of the project plan and related documentation, including external standards. Members of the project team are given roles, which can vary during the project, and assigned tasks. The detailed information they need to carry out their work successfully is held in the project scaffolding. 
+Work whose purpose is well defined and carries an acceptable risk of failure can be organised as a project. The scaffolding for it takes the form of the project plan and related documentation, including external standards. Members of the project team are given roles, which can vary during the project, and assigned tasks. The detailed information they need to carry out their work successfully is held in the project scaffolding. When the work has greater scope and/or complexity, it can be organised as a programme. In this case the scaffolding is provided by the programme management plan and related documentation. 
 
-When an AI is used by members of the project team, it is in effect a collaborator in the work of the project. 
+When AI is used by a member of a project team, its characteristics make it more like an additional member of the team than a software tool. The AI, like the human, must be given roles and assigned tasks. It, too, must obtain detailed information from the project scaffolding. Unlike a human, however, the AI cannot yet go and fetch the information it needs; the human user must provide it. The human does does so by putting relevant information into the AI's context. 
 
 ## Knowledge-Based Products
 
