@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T18:34:38.359+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T19:15:48.652+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -44,7 +44,7 @@ The nature, required content, and production timetable for AI artefacts are gove
 - stage packs tailored to the varying uses intended for the AI over the course of the project (as with other project artefacts, these begin life in outline form and gain content as the project progresses);
 - GPT packs to create the specialist AI agents that are needed. 
 
-The art of goal-directed context management is to align the AI's evolving context with the structure and purpose of the project or programme approach, ensuring the AI always has the right information, at the right level of detail, to contribute effectively to the current stage of work.
+The art of goal-directed context management is to align the AI's evolving context with the purpose and structure of the project or programme it is associated with, ensuring the AI always has the right information, at the right level of detail, to contribute effectively to the current stage of work.
 ## Knowledge-Based Products
 
 A knowledge-based product is any output whose primary value lies in the information, expertise, or analysis it contains. This can include documents (books, manuals, reports, policies), structured content (training courses, standards, knowledge bases), and digital artefacts such as software, where the embedded rules, logic, and data represent codified knowledge. In all cases, the emphasis is on creating, organising, and delivering knowledge in a usable form.
