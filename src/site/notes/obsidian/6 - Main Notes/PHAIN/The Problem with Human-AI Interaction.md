@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-17T10:51:17.682+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-17T11:00:44.501+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -24,8 +24,6 @@ After I had provided the [[obsidian/6 - Main Notes/PHAIN bootstrap clarification
 
 >Help me understand the division or boundary between the content of Project Instructions and the content of reference material in Project Files.
 
-It responded with this explanation of the [[obsidian/Digital Garden/The distinction between Project Instructions and Project Files\|distinction between Project Instructions and Project Files]].  
-
-Then, as the detailed nature and scope of the work became clear and the scaffolding took shape, we were able to focus on crafting [[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]] tailored to the specifics of this essay. Note that when writing these, it was important to draw a [[obsidian/Digital Garden/The distinction between Project Instructions and Project Files\|distinction between Project Instructions and Project Files]].  
+After it responded with this explanation of the [[obsidian/Digital Garden/The distinction between Project Instructions and Project Files\|distinction between Project Instructions and Project Files]], I instructed the AI to draft a set of project instructions, using the optimised structure we had agreed, while keeping the project files clearly ring-fenced as reference material. After some editing, the outcome was these[[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]]. 
 
 With [[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]] now installed, we turned our attention to [[obsidian/Digital Garden/strengthening the initiation phase\|strengthening the initiation phase]]. 
