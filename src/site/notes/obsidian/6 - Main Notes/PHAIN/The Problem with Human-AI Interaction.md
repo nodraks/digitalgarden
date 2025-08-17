@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-17T11:00:44.501+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-17T11:47:37.933+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -10,20 +10,28 @@
 
 ---
 
+## The problem
+
 Dennis Silverwood put forward some [[obsidian/6 - Main Notes/PHAIN/Warning Thoughts\|Warning Thoughts]]. These begin by asserting that, although widely called artificial intelligence, AI is not in fact intelligent. They end by highlighting the risk that people might outsource their thinking to AI and lose or never acquire the ability for critical thinking. While all age groups are at risk from outsourced thinking, the young are especially so. They already show signs of shorter attention spans, limiting their capacity to follow complex arguments, absorb nuanced information, and sustain reasoning without distraction. If this is compounded by outsourcing their thinking and failing to develop critical thinking skills, they risk losing the judgement and decision-making ability essential to independent agency.
+
+## Proposal to research & report
 
 To get a better understanding of the nature of the problem, we propose to write an essay about it. This will examine the dangers posed to young people by the temptation to outsource their thinking to AI, and explore whether responsible use of AI can mitigate these dangers. As well as making us better informed, the essay will serve as a vehicle for learning the practicalities of putting AI to purposeful use.
 
+## Some background about using AI
+
 Some background is needed here.  If we want AI to stay helpful and relevant, we need to give it the right information to hold in its working memory. We can think of what is called **context** as the AI's working memory. [[obsidian/Digital Garden/ChatGPT-5 context architecture\|ChatGPT-5 context architecture]] explains this more full, and another perspective is offered in [[obsidian/Digital Garden/What is context\|What is context]]. For the AI to perform well on our behalf, its context must encompass and keep pace with the progress of the work for which it is assisting us.  [[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] explains how we can handle this during the development of a knowledge-based product. 
 
-Turning back to our proposed essay, the starting point was to configure ChatGPT for this work. [[obsidian/Digital Garden/Goal-Directed Context Management#AI artefacts\|Goal-Directed Context Management#AI artefacts]] suggests we should have an *AI startup pack* to configure the AI for its initial role at the outset of a project. I hadn't yet thought of that idea, so my startup pack was simply a [[obsidian/6 - Main Notes/PHAIN/PHAIN bootstrap prompt\|bootstrap prompt]]. This gave the AI an explanation of the work we were about to do together, and tasked it to help me create an improved version of it. 
+## Startup
+
+Turning back to our proposed essay, the starting point was to configure ChatGPT so that it could help us with this work. [[obsidian/Digital Garden/Goal-Directed Context Management#AI artefacts\|Goal-Directed Context Management#AI artefacts]] suggests we should have an *AI startup pack* to configure the AI for its initial role at the outset of a project. I hadn't yet thought of that idea, so my startup pack was simply a [[obsidian/6 - Main Notes/PHAIN/PHAIN bootstrap prompt\|bootstrap prompt]]. This gave the AI an explanation of the work we were about to do together, and tasked it to help me create an improved version of it. 
 
 > Your first task is to advise how this prompt can be improved to make most effective use of your capabilities. But before beginning, review the information you now have in your context and to ask me for any clarification you need. Do nothing else yet.
 
-After I had provided the [[obsidian/6 - Main Notes/PHAIN bootstrap clarification\|clarification]] it sought, the AI responded with this [[obsidian/6 - Main Notes/PHAIN startup prompt\|startup prompt]]. This was a useful step forward, but I then realised that what I really needed was a set of *project instructions* to govern the AI's behaviour in the essay project I would be setting up. After some discussion, we arrived at this [[obsidian/6 - Main Notes/PHAIN structure for project instructions\|structure for project instructions]].  Before turning these into a draft set of instruction, I thought I better remind the AI about the distinction between project instructions and project files. I asked: 
+After I had provided the [[obsidian/6 - Main Notes/PHAIN bootstrap clarification\|clarification]] it sought, the AI responded with this [[obsidian/6 - Main Notes/PHAIN startup prompt\|startup prompt]]. It was a useful step forward, but I then realised that what I really needed was a set of *project instructions*; these were needed to govern the AI's behaviour in the essay project I would be setting up. After some discussion, we arrived at this [[obsidian/6 - Main Notes/PHAIN structure for project instructions\|structure for project instructions]].  Before turning these into a draft set of instruction, I thought I'd better remind the AI about the distinction between project instructions and project files. I asked: 
 
 >Help me understand the division or boundary between the content of Project Instructions and the content of reference material in Project Files.
 
-After it responded with this explanation of the [[obsidian/Digital Garden/The distinction between Project Instructions and Project Files\|distinction between Project Instructions and Project Files]], I instructed the AI to draft a set of project instructions, using the optimised structure we had agreed, while keeping the project files clearly ring-fenced as reference material. After some editing, the outcome was these[[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]]. 
+After it responded with this explanation of the [[obsidian/Digital Garden/The distinction between Project Instructions and Project Files\|distinction between Project Instructions and Project Files]], I instructed the AI to draft a set of project instructions, using the optimised structure we had agreed, while keeping the project files clearly ring-fenced as reference material. After some editing, the outcome was these [[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]]. 
 
-With [[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]] now installed, we turned our attention to [[obsidian/Digital Garden/strengthening the initiation phase\|strengthening the initiation phase]]. 
+With this startup pack now installed to govern the AI's work in the essay project, we were ready to turn our attention to the [[obsidian/Digital Garden/PHAIN initiation phase\|initiation phase]]. 

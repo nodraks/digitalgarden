@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-17T08:34:05.127+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-17T11:53:01.878+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -44,9 +44,10 @@ Information required for input to the AI's context over the course of the projec
 ### AI artefacts
 
 The nature, required content, and production timetable for AI artefacts are governed by and tied to the project plan. Artefacts in the contextual scaffolding include:
-- AI policy
-- AI management plan
-- an AI startup pack to configure the AI at the outset of the project, when its objective will be to outline the contextual scaffolding and help to produce an initial set of AI artefacts;
+- AI policy;
+- AI management plan;
+- a bootstrap prompt to configure the AI so that it can help create the startup pack;
+- an AI startup pack to configure the AI at the outset of the project, when its objective will be to help initiate the project by outlining the contextual scaffolding and assisting with the definition of AI artefacts;
 - stage packs tailored to the varying uses intended for the AI over the course of the project (as with other project artefacts, these begin life in outline form and gain content as the project progresses);
 - GPT packs to create the specialist AI agents that are needed. 
 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/project-instructions-for-ai-and-young-people-essay/","created":"2025-08-13T15:38:51.970+01:00","updated":"2025-08-17T10:28:49.447+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/project-instructions-for-ai-and-young-people-essay/","created":"2025-08-13T15:38:51.970+01:00","updated":"2025-08-17T11:29:04.467+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
-# Project Instructions – AI & Young People Essay (Project-Specific)
+# Project Instructions for AI & Young People Essay 
 
 ## 1. Purpose & Intended Impact
 
