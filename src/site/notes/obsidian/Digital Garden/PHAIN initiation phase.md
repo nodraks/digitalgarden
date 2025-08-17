@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/phain-initiation-phase/","created":"2025-08-14T10:08:28.550+01:00","updated":"2025-08-17T22:45:17.930+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/phain-initiation-phase/","created":"2025-08-14T10:08:28.550+01:00","updated":"2025-08-17T22:53:28.310+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
+Previous page: [[obsidian/6 - Main Notes/PHAIN/The Problem with Human-AI Interaction\|The Problem with Human-AI Interaction]]
+Next page: [[obsidian/6 - Main Notes/Still in Startup\|Still in Startup]] 
 
 # The Initiation Stage
 
