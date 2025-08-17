@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-17T12:19:13.987+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-17T13:06:52.090+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -20,8 +20,7 @@ To get a better understanding of the nature of the problem, we proposed writing 
 
 ## Some background about using AI
 
-Some background is needed here.  If we want AI to stay helpful and relevant, we need to give it the right information to hold in its working memory - in what is called its **context**. [[obsidian/Digital Garden/ChatGPT-5 context architecture\|ChatGPT-5 context architecture]] explains this more fully, and another perspective is offered in [[obsidian/Digital Garden/What is context\|What is context]]. For the AI to perform well on our behalf, its context must encompass and keep pace with the progress of the work for which it is assisting us.  [[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] explains how we can handle this during the development of a knowledge-based product. 
-
+Some background is needed here.  If we want AI to stay helpful and relevant, we need to give it the right information to hold in its working memory - in what is called its **context**.  [[obsidian/Digital Garden/What is context\|What is context]] explains what this means, and another perspective is offered in [[obsidian/Digital Garden/ChatGPT-5 context architecture\|ChatGPT-5 context architecture]]. For the AI to perform well on our behalf, its context must encompass and keep pace with the progress of the work for which it is assisting us.  [[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] suggests how we can handle this during the development of a knowledge-based product. 
 ## Startup
 
 Turning back to our proposed essay, the starting point was to configure ChatGPT so that it could help us with this work. [[obsidian/Digital Garden/Goal-Directed Context Management#AI artefacts\|Goal-Directed Context Management#AI artefacts]] suggests we should have an *AI startup pack* to configure the AI for its initial role at the outset of a project. I hadn't yet thought of that idea, so my startup pack was simply a [[obsidian/6 - Main Notes/PHAIN/PHAIN bootstrap prompt\|bootstrap prompt]]. This gave the AI an explanation of the work we were about to do together, and tasked it to help me create an improved version of it. 
