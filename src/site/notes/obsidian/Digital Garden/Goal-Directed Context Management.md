@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-16T19:15:48.652+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-17T08:34:05.127+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -12,6 +12,8 @@ _With acknowledgement to Erling S. Andersen, whose book <a href="https://www.am
 ## Introduction
 
 This document sets out a framework for managing a large language model such as ChatGPT (aka an AI) when it is being used as a collaborator during the production or editing of knowledge-based products. 
+
+### How do we control an AI?
 
 To use an AI effectively, we have to configure it's behaviour to suit the purpose of our work. We do this by giving it information in the form of instructions, guidance, questions, and reference material. We put this information into the AI's context to govern how it behaves. See [[obsidian/Digital Garden/What is context\|What is context]] for a more detailed explanation of context. It is important to understand it well. 
 
@@ -29,6 +31,8 @@ Finally, if we need the services of AI specialist, we create a form of agent (ca
  
 There are similarities with the way we manage a human. The human has a store of learned knowledge to call upon, can be given instructions on how to behave during a task, can use reference material, can converse with others, and can co-edit documents with them. Like an AI, the human interprets the information obtained by these means. 
 
+### Managing scale & complexity
+
 As the scale or complexity of a task grows, it becomes increasingly difficult to coordinate the work of humans to achieve a common goal. To overcome this problem, we use project and programme methodologies to structure the work; these provide a form of scaffolding to let the work be carried out safely and effectively. The scaffolding is made strong and stable through a plan which - amongst other things -  divides the work into manageable packages, defines who or what will do the work, when and how it will be done, and what work outputs are required. 
 
 Work whose purpose is well defined and carries an acceptable risk of failure can be organised as a project. The scaffolding for this takes the form of the project plan and related documentation, including external standards. Members of the project team are given roles, which can vary during the project, and assigned tasks. The detailed information they need to carry out their work successfully is held in the project scaffolding. When the work has greater scope and/or complexity, it can be organised as a programme. In this case the scaffolding is provided by the programme management plan and related documentation. 
@@ -37,12 +41,16 @@ When AI is used by a member of a project team, its characteristics make it more 
 
 Information required for input to the AI's context over the course of the project is held in a part of the project scaffolding called the contextual scaffolding. Although closely integrated with other parts of the project scaffolding, the contextual scaffolding has a distinct purpose: to hold the information - AI artefacts - needed to manage the behaviour and effectiveness of the AI over the course of the project. The contextual scaffolding is the responsibility of the project's AI manager. 
 
+### AI artefacts
+
 The nature, required content, and production timetable for AI artefacts are governed by and tied to the project plan. Artefacts in the contextual scaffolding include:
 - AI policy
 - AI management plan
 - an AI startup pack to configure the AI at the outset of the project, when its objective will be to outline the contextual scaffolding and help to produce an initial set of AI artefacts;
 - stage packs tailored to the varying uses intended for the AI over the course of the project (as with other project artefacts, these begin life in outline form and gain content as the project progresses);
 - GPT packs to create the specialist AI agents that are needed. 
+
+### The art of goal-directed context management
 
 The art of goal-directed context management is to align the AI's evolving context with the purpose and structure of the project or programme it is associated with, ensuring the AI always has the right information, at the right level of detail, to contribute effectively to the current stage of work.
 ## Knowledge-Based Products

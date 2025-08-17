@@ -25,4 +25,4 @@ Ethos is the vibe or spirit of that culture when values are actively lived out.
 
 ---
 
-Some [[obsidian/Digital Garden/Warning Thoughts\|Warning Thoughts]] from Dennis Silverwood
+Some [[obsidian/6 - Main Notes/PHAIN/Warning Thoughts\|Warning Thoughts]] from Dennis Silverwood

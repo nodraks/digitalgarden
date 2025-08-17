@@ -17,5 +17,5 @@
 **Ethos**, the vibe or spirit of that culture.
 ## [[obsidian/Digital Garden/What is context\|What is context]]? 
 ## [[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] 
-## [[obsidian/Digital Garden/The Problem with Human-AI Interaction\|The Problem with Human-AI Interaction]] 
+## [[obsidian/6 - Main Notes/PHAIN/The Problem with Human-AI Interaction\|The Problem with Human-AI Interaction]] 
 ## [[obsidian/Digital Garden/Exploring a Collaboration\|Exploring a Collaboration]] 
