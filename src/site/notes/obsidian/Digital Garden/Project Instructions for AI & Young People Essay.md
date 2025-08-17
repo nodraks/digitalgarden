@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/project-instructions-for-ai-and-young-people-essay/","created":"2025-08-13T15:38:51.970+01:00","updated":"2025-08-17T11:29:04.467+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/project-instructions-for-ai-and-young-people-essay/","created":"2025-08-13T15:38:51.970+01:00","updated":"2025-08-17T22:18:25.314+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -30,7 +30,7 @@ Produce a concise, reflective, and ethically engaged essay (up to 1,500 words) e
 - Can responsible AI use mitigate these dangers effectively, and if so, how?
     
 
-## 4. Phases & Deliverables
+## 4. Stages & Deliverables
 
 1. **Initiation** – Build contextual scaffolding, define terms, set guiding questions, and establish source selection criteria.
     

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/phain-initiation-phase/","created":"2025-08-14T10:08:28.550+01:00","updated":"2025-08-17T22:13:11.895+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/phain-initiation-phase/","created":"2025-08-14T10:08:28.550+01:00","updated":"2025-08-17T22:45:17.930+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
-# The Initiation Phase
+# The Initiation Stage
 
 Earlier, we opened a ChatGPT project space for our essay project and configured it with a good set of project instructions to guide the behaviour of the AI (see [[obsidian/6 - Main Notes/PHAIN/The Problem with Human-AI Interaction#Startup\|The Problem with Human-AI Interaction#Startup]]). We now wanted to focus on preparing the ground for the literature review. 
 
@@ -25,7 +25,6 @@ Typically, all the above would be packaged in a *Project Brief*.
 An *Initiation Stage Plan* will also be needed.
 We will then be in a position to prepare the *Initiation Stage AI Pack*. This will set out how to configure the AI for that stage; i.e. what context it needs in order to support the initiation stage most effectively. We will produce this pack in collaboration with the AI, putting the *Project Brief* and the *Initiation Stage Plan* (and no doubt other material yet to be defined) into its context for that purpose.
 
-
-
-
+---
+---
 

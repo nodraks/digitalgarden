@@ -1,12 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-17T13:06:52.090+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-17T22:45:57.273+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
 # The Problem with Human-AI Interaction
+*PHAIN for short* 
 
 *This is the story of how we used the writing of an essay to learn how AI can be used to support that kind of work. As you read on, please keep in mind that it is a work in progress and not complete.*
+
+---
+## Other pages
+
+[[obsidian/Digital Garden/PHAIN initiation phase\|The Initiation Stage]] 
+[[obsidian/6 - Main Notes/Still in Startup\|Still in Startup]] 
 
 ---
 
