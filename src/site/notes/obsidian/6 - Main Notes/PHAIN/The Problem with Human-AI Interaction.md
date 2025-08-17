@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-17T11:47:37.933+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-17T12:14:16.814+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
 # The Problem with Human-AI Interaction
 
-*As you read on, please keep in mind that this is a work in progress and that it is not complete*
+*This is the story of how we used the writing of an essay to learn how AI can be used to support that kind of work. As you read on, please keep in mind that it is a work in progress and not complete.*
 
 ---
 
@@ -16,11 +16,11 @@ Dennis Silverwood put forward some [[obsidian/6 - Main Notes/PHAIN/Warning Thoug
 
 ## Proposal to research & report
 
-To get a better understanding of the nature of the problem, we propose to write an essay about it. This will examine the dangers posed to young people by the temptation to outsource their thinking to AI, and explore whether responsible use of AI can mitigate these dangers. As well as making us better informed, the essay will serve as a vehicle for learning the practicalities of putting AI to purposeful use.
+To get a better understanding of the nature of the problem, we proposed writing an essay about it. This would examine the dangers posed to young people by the temptation to outsource their thinking to AI, and it would explore whether responsible use of AI can mitigate these dangers. As well as making us better informed, the essay would serve as a vehicle for learning the practicalities of putting AI to purposeful use.
 
 ## Some background about using AI
 
-Some background is needed here.  If we want AI to stay helpful and relevant, we need to give it the right information to hold in its working memory. We can think of what is called **context** as the AI's working memory. [[obsidian/Digital Garden/ChatGPT-5 context architecture\|ChatGPT-5 context architecture]] explains this more full, and another perspective is offered in [[obsidian/Digital Garden/What is context\|What is context]]. For the AI to perform well on our behalf, its context must encompass and keep pace with the progress of the work for which it is assisting us.  [[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] explains how we can handle this during the development of a knowledge-based product. 
+Some background is needed here.  If we want AI to stay helpful and relevant, we need to give it the right information to hold in its working memory - in what is called its **context**. [[obsidian/Digital Garden/ChatGPT-5 context architecture\|ChatGPT-5 context architecture]] explains this more fully, and another perspective is offered in [[obsidian/Digital Garden/What is context\|What is context]]. For the AI to perform well on our behalf, its context must encompass and keep pace with the progress of the work for which it is assisting us.  [[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] explains how we can handle this during the development of a knowledge-based product. 
 
 ## Startup
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-17T11:53:01.878+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-17T12:03:44.201+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -36,6 +36,8 @@ There are similarities with the way we manage a human. The human has a store of 
 As the scale or complexity of a task grows, it becomes increasingly difficult to coordinate the work of humans to achieve a common goal. To overcome this problem, we use project and programme methodologies to structure the work; these provide a form of scaffolding to let the work be carried out safely and effectively. The scaffolding is made strong and stable through a plan which - amongst other things -  divides the work into manageable packages, defines who or what will do the work, when and how it will be done, and what work outputs are required. 
 
 Work whose purpose is well defined and carries an acceptable risk of failure can be organised as a project. The scaffolding for this takes the form of the project plan and related documentation, including external standards. Members of the project team are given roles, which can vary during the project, and assigned tasks. The detailed information they need to carry out their work successfully is held in the project scaffolding. When the work has greater scope and/or complexity, it can be organised as a programme. In this case the scaffolding is provided by the programme management plan and related documentation. 
+
+### AI as a team member
 
 When AI is used by a member of a project team, its characteristics make it more like an additional member of the team than a software tool. The AI, like the human, must be given roles and assigned tasks. It, too, must obtain detailed information from the project scaffolding. Unlike a human, however, the AI cannot yet go and fetch the information it needs; the human user must provide it. The human does does so by putting relevant information into the AI's context. 
 
