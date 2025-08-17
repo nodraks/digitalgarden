@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/phain-initiation-phase/","created":"2025-08-14T10:08:28.550+01:00","updated":"2025-08-17T18:16:19.410+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/phain-initiation-phase/","created":"2025-08-14T10:08:28.550+01:00","updated":"2025-08-17T19:01:43.195+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -14,7 +14,21 @@ Second, we prepared a [[obsidian/Digital Garden/definition of terms\|definition 
 
 ---
 ---
-Have been tidying up, editing, and taking stock of where we've got to. I think I now need to pause for thought. [[obsidian/Digital Garden/Goal-Directed Context Management#AI artefacts\|Goal-Directed Context Management#AI artefacts]] identifies various AI artefacts. I have already produce the bootstrap prompt and arguably the most import part of the AI startup. Other artefacts are:
+Have been tidying up, editing, and taking stock of where we've got to. I think I now need to pause for thought. 
+
+[[obsidian/Digital Garden/Goal-Directed Context Management#AI artefacts\|Goal-Directed Context Management#AI artefacts]] identifies various AI artefacts. I have already produce the bootstrap prompt and arguably a sufficient *AI Startup Pack*. Other artefacts identified so far are:
+
 - AI policy;
 - AI management plan;
 - stage packs.
+
+The *AI Policy* is self-evident in what is currently a one-person+AI project. 
+The *AI Management Plan* sounds as though it should be important, so I'd better give it some thought. But I guess it's an output from the Initiation Stage, and I'll want the AI's help to write it, so the *Initiation Stage AI Pack* must be a good place to go next. To clarify: the purpose of the *Initiation Stage AI Pack* is to configure the AI's context so that it can most effectively help us during the Initiation Stage. 
+
+The AI needs to know what outputs we want from the Initiation Stage, together with descriptions of their purpose, content, and quality criteria.
+- project plan
+- business case
+- project initiation document
+
+
+
