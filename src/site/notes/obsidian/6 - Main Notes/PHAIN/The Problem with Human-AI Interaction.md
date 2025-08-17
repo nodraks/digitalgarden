@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-17T09:35:43.511+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-17T09:46:04.955+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -16,7 +16,7 @@ To get a better understanding of the nature of the problem, we propose to write 
 
 Some background is needed here.  If we want AI to stay helpful and relevant, we need to give it the right information to hold in its working memory. We can think of what is called **context** as the AI's working memory. [[obsidian/Digital Garden/ChatGPT-5 context architecture\|ChatGPT-5 context architecture]] explains this more full, and another perspective is offered in [[obsidian/Digital Garden/What is context\|What is context]]. For the AI to perform well on our behalf, its context must encompass and keep pace with the progress of the work for which it is assisting us.  [[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] explains how we can handle this during the development of a knowledge-based product. 
 
-Turning back to our proposed essay, the starting point was to configure ChatGPT for this work. [[obsidian/Digital Garden/Goal-Directed Context Management#AI artefacts\|Goal-Directed Context Management#AI artefacts]] suggests we should have an AI startup pack to configure the AI for its role at the outset of a project. I hadn't yet thought of that idea, so my startup pack was simply a [[obsidian/6 - Main Notes/PHAIN/PHAIN bootstrap prompt\|bootstrap prompt]]. This gave the AI a fairly detailed explanation of the work we were about to do together, and tasked it to help me create an improved version of it: 
+Turning back to our proposed essay, the starting point was to configure ChatGPT for this work. [[obsidian/Digital Garden/Goal-Directed Context Management#AI artefacts\|Goal-Directed Context Management#AI artefacts]] suggests we should have an *AI startup pack* to configure the AI for its initial role at the outset of a project. I hadn't yet thought of that idea, so my startup pack was simply a [[obsidian/6 - Main Notes/PHAIN/PHAIN bootstrap prompt\|bootstrap prompt]]. This gave the AI an explanation of the work we were about to do together, and tasked it to help me create an improved version of it: 
 
 > Your first task is to advise how this prompt can be improved to make most effective use of your capabilities. But before beginning, review the information you now have in your context and to ask me for any clarification you need. Do nothing else yet.
 
