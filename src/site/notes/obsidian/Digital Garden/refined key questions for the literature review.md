@@ -1,27 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/refined-key-questions-for-the-literature-review/","created":"2025-08-13T16:41:23.689+01:00","updated":"2025-08-16T23:18:59.043+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/refined-key-questions-for-the-literature-review/","created":"2025-08-13T16:41:23.689+01:00","updated":"2025-08-17T14:20:33.097+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
 # Refined Key Questions for Literature Review
 
-I asked the AI to clarify how the key questions should be refined. It explained that the **refinement** wasn’t to change the _scope_ of my existing Key Questions in the [[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]], but to make them **operational** for the literature review, so they act as sorting and tagging criteria rather than just big-picture guiding questions. Right now, in my [[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]], the Key Questions are strategic:
+I asked the AI to suggest how the key questions we had identified earlier should now be refined to make them better suited to a literature review. We didn’t want to change their *scope* (see [[obsidian/Digital Garden/Project Instructions for AI & Young People Essay#3. Key Questions\|Project Instructions for AI & Young People Essay#3. Key Questions]]), simply to make them more **operational** for the literature review, so they can act as sorting and tagging criteria rather than just big-picture guiding questions. 
 
-> - What are the main temptations for young people to outsource their thinking to AI?>     
-> - What dangers arise from these temptations …?     
+Right now, the key questions are strategic:
+
+> What are the main temptations for young people to outsource their thinking to AI?    
+> What dangers arise from these temptations?
 
 For the initiation phase, we can turn these into **research-ready questions** that:
 
 - are **specific enough** to guide what we look for in each source;    
-- map naturally onto table columns, tags, and the temptation–danger–mitigation chain; and 
+- map naturally onto table columns, tags, and a temptation–danger–mitigation chain; and 
 - cover both internal and external sources in the same framework.
 
-The AI offered the following **operational rewrite** of the Key Questions, keeping the original intent but breaking each into practical sub-questions for for use in capturing source material. They seemed good, so I accepted them pending more detailed consideration. The intention is to use these as the **capture criteria** for each source, so that the literature review will naturally produce well-structured content for the later analysis and synthesis phases.
+The AI offered the following operational rewrite of the questions. They seemed good, so I accepted them pending more detailed consideration. The intention is to use these as the **capture criteria** for each source, so that the literature review will naturally produce well-structured content for the later analysis and synthesis phases of work.
 
 ---
 
-### **1. Temptations to Outsource Thinking**
+## Key Questions
+
+### 1. Temptations to Outsource Thinking
 
 **Strategic:** What are the main temptations for young people to outsource their thinking to AI?  
 **Operational Sub-Questions:**
@@ -34,7 +38,7 @@ The AI offered the following **operational rewrite** of the Key Questions, keepi
 
 ---
 
-### **2. Dangers Arising from These Temptations**
+### 2. Dangers Arising from These Temptations
 
 **Strategic:** What dangers arise from these temptations, and how do they manifest differently for university students?  
 **Operational Sub-Questions:**
@@ -49,7 +53,7 @@ The AI offered the following **operational rewrite** of the Key Questions, keepi
 
 ---
 
-### **3. Nature of “Responsible AI Use”**
+### 3. Nature of “Responsible AI Use”
 
 **Strategic:** What constitutes “responsible AI use” in this context?  
 **Operational Sub-Questions:**
@@ -62,7 +66,7 @@ The AI offered the following **operational rewrite** of the Key Questions, keepi
 
 ---
 
-### **4. Mitigation of Dangers Through Responsible AI Use**
+### 4. Mitigation of Dangers Through Responsible AI Use
 
 **Strategic:** Can responsible AI use mitigate these dangers effectively, and if so, how?  
 **Operational Sub-Questions:**
