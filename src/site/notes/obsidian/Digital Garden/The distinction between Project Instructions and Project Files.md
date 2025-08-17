@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/the-distinction-between-project-instructions-and-project-files/","created":"2025-08-13T15:46:51.452+01:00","updated":"2025-08-16T23:13:29.946+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/the-distinction-between-project-instructions-and-project-files/","created":"2025-08-13T15:46:51.452+01:00","updated":"2025-08-17T10:51:47.002+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
 # Distinction between Project Instructions and Project Files
-
-I asked ChatGPT to help me understand the division or boundary between the content of Project Instructions and the content of reference material in Project Files. This is how the AI explained it. 
 
 Here’s a clear way to see the difference — it’s about **function vs. substance**.
 
