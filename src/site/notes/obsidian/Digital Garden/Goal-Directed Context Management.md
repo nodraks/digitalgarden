@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-17T12:03:44.201+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-17T20:06:39.229+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -25,7 +25,7 @@ To set up the standard of behaviour for a group of chats organised as a project,
 
 To make information available to all chats in a project, we upload project files.
 
-Finally, if we need the services of AI specialist, we create a form of agent (called a GPT). We configure the agent with bespoke instructions to make its behaviour appropriate to its role, and we upload reference files to give it a knowledge base. Our agent can then be called in as necessary to provide specialist advice through chats. 
+Finally, if we need the services of an AI specialist, we create a form of agent (called a GPT). We configure the agent with bespoke instructions to make its behaviour appropriate to its role, and we upload reference files to give it a knowledge base. Our agent can then be called in as necessary to provide specialist advice through chats. 
 
  This method of controlling the AI by putting information into its context is similar to the way we control a computer by giving it a program to run. But there is an important difference: a computer executes the instructions in its program precisely; an AI (large language model) interprets the information we give it. We should aim, therefore, to give the AI all the information it needs to avoid losing focus. A vague prompt gets a vague answer. A precise prompt with the right background information gets us something much more useful. 
  
