@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-17T12:14:16.814+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-17T12:19:13.987+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -32,6 +32,6 @@ After I had provided the [[obsidian/6 - Main Notes/PHAIN bootstrap clarification
 
 >Help me understand the division or boundary between the content of Project Instructions and the content of reference material in Project Files.
 
-After it responded with this explanation of the [[obsidian/Digital Garden/The distinction between Project Instructions and Project Files\|distinction between Project Instructions and Project Files]], I instructed the AI to draft a set of project instructions, using the optimised structure we had agreed, while keeping the project files clearly ring-fenced as reference material. After some editing, the outcome was these [[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]]. 
+After it responded with this explanation of the [[obsidian/Digital Garden/The distinction between Project Instructions and Project Files\|distinction between Project Instructions and Project Files]], I told the AI to draft a set of project instructions, using the optimised structure we had agreed, while keeping the project files clearly ring-fenced as reference material. After some editing, the outcome was these [[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]]. 
 
-With this startup pack now installed to govern the AI's work in the essay project, we were ready to turn our attention to the [[obsidian/Digital Garden/PHAIN initiation phase\|initiation phase]]. 
+With this startup pack now installed as project instructions to govern the AI's work in the essay project, we were ready to turn our attention to the [[obsidian/Digital Garden/PHAIN initiation phase\|initiation phase]]. 

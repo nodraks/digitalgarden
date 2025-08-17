@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/phain-initiation-phase/","created":"2025-08-14T10:08:28.550+01:00","updated":"2025-08-17T11:46:53.011+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/phain-initiation-phase/","created":"2025-08-14T10:08:28.550+01:00","updated":"2025-08-17T13:00:07.180+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
 # The Initiation Phase
 
-With [[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]] installed, we now want to focus on a setup that will maximise quality and relevance in the literature review. There was a great deal more to this than I had expected; a reminder of how many projects are setup to fail from the outset by not spending enough effort on getting the foundations right. 
+Earlier, we opened a ChatGPT project space for our essay project and configured it with a good set of project instructions to guide the behaviour of the AI (see [[obsidian/6 - Main Notes/PHAIN/The Problem with Human-AI Interaction#Startup\|The Problem with Human-AI Interaction#Startup]]). We now wanted to focus on preparing the ground for the literature review. 
 
-First, we [[obsidian/Digital Garden/refined key questions for the literature review\|refined key questions for the literature review]]. This prompted me to consider giving the literature review to a team of, say, five people, dividing up the key questions accordingly. See [[obsidian/Digital Garden/team approach to literature review\|team approach to literature review]]. 
+First, we [[obsidian/Digital Garden/refined key questions for the literature review\|refined key questions for the literature review]] and considered the possibility of giving the literature review to a team of, say, five people, dividing up the key questions accordingly. See [[obsidian/Digital Garden/team approach to literature review\|team approach to literature review]]. 
 
-Second, we provided a [[obsidian/Digital Garden/definition of terms\|definition of terms]]. 
+Second, we prepared a [[obsidian/Digital Garden/definition of terms\|definition of terms]]. 
 
 [[obsidian/6 - Main Notes/initiation document\|initiation document]] 
