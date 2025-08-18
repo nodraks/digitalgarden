@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-18T08:18:53.322+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-18T08:55:11.095+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -37,7 +37,7 @@ After some discussion with the AI, we arrived at this [[obsidian/6 - Main Notes/
 
 >Help me understand the division or boundary between the content of Project Instructions and the content of reference material in Project Files.
 
-After it responded with this explanation of the [[obsidian/Digital Garden/The distinction between Project Instructions and Project Files\|distinction between Project Instructions and Project Files]], I told the AI to draft a set of project instructions, using the structure we had agreed earlier, while remembering to keep what would become project files clearly ring-fenced as reference material. After some editing, the outcome was these [[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]]. Together with some reference files, these constituted the *AI Startup Pack* I needed. 
+Tt responded with this explanation of the [[obsidian/Digital Garden/The distinction between Project Instructions and Project Files\|distinction between Project Instructions and Project Files]],  and I told the AI to draft a set of project instructions, using the structure we had agreed earlier, while remembering to keep what would become project files clearly ring-fenced as reference material. After some editing, the outcome was these [[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]]. Together with some reference files, these constituted the *AI Startup Pack* I needed. 
 
 ### Outputs from startup 
 
