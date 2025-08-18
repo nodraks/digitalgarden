@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-18T10:29:13.779+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-18T10:36:34.183+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -25,7 +25,7 @@ Some background is needed here.  If we want AI to stay helpful and relevant, we 
 ## Purpose
 
 We do not at present have the resources to carry out the study suggested above. We can, however, go some way down that path by working with AI to begin setting up such as study. The purpose of doing so is to gain practical experience in the [[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] approach. This will be valuable feedback for AI Anapoly Labs. 
-## The Conduct of Project Startup
+## The Project Startup experiment
 
 ### A bootstrap prompt
 
@@ -56,17 +56,19 @@ Typically, all the above would be packaged in a *Project Brief*. An *Initiation 
 
 To summarise: after producing all the Startup products needed by a conventional project to begin its Initiation Stage, an AI-assisted project must also produce its *Initiation Stage AI Pack*. 
 
-### The project brief 
+### The *Project Brief*  
 
-Task for the AI:  draft a clear description of the project deliverable.
+Task for the AI:  given what's in your context, draft a clear description of the project deliverable.
 Response: initially very quick but muddled, with some nonsense. I told it to think harder, and after 52 seconds it produced a much better effort.
-Outcome: [[obsidian/6 - Main Notes/Product Description - Essay\|Product Description - Essay]] 
+Outcome: a comprehensive first draft of [[obsidian/6 - Main Notes/Product Description - Essay\|Product Description - Essay]] 
 Status: needs review
 
 Task for the AI: draft a rationale / justification for the project
 Response: a good draft
-Outcome: [[obsidian/6 - Main Notes/Rationale for the project\|Rationale for the project]] 
+Outcome: well-written first drafts of the [[obsidian/6 - Main Notes/Rationale for the project\|Rationale for the project]] 
 Status: needs review
+
+To summarise: the AI can provide valuable, time-saving assistance for production of the *Project Brief*. 
 
 ## Findings
 
