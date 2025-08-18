@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-18T10:58:27.983+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-18T11:15:58.357+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -72,7 +72,19 @@ To summarise: the AI can provide valuable, time-saving assistance for production
 
 ## Findings
 
-We explored use of an AI to support the startup of a project to research and write an essay: a knowledge-based product. 
-Similarly to a conventional computer, the first step was to *bootstrap* the AI. This involved prompting it with as good as possible a description of intentions for the project, and then working with it to develop an *AI Startup Pack*. 
+We explored use of an AI to support the startup of a project.
+The purpose of the project was to research and write an essay. 
+Similarly to when using a conventional computer, the first step was to *bootstrap* the AI. This involved prompting it with as good as possible a description of intentions for the project, and then working with it to develop an *AI Startup Pack*. 
 The *AI Startup Pack* consisted of *project instructions* and *reference files*. These were put into the AI's context within a ChatGPT project space. 
-After an initial hiccup, the AI produced good quality, first draft material for use in the *Project Brief*, one of the main outputs from project startup. 
+Working in the project space, after an initial hiccup the AI produced good quality, first draft material for use in the *Project Brief*, one of the main outputs from project startup. 
+
+## Discussion & Recommendations
+
+During *Startup*, there is quite a lot of time spent prepping the AI as compared to doing productive work with it.
+The balance of prep time versus working time will shift heavily towards the latter during *Initiation* and later stages.
+
+Reason for the hiccup: Unless otherwise directed, ChatGPT-5 chooses a reasoning level based on its interpretation of the complexity of the prompt. We need to be explicit about the reasoning level required of it. 
+
+Standard procedure should be to produce all conventional outputs from a given stage in the project, and only then work to produce the *AI Pack* needed to support the following stage. 
+
+[[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] was found to be a good approach to the use of AI within a knowledge-based project. 
