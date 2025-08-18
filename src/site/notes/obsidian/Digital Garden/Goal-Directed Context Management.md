@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-17T20:06:39.229+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-18T09:41:38.727+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
 # Goal-Directed Context Management
-*Status: well advanced, but some important pieces missing. Not yet useable*
+*Status: well advanced* 
 _With acknowledgement to Erling S. Andersen, whose book <a href="https://www.amazon.co.uk/Goal-Directed-Project-Management-Techniques/dp/0749453346">Goal Directed Project Management</a> inspired me in 1988_
 
 ---
