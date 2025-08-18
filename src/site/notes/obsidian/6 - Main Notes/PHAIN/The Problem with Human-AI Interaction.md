@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-18T11:15:58.357+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-18T11:24:23.820+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -87,4 +87,4 @@ Reason for the hiccup: Unless otherwise directed, ChatGPT-5 chooses a reasoning 
 
 Standard procedure should be to produce all conventional outputs from a given stage in the project, and only then work to produce the *AI Pack* needed to support the following stage. 
 
-[[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] was found to be a good approach to the use of AI within a knowledge-based project. 
+[[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] was found to be a good approach to the use of AI within a knowledge-based project. It is recommended for further exploration and development.
