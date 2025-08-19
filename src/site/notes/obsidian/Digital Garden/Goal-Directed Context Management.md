@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-18T09:41:38.727+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-19T08:43:24.853+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -11,9 +11,14 @@ _With acknowledgement to Erling S. Andersen, whose book <a href="https://www.am
 ---
 ## Introduction
 
-This document sets out a framework for managing a large language model such as ChatGPT (aka an AI) when it is being used as a collaborator during the production or editing of knowledge-based products. 
+This document sets out a framework for managing a large language model such as ChatGPT (aka an AI) when it is being used as a collaborator during the production or editing of knowledge-based products. It traces a path through:
 
-### How do we control an AI?
+- how we can manage the behaviour of a large language model (an AI);
+- to be completed
+
+## How do we control an AI?
+
+### Context
 
 To use an AI effectively, we have to configure it's behaviour to suit the purpose of our work. We do this by giving it information in the form of instructions, guidance, questions, and reference material. We put this information into the AI's context to govern how it behaves. See [[obsidian/Digital Garden/What is context\|What is context]] for a more detailed explanation of context. It is important to understand it well. 
 
@@ -60,12 +65,13 @@ The art of goal-directed context management is to align the AI's evolving contex
 
 A knowledge-based product is any output whose primary value lies in the information, expertise, or analysis it contains. This can include documents (books, manuals, reports, policies), structured content (training courses, standards, knowledge bases), and digital artefacts such as software, where the embedded rules, logic, and data represent codified knowledge. In all cases, the emphasis is on creating, organising, and delivering knowledge in a usable form.
 
-The lifecycle of such a product (see Appendix) typically begins with **concept** and **feasibility**, where needs are identified and options assessed. It moves through **definition** and **development**, where requirements are set and the product is created, followed by **acceptance** and **release** to confirm and deliver the output. The product then enters **operation and maintenance**, where it is used, monitored, and updated as necessary, before ultimately reaching **retirement**, when it is withdrawn or replaced. This sequence ensures the product remains valuable and relevant throughout its existence.
+Such a product has a lifecycle (see Appendix). Typically, this begins with **concept** and **feasibility**, where needs are identified and options assessed. It moves through **definition** and **development**, where requirements are set and the product is created, followed by **acceptance** and **release** to confirm and deliver the output. The product then enters **operation and maintenance**, where it is used, monitored, and updated as necessary, before ultimately reaching **retirement**, when it is withdrawn or replaced. This sequence ensures the product remains valuable and relevant throughout its existence.
 
 A goal might be to **develop a comprehensive staff onboarding procedure** that meets compliance requirements and supports consistent training. Another might be to **create a new organisational policy framework** covering governance, ethics, and operational standards. Each can be tackled in different ways, depending on how clearly the goal is defined and how much uncertainty it contains. Two broad approaches stand out:
 
 **Project approach** — used when the goal is well understood and can be defined with little uncertainty. Here, acceptable levels of risk to quality, cost, and time allow for a single, goal-directed project.  
-**Programme approach** — used when the goal contains too much uncertainty for a single tightly-bound project to be viable. The programme comprises successive phases, each with a well-defined purpose that is delivered using the project approach. The purpose is to reduce uncertainty and progressively stabilise towards a well-defined goal. By its nature, a complex goal will usually require this programme approach.
+
+**Programme approach** — used when the goal is complex or contains too much uncertainty for a single tightly-bound project to be viable. The programme comprises successive phases, each with a well-defined objective that is delivered using the project approach. Uncertainty and risk are reduced progressively through successive phases, and the programme stabilises towards a well-defined goal. 
 ## Project Approach
 
 For a knowledge-based product, a typical project might have the following stages:
