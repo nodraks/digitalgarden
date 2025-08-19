@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/using-ai-with-your-second-brain/","created":"2025-08-19T12:19:57.468+01:00","updated":"2025-08-19T13:16:05.272+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/using-ai-with-your-second-brain/","created":"2025-08-19T12:19:57.468+01:00","updated":"2025-08-19T14:26:17.402+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -9,7 +9,7 @@
 
 ---
 
-In my experience, the learning and retention of knowledge comes through writing down and working through ideas. The process of thinking about what words to write crystallises half-formed ideas into a fuller understanding that is then held in my memory. When working with an AI, it can serve a useful purpose in asking me to clarify things, forcing me to think them through and write them down in order to get it to do what I want. But do I begin to lose agency if I then use its output without putting it through my *writing down* process? By agency, I mean the capacity for independent thought. 
+In my experience, the learning and retention of knowledge comes through writing down ideas. The process of thinking about what words to write crystallises half-formed ideas into a fuller understanding, which is then held in my memory. When working with an AI, it can serve a useful purpose in asking me to clarify things, forcing me to think them through and write them down in order to get it to do what I want. But do I begin to lose agency if I then use its output without putting it through my *writing down* process? By agency, I mean the capacity for independent thought. 
 
 I use Obsidian as a personal knowledge management system (PKM) or *second brain*. It contains many notes. I find it is important to write the notes myself in order to retain the knowledge they contain. However, sometimes it is useful to capture information directly from the web or YouTube, for example when I don't have time to make my own written notes about it. There is an Obsidian plugin to automate this process. 
 
