@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-19T07:47:13.109+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-19T07:48:13.108+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -45,7 +45,7 @@ It responded with this explanation of the [[obsidian/Digital Garden/The distinct
 
 ### Outputs required from startup 
 
-With the *AI Startup Pack* now installed in the AI's context (in its project instructions and project files), the question was: what outputs are required from the startup process of the e? They might include:
+With the *AI Startup Pack* now installed in the AI's context (in its project instructions and project files), the question was: what outputs are required from the startup process of the wider project to write the essay? They might include:
 
 - a clear description of the project deliverable;
 - a rationale / justification for undertaking the project;
