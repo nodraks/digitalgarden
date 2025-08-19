@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-19T07:48:13.108+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-19T07:57:13.657+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -47,12 +47,14 @@ It responded with this explanation of the [[obsidian/Digital Garden/The distinct
 
 With the *AI Startup Pack* now installed in the AI's context (in its project instructions and project files), the question was: what outputs are required from the startup process of the wider project to write the essay? They might include:
 
-- a clear description of the project deliverable;
+- a clear description of the project deliverable (the essay itself);
 - a rationale / justification for undertaking the project;
-- the management structure for the project;
+- the intended management structure for the project;
 - the project approach.
 
-Typically, all the above would be packaged in a *Project Brief*. An *Initiation Stage Plan* would also be needed, setting out the work needed to produce Initiation Stage outputs such as the project plan. In a conventional project, we would then move into the Initiation Stage. In an AI-assisted project, however, we must first produce the *Initiation Stage AI Pack*. This sets out the AI's configuration for that stage; i.e. it defines the context needed by the AI in order to support the initiation stage most effectively. 
+Typically, all the above would be packaged in a *Project Brief*. An *Initiation Stage Plan* would also be required, setting out the work needed to produce outputs from the Initiation Stage such as the *Project Plan*. 
+
+In a conventional project, we would then move into the Initiation Stage. In an AI-assisted project, however, we must first produce the *Initiation Stage AI Pack*. This sets out the AI's configuration for that stage; i.e. it defines the context needed by the AI in order to support the Initiation Stage most effectively. 
 
 To summarise: after producing all the Startup products needed by a conventional project to begin its Initiation Stage, an AI-assisted project must also produce its *Initiation Stage AI Pack*. 
 
@@ -72,16 +74,15 @@ To summarise: the AI can provide valuable, time-saving assistance for production
 
 ## Findings
 
-We explored use of an AI to support the startup of a project.
-The purpose of the project was to research and write an essay. 
 Similarly to when using a conventional computer, the first step was to *bootstrap* the AI. This involved prompting it with as good as possible a description of intentions for the project, and then working with it to develop an *AI Startup Pack*. 
-The *AI Startup Pack* consisted of *project instructions* and *reference files*. These were put into the AI's context within a ChatGPT project space. 
-Working in the project space, after an initial hiccup the AI produced good quality, first draft material for use in the *Project Brief*, one of the main outputs from project startup. 
+
+The *AI Startup Pack* consisted of *project instructions* and *reference files*. These were put into the AI's context within a ChatGPT project space. Working in that project space, after an initial hiccup the AI produced good quality first draft material for use in the *Project Brief*, one of the main outputs from project startup. 
 
 ## Discussion & Recommendations
 
-During *Startup*, there is quite a lot of time spent prepping the AI as compared to doing productive work with it.
-The balance of prep time versus working time will shift heavily towards the latter during *Initiation* and later stages.
+We explored use of an AI to support the startup of a project. The purpose of the project was to research and write an essay. 
+
+During *Startup*, there is quite a lot of time spent prepping the AI as compared to doing productive work with it. The balance of prep time versus working time will shift heavily towards the latter during *Initiation* and later stages.
 
 Reason for the hiccup: Unless otherwise directed, ChatGPT-5 chooses a reasoning level based on its interpretation of the complexity of the prompt. We need to be explicit about the reasoning level required of it. 
 
