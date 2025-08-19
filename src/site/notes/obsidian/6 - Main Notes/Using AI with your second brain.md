@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/using-ai-with-your-second-brain/","created":"2025-08-19T12:19:57.468+01:00","updated":"2025-08-19T14:26:17.402+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/using-ai-with-your-second-brain/","created":"2025-08-19T12:19:57.468+01:00","updated":"2025-08-19T14:35:41.011+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -15,9 +15,9 @@ I use Obsidian as a personal knowledge management system (PKM) or *second brain*
 
 To keep a boundary between my own thinking and AI output, I tag directly-captured notes *Includes AI* and put them into a separate folder of that name. 
 
-There are plugins for Obsidian that can create an embedding for some or all of the notes in a vault. It is then possible to find connections between an individual note and the embedded content or (I believe) a topic or subject matter of interest. Because I have separated notes with my own thinking from those that include AI, I will be able to find connections in only one of these areas or in both. I can retain agency by using those connections to develop my own thinking and then to write new or edit my own, AI-free notes. 
+There are plugins for Obsidian that can create an embedding for some or all of the notes in a vault. An embedding transforms ordinary words and sentences into numbers (vectors) that AI can understand. The plugin is then able to find connections between an individual note or a subject matter of interest and the embedded content. Because I have separated notes with my own thinking from those that include AI, I will be able to find connections in only one of these areas or in both. If I use those connections to develop my own thinking and then write new notes or edit ones, I can retain agency. 
 
-It is possible, also, to chat with an AI about the content of my notes. This can be done by connecting my Obsidian vault to a cloud-based AI such as ChatGPT. Or if I want my thinking to be kept entirely private, I can install an AI locally on my own computer. In effect, this becomes a local equivalent of NotebookLM. It's an interesting and potentially powerful idea. 
+It is possible, also, to chat with an AI about the embedded content of my notes. This can be done by connecting my Obsidian vault to a cloud-based AI such as ChatGPT. Or if I want my thinking to be kept entirely private, I can install an AI locally on my own computer. In effect, this becomes a local equivalent of NotebookLM. It's an interesting and powerful idea. 
 
 ---
 *Tags*: [[obsidian/3 - Tags/PKM\|PKM]] [[obsidian/3 - Tags/agency\|agency]] 
