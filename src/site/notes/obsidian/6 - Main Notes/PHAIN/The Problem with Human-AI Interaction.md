@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-19T07:40:25.090+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-19T07:47:13.109+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -29,7 +29,7 @@ We do not at present have the resources to carry out the study suggested above. 
 
 ### A bootstrap prompt
 
-The starting point is to configure ChatGPT so that it can begin to help us with this work. [[obsidian/Digital Garden/Goal-Directed Context Management#AI artefacts\|Goal-Directed Context Management#AI artefacts]] suggests we should have an *AI startup pack* to configure the AI for its initial role at the outset of a project. To obtain that, I began with a [[obsidian/6 - Main Notes/PHAIN/PHAIN bootstrap prompt\|bootstrap prompt]]. This gave the AI an explanation of the work we were about to do together, and tasked it to help me create an improved version of the prompt. 
+The starting point was to configure ChatGPT so that it could begin to help us with this work. [[obsidian/Digital Garden/Goal-Directed Context Management#AI artefacts\|Goal-Directed Context Management#AI artefacts]] suggests we should have an *AI startup pack* to configure the AI for its initial role at the outset of a project. To obtain that, I began with a [[obsidian/6 - Main Notes/PHAIN/PHAIN bootstrap prompt\|bootstrap prompt]]. This gave the AI an explanation of the work we were about to do together, and tasked it to help me create an improved version of the prompt. 
 
 > Your first task is to advise how this prompt can be improved to make most effective use of your capabilities. But before beginning, review the information you now have in your context and ask me for any clarification you need. Do nothing else yet.
 
@@ -41,11 +41,11 @@ After some discussion with the AI, we arrived at this [[obsidian/6 - Main Notes/
 
 >Help me understand the division or boundary between the content of Project Instructions and the content of reference material in Project Files.
 
-It responded with this explanation of the [[obsidian/Digital Garden/The distinction between Project Instructions and Project Files\|distinction between Project Instructions and Project Files]]. With this in its memory, I told the AI to draft a set of project instructions, using the structure we had agreed earlier, while remembering to keep what would become project files clearly ring-fenced as reference material. After some editing, the outcome was these [[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]]. Together with some reference files, these constitute the *AI Startup Pack*. 
+It responded with this explanation of the [[obsidian/Digital Garden/The distinction between Project Instructions and Project Files\|distinction between Project Instructions and Project Files]]. With this in its memory, I told the AI to draft a set of project instructions, using the structure we had agreed earlier, while remembering to keep what would become project files clearly ring-fenced as reference material. After some editing, the outcome was these [[obsidian/Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]]. Together with some reference files, these constituted the *AI Startup Pack*. 
 
 ### Outputs required from startup 
 
-With the *AI Startup Pack* now installed, the question was: what outputs are required from the startup process? They might include:
+With the *AI Startup Pack* now installed in the AI's context (in its project instructions and project files), the question was: what outputs are required from the startup process of the e? They might include:
 
 - a clear description of the project deliverable;
 - a rationale / justification for undertaking the project;
