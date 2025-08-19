@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-19T08:00:58.516+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-19T08:12:49.011+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -89,3 +89,7 @@ Reason for the AI's initial hiccup: Unless otherwise directed, ChatGPT-5 chooses
 Standard procedure should be to produce all conventional outputs required from a given stage in the project, and only then produce the *AI Pack* needed to support the the next stage of work. 
 
 [[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] was found to be a good approach to the use of AI within a knowledge-based project. It is recommended for further exploration and development.
+
+## Reflections
+
+In my experience, the learning and retention of knowledge comes through writing down and working through ideas. For example, the process of thinking about what words to write in the Introduction to [[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] crystallised half-formed ideas into a fuller understanding that is now held in my memory. The AI served a useful purpose in asking me to clarify things, forcing me to write them down and think them through. But did I begin to lose agency as it then repackaged my ideas in useful ways?
