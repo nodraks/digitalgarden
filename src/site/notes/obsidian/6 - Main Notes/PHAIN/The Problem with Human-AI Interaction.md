@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-18T11:24:23.820+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-19T07:38:28.637+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -24,7 +24,7 @@ Some background is needed here.  If we want AI to stay helpful and relevant, we 
 
 ## Purpose
 
-We do not at present have the resources to carry out the study suggested above. We can, however, go some way down that path by working with AI to begin setting up such as study. The purpose of doing so is to gain practical experience in the [[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] approach. This will be valuable feedback for AI Anapoly Labs. 
+We do not at present have the resources to carry out the study suggested above. We can, however, go some way down that path by using AI to begin setting up such as study. The purpose of doing so is to test the value of the [[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] approach. 
 ## The Project Startup experiment
 
 ### A bootstrap prompt
