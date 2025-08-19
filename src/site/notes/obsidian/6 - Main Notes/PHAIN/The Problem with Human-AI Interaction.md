@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-19T07:38:28.637+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-19T07:40:25.090+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -29,9 +29,9 @@ We do not at present have the resources to carry out the study suggested above. 
 
 ### A bootstrap prompt
 
-The starting point is to configure ChatGPT so that it could begin to help us with this work. [[obsidian/Digital Garden/Goal-Directed Context Management#AI artefacts\|Goal-Directed Context Management#AI artefacts]] suggests we should have an *AI startup pack* to configure the AI for its initial role at the outset of a project. To obtain that, I began with a [[obsidian/6 - Main Notes/PHAIN/PHAIN bootstrap prompt\|bootstrap prompt]]. This gave the AI an explanation of the work we were about to do together, and tasked it to help me create an improved version of the prompt. 
+The starting point is to configure ChatGPT so that it can begin to help us with this work. [[obsidian/Digital Garden/Goal-Directed Context Management#AI artefacts\|Goal-Directed Context Management#AI artefacts]] suggests we should have an *AI startup pack* to configure the AI for its initial role at the outset of a project. To obtain that, I began with a [[obsidian/6 - Main Notes/PHAIN/PHAIN bootstrap prompt\|bootstrap prompt]]. This gave the AI an explanation of the work we were about to do together, and tasked it to help me create an improved version of the prompt. 
 
-> Your first task is to advise how this prompt can be improved to make most effective use of your capabilities. But before beginning, review the information you now have in your context and to ask me for any clarification you need. Do nothing else yet.
+> Your first task is to advise how this prompt can be improved to make most effective use of your capabilities. But before beginning, review the information you now have in your context and ask me for any clarification you need. Do nothing else yet.
 
 Once I had provided the [[obsidian/6 - Main Notes/PHAIN bootstrap clarification\|clarification]] it sought, the AI responded with this [[obsidian/6 - Main Notes/PHAIN startup prompt\|startup prompt]]. It was a useful step forward, but I realised that what I really needed was a set of *project instructions*; I would be setting up a ChatGPT project for the essay work, and would need to manage the AI's behaviour in that space.  
 
