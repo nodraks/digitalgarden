@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-19T07:57:13.657+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-19T08:00:58.516+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -82,10 +82,10 @@ The *AI Startup Pack* consisted of *project instructions* and *reference files*.
 
 We explored use of an AI to support the startup of a project. The purpose of the project was to research and write an essay. 
 
-During *Startup*, there is quite a lot of time spent prepping the AI as compared to doing productive work with it. The balance of prep time versus working time will shift heavily towards the latter during *Initiation* and later stages.
+During *Startup*, there was quite a lot of time spent prepping the AI as compared to doing productive work with it. The balance of prep time versus productive working time is likely to shift heavily towards the latter during *Initiation* and later stages.
 
-Reason for the hiccup: Unless otherwise directed, ChatGPT-5 chooses a reasoning level based on its interpretation of the complexity of the prompt. We need to be explicit about the reasoning level required of it. 
+Reason for the AI's initial hiccup: Unless otherwise directed, ChatGPT-5 chooses a reasoning level based on its interpretation of the complexity of the prompt. It underestimated, in this case. Prompts need to be explicit about the reasoning level required of it. 
 
-Standard procedure should be to produce all conventional outputs from a given stage in the project, and only then work to produce the *AI Pack* needed to support the following stage. 
+Standard procedure should be to produce all conventional outputs required from a given stage in the project, and only then produce the *AI Pack* needed to support the the next stage of work. 
 
 [[obsidian/Digital Garden/Goal-Directed Context Management\|Goal-Directed Context Management]] was found to be a good approach to the use of AI within a knowledge-based project. It is recommended for further exploration and development.
