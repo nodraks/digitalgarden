@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/goal-directed-context-management/","created":"2025-08-20T09:29:12.259+01:00","updated":"2025-08-20T12:25:31.869+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/goal-directed-context-management/","created":"2025-08-20T09:29:12.259+01:00","updated":"2025-08-20T12:29:18.720+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -82,15 +82,15 @@ The art lies in always aligning the AI’s context with the purpose and structur
 
 A knowledge‑based product is any output whose primary value lies in information, expertise, or analysis: books, manuals, policies, courses, standards, knowledge bases, or even software where rules and data embody codified knowledge. Such products follow a lifecycle:
 
-1. **Concept** → need identified.
-2. **Feasibility** → options evaluated.
-3. **Definition** → requirements specified.
-4. **Development** → content created.
-5. **Acceptance** → validated and signed off.
-6. **Release** → delivered to the audience.
-7. **Operation** → used in practice.
-8. **Maintenance** → updated for accuracy and relevance.
-9. **Retirement** → withdrawn or replaced.    
+	**Concept** → need identified.
+	**Feasibility** → options evaluated.
+	**Definition** → requirements specified.
+	**Development** → content created.
+	**Acceptance** → validated and signed off.
+	**Release** → delivered to the audience.
+	**Operation** → used in practice.
+	**Maintenance** → updated for accuracy and relevance.
+	**Retirement** → withdrawn or replaced.    
 
 ## Project approach example
 
@@ -99,9 +99,7 @@ The **staff onboarding procedure** illustrates the project approach: the goal is
 In the _Design & Planning_ stage, the contextual scaffolding includes:
 
 - **Current context**: structure of the onboarding document, latest drafts, compliance requirements, and action items. Old exploratory material from Initiation is excluded to prevent drift.
-    
 - **Persistent context**: project objectives, target audience, scope, tone, quality standards, approved plan, HR manuals, and legal guidelines. This ensures connection to the big picture.
-    
 
 ---
 
