@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/goal-directed-context-management/","created":"2025-08-20T09:29:12.259+01:00","updated":"2025-08-20T12:02:47.907+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/goal-directed-context-management/","created":"2025-08-20T09:29:12.259+01:00","updated":"2025-08-20T12:17:59.377+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -15,12 +15,9 @@ With acknowledgement to Erling S. Andersen, whose book *Goal Directed Project M
 
 This document sets out a framework for managing a large language model such as ChatGPT (aka an AI) when it is being used as a collaborator during the production or editing of knowledge-based products. It traces a path through:
 
-- how we manage the behaviour of a large language model (an AI);
-    
-- how we can adapt that behaviour to suit the AI's changing role over the course of work; and
-    
-- the use of project and programme management to provide the scaffolding needed to keep the AI focused and effective over the lifecycle of an information-based product.
-    
+- how we manage the behaviour of a large language model (an AI);    
+- how we can adapt that behaviour to suit the AI's changing role over the course of work; and    
+- the use of project and programme management to provide the scaffolding needed to keep the AI focused and effective over the lifecycle of an information-based product.    
 
 Finally, there are examples of the project and programme approaches applied to an information-based product.
 
