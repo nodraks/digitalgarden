@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/goal-directed-context-management/","created":"2025-08-20T09:29:12.259+01:00","updated":"2025-08-20T12:19:42.706+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/goal-directed-context-management/","created":"2025-08-20T09:29:12.259+01:00","updated":"2025-08-20T12:25:31.869+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -21,8 +21,6 @@ This document sets out a framework for managing a large language model such as C
 
 Finally, there are examples of the project and programme approaches applied to an information-based product.
 
----
-
 ## What is context?
 
 **Context** is the information we give an AI to control its behaviour. It is additional to the knowledge it learned during training. We cannot alter the AI’s learned knowledge, but we can build its context by supplying instructions, guidance, questions, and reference material. The better the context, the better the output: a vague prompt yields a vague answer; a precise prompt with the right background yields something much more useful.
@@ -30,36 +28,24 @@ Finally, there are examples of the project and programme approaches applied to a
 We can shape context in different ways:
 
 - **Custom instructions** → apply across all chats.
-    
 - **Project instructions** and **project files** → apply across grouped chats in a project.
-    
 - **Prompts, canvas, file uploads** → apply within a single chat.
-    
 - **Agents (GPTs)** → bespoke roles configured with tailored instructions and reference material.
-    
 
 This method of steering an AI by loading its context is akin to programming a computer. But unlike a computer, which executes instructions precisely, an AI interprets them. This is more like managing a human: the AI, like a colleague, needs guidance, role definition, and access to reference material, but will interpret what it receives.
-
----
 
 ## Managing scale and uncertainty
 
 Ad‑hoc prompting works for small tasks. As scale or complexity grows, this breaks down. Coordination becomes difficult, and there is a risk of the AI drifting or becoming overloaded. To manage larger or riskier work, we borrow scaffolding from project and programme management.
 
 - A **project** is suitable when the goal is well defined and risk is acceptable. It progresses through stages, and its scaffolding includes plans, roles, tasks, and standards.
-    
 - A **programme** is needed when the goal is broader or less certain. It progresses through phases, each reducing uncertainty and risk, until the goal stabilises.
-    
 
 This scaffolding provides the plan, roles, information, and outputs needed to keep both humans and AI aligned.
-
----
 
 ## AI as a team member
 
 When AI is used by a project team member, its characteristics make it more like an additional team member than a tool. The AI, like the human, must be given roles and tasks. It, too, must obtain information from the project scaffolding. Unlike a human, the AI cannot yet autonomously fetch what it needs; a human must load the right material into its context. Tools may automate this step, but it still relies on human choice and setup.
-
----
 
 ## Contextual scaffolding
 
@@ -74,62 +60,37 @@ Contextual scaffolding has two layers:
 
 By pruning old material from the current context and keeping persistent context stable, the AI remains focused while still connected to the big picture.
 
----
-
 ## AI artefacts
 
 The project plan governs the creation and timing of AI artefacts. These artefacts live within the contextual scaffolding:
 
 - **Bootstrap prompt** → configures the AI so it can help create the startup pack.
-    
 - **AI startup pack** → sets the AI’s initial objective: to help initiate the project by outlining contextual scaffolding and assisting with artefact definition.
-    
 - **Stage packs** → keep the AI aligned with the uses intended for each project stage; they begin in outline and fill with content as work progresses.
-    
 - **GPT packs** → create specialist AI agents configured with bespoke knowledge.
-    
 - **Information packs** → tailored inputs for other AIs in use.
-    
-
----
 
 ## The art of goal‑directed context management
 
 The art lies in always aligning the AI’s context with the purpose and structure of the project or programme. Three rules of thumb:
 
 1. **Choose the right scaffolding** → project for well‑defined goals; programme for uncertain or complex goals.
-    
 2. **Split context** → persistent for enduring references; current for stage‑specific work.
-    
-3. **Evolve artefacts** → update stage packs as the work moves forward; retire outdated current context to prevent drift.
-    
-
----
+3. **Evolve artefacts** → update stage packs as the work moves forward; retire outdated current context to prevent drift.    
 
 ## Knowledge‑based products
 
 A knowledge‑based product is any output whose primary value lies in information, expertise, or analysis: books, manuals, policies, courses, standards, knowledge bases, or even software where rules and data embody codified knowledge. Such products follow a lifecycle:
 
 1. **Concept** → need identified.
-    
 2. **Feasibility** → options evaluated.
-    
 3. **Definition** → requirements specified.
-    
 4. **Development** → content created.
-    
 5. **Acceptance** → validated and signed off.
-    
 6. **Release** → delivered to the audience.
-    
 7. **Operation** → used in practice.
-    
 8. **Maintenance** → updated for accuracy and relevance.
-    
-9. **Retirement** → withdrawn or replaced.
-    
-
----
+9. **Retirement** → withdrawn or replaced.    
 
 ## Project approach example
 
@@ -149,15 +110,10 @@ In the _Design & Planning_ stage, the contextual scaffolding includes:
 The **policy framework** illustrates the programme approach: the objective is broad and uncertain, requiring phased reduction of uncertainty.
 
 - **Persistent context**: overarching objectives, governance arrangements, and phase plans.
-    
 - **Current context**: tightly scoped to the phase in progress — e.g., framework structure, key requirements, draft policy themes.
-    
-- **Referenced files**: the bulk of programme material (consultation summaries, draft sections, legal reviews, plans) are stored outside the current context. Humans load in only what is needed to keep the AI focused.
-    
+- **Referenced files**: the bulk of programme material (consultation summaries, draft sections, legal reviews, plans) are stored outside the current context. Humans load in only what is needed to keep the AI focused.    
 
 By narrowing unknowns each phase, the programme steadily stabilises towards its goal.
-
----
 
 ## Conclusion
 
