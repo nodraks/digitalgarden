@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/goal-directed-context-management/","created":"2025-08-20T09:29:12.259+01:00","updated":"2025-08-20T12:29:18.720+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/goal-directed-context-management/","created":"2025-08-20T09:29:12.259+01:00","updated":"2025-08-20T12:38:09.633+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -94,7 +94,7 @@ A knowledge‑based product is any output whose primary value lies in informatio
 
 ## Project approach example
 
-The **staff onboarding procedure** illustrates the project approach: the goal is clear and risk is acceptable.
+The example of a **[[obsidian/Digital Garden/example of the project approach\|staff onboarding procedure]]** illustrates the project approach: the goal is clear and risk is acceptable.
 
 In the _Design & Planning_ stage, the contextual scaffolding includes:
 
@@ -105,7 +105,7 @@ In the _Design & Planning_ stage, the contextual scaffolding includes:
 
 ## Programme approach example
 
-The **policy framework** illustrates the programme approach: the objective is broad and uncertain, requiring phased reduction of uncertainty.
+The **[[obsidian/Digital Garden/example of the programme approach\|policy framework example]]** illustrates the programme approach: the objective is broad and uncertain, requiring phased reduction of uncertainty.
 
 - **Persistent context**: overarching objectives, governance arrangements, and phase plans.
 - **Current context**: tightly scoped to the phase in progress — e.g., framework structure, key requirements, draft policy themes.

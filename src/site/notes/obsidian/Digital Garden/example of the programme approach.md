@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/example-of-the-programme-approach/","created":"2025-08-15T08:10:20.421+01:00","updated":"2025-08-15T08:11:16.040+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/example-of-the-programme-approach/","created":"2025-08-15T08:10:20.421+01:00","updated":"2025-08-20T12:35:31.300+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
