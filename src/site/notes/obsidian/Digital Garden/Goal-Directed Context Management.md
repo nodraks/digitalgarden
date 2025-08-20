@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-20T08:08:15.635+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-20T08:21:09.155+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -13,9 +13,11 @@ _With acknowledgement to Erling S. Andersen, whose book <a href="https://www.am
 
 This document sets out a framework for managing a large language model such as ChatGPT (aka an AI) when it is being used as a collaborator during the production or editing of knowledge-based products. It traces a path through:
 
-- how we can manage the behaviour of a large language model (an AI);
-- adapting that behaviour to suit the AI's changing role over the course of work;
-- 
+- how we manage the behaviour of a large language model (an AI);
+- how we can adapt that behaviour to suit the AI's changing role over the course of work; and
+- the use of project and programme management to provide the scaffolding needed to keep the AI focused and effective over the lifecycle of an information-based product. 
+
+Finally, there are examples of the project and programme approaches applied to an information-based product.
 
 ## How do we control an AI?
 
@@ -104,7 +106,9 @@ For a knowledge-based product, a typical programme might have the following phas
 - **Acceptance** → stakeholder review, validation of accuracy, sign-off for publication.
     
 - **Operation & Maintenance** → publishing, version control, updates, ongoing relevance checks.
-## Example of the Project Approach
+## Examples
+
+### Project Approach
 
 Here is an [[obsidian/Digital Garden/example of the project approach\|example of the project approach]] applied to the creation of a staff onboarding procedure. 
 
@@ -114,7 +118,7 @@ The **current context** is the stage-specific working information actively loade
 
 The **persistent context** holds the enduring reference framework for the project. This includes the project instructions — overall objectives, target audience, scope boundaries, tone, and quality standards — and referenced files such as the approved project plan, HR manuals, legal guidelines, and IT setup checklists. Persistent context ensures the AI retains a clear understanding of the big picture — how the current stage connects to prior work and fits into the overall sequence toward final delivery.
 
-## Example of the Programme Approach
+### Programme Approach
 
 Here is an [[obsidian/Digital Garden/example of the programme approach\|example of the programme approach]] applied to the development of a policy framework. In a programme such as this, the **volume and diversity of information** will be significantly greater than in a single project. Multiple phases will generate numerous and often lengthy documents: consultation summaries, draft policy sections, legal reviews, implementation plans, and more.
 
