@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-19T08:43:24.853+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/goal-directed-context-management/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-20T08:08:15.635+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -14,7 +14,8 @@ _With acknowledgement to Erling S. Andersen, whose book <a href="https://www.am
 This document sets out a framework for managing a large language model such as ChatGPT (aka an AI) when it is being used as a collaborator during the production or editing of knowledge-based products. It traces a path through:
 
 - how we can manage the behaviour of a large language model (an AI);
-- to be completed
+- adapting that behaviour to suit the AI's changing role over the course of work;
+- 
 
 ## How do we control an AI?
 
@@ -46,17 +47,19 @@ Work whose purpose is well defined and carries an acceptable risk of failure can
 
 When AI is used by a member of a project team, its characteristics make it more like an additional member of the team than a software tool. The AI, like the human, must be given roles and assigned tasks. It, too, must obtain detailed information from the project scaffolding. Unlike a human, however, the AI cannot yet go and fetch the information it needs; the human user must provide it. The human does does so by putting relevant information into the AI's context. 
 
-Information required for input to the AI's context over the course of the project is held in a part of the project scaffolding called the contextual scaffolding. Although closely integrated with other parts of the project scaffolding, the contextual scaffolding has a distinct purpose: to hold the information - AI artefacts - needed to manage the behaviour and effectiveness of the AI over the course of the project. The contextual scaffolding is the responsibility of the project's AI manager. 
+Information required for input to the AI's context over the course of the project is held in a part of the project scaffolding called the contextual scaffolding. Although closely integrated with other parts of the project scaffolding, the contextual scaffolding has a distinct purpose: to hold the information - AI artefacts - needed to manage the behaviour and effectiveness of the AI over the course of the project. The contextual scaffolding is the responsibility of the project's AI manager.
+
+Human members of a project team can have different roles at different times, and the membership of the team usually changes over the course of the project to match the need for different expertise and capabilities. The same applies to AI. It is given different roles by reconfiguring its context to change its behaviour (its *persona*) as appropriate to the task in hand. *Agents* (in the form of what OpenAI calls *GPT*s) are set up to provide different kinds of specialist knowledge when needed. Different AI's are  engaged to provide entirely different capabilities as required. 
 
 ### AI artefacts
 
-The nature, required content, and production timetable for AI artefacts are governed by and tied to the project plan. Artefacts in the contextual scaffolding include:
-- AI policy;
-- AI management plan;
+The nature, required content, and production timetable for AI artefacts are governed by and tied to the project plan. Artefacts in the contextual scaffolding include an AI policy and an AI management plan. For an AI such as ChatGPT, there need to be:
+
 - a bootstrap prompt to configure the AI so that it can help create the startup pack;
 - an AI startup pack to configure the AI at the outset of the project, when its objective will be to help initiate the project by outlining the contextual scaffolding and assisting with the definition of AI artefacts;
 - stage packs tailored to the varying uses intended for the AI over the course of the project (as with other project artefacts, these begin life in outline form and gain content as the project progresses);
-- GPT packs to create the specialist AI agents that are needed. 
+- GPT packs to create the specialist AI agents that are needed;
+- information packs tailored to the specific needs of any other AIs being used. 
 
 ### The art of goal-directed context management
 
