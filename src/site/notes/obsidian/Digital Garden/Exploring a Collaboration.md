@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/digital-garden/exploring-a-collaboration/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-12T12:12:17.365+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/digital-garden/exploring-a-collaboration/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-20T12:12:47.979+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
-# Exploring a collaboration
+# Exploring a collaboration  
+**[[obsidian/6 - Main Notes/Status of ideas in the digital garden\|Status]]:** ✅ Seed → 🔸 Growing → 🔸 Well-formed → 🔸 Adapting → 🔸 Retired
 
 ---
 ## Background

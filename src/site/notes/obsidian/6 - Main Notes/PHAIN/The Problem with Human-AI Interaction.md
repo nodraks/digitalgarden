@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-20T10:57:34.823+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/phain/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-20T12:11:47.268+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
@@ -7,7 +7,8 @@
 # The Problem with Human-AI Interaction
 *PHAIN for short* 
 
-*This is the story of how we used the writing of an essay to learn how AI can be used to support that kind of work. As you read on, please keep in mind that it is a work in progress.*
+*This is the story of how we used the writing of an essay to learn how AI can be used to support that kind of work. As you read on, please keep in mind that it is a work in progress.*  
+**[[obsidian/6 - Main Notes/Status of ideas in the digital garden\|Status]]:** 🔸 Seed → 🔸 Growing → 🔸 Well-formed → ✅ Adapting → 🔸 Retired
 
 ---
 ## The problem

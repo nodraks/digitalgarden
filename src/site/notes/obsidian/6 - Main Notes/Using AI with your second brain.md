@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/6-main-notes/using-ai-with-your-second-brain/","created":"2025-08-19T12:19:57.468+01:00","updated":"2025-08-19T14:35:41.011+01:00"}
+{"dg-publish":true,"permalink":"/obsidian/6-main-notes/using-ai-with-your-second-brain/","created":"2025-08-19T12:19:57.468+01:00","updated":"2025-08-20T12:08:25.823+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[obsidian/Digital Garden/Digital Garden\|Digital Garden]] 
 
 # Using AI with your second brain
-*whilst retaining agency*
+*whilst retaining agency*  
+**[[obsidian/6 - Main Notes/Status of ideas in the digital garden\|Status]]:** 🔸 Seed → ✅ Growing → 🔸 Well-formed → 🔸 Adapting → 🔸 Retired
 
 ---
 
