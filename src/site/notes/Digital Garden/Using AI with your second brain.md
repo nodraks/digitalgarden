@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/using-ai-with-your-second-brain/","created":"2025-08-19T12:19:57.468+01:00","updated":"2025-08-20T12:08:25.823+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/using-ai-with-your-second-brain/","created":"2025-08-19T12:19:57.468+01:00","updated":"2025-08-21T23:07:52.024+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -14,7 +14,7 @@ In my experience, the learning and retention of knowledge comes through writing 
 
 I use Obsidian as a personal knowledge management system (PKM) or *second brain*. It contains many notes. I find it is important to write the notes myself in order to retain the knowledge they contain. However, sometimes it is useful to capture information directly from the web or YouTube, for example when I don't have time to make my own written notes about it. There is an Obsidian plugin to automate this process. 
 
-To keep a boundary between my own thinking and AI output, I tag directly-captured notes *Includes AI* and put them into a separate folder of that name. 
+To keep a boundary between my own thinking and AI output, I tag directly-captured notes *Contains AI* and put them into a separate folder of that name. 
 
 There are plugins for Obsidian that can create an embedding for some or all of the notes in a vault. An embedding transforms ordinary words and sentences into numbers (vectors) that AI can understand. The plugin is then able to find connections between an individual note or a subject matter of interest and the embedded content. Because I have separated notes with my own thinking from those that include AI, I will be able to find connections in only one of these areas or in both. If I use those connections to develop my own thinking and then write new notes or edit ones, I can retain agency. 
 

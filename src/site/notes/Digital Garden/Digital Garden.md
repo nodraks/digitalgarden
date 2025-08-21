@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-21T23:00:19.386+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-21T23:09:35.155+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
@@ -17,9 +17,9 @@
 **Culture**, where values and ethics live.
 **Ethos**, the vibe or spirit of that culture.
 ## [[Digital Garden/What is context\|What is context]]? 
-## [[Digital Garden/Using AI with your second brain\|Using AI with your second brain]]  
+## [[Digital Garden/My Second Brain\|My Second Brain]]  
 ## [[10 - Topics/Goal_Directed Context Management/Goal-Directed Context Management\|Goal-Directed Context Management]] 
 ## [[Digital Garden/The Problem with Human-AI Interaction\|The Problem with Human-AI Interaction]] 
 ## [[07 - Atoms/Exploring a collaboration\|Exploring a collaboration]]
 
-## [[Digital Garden/My Second Brain\|My Second Brain]]
+
