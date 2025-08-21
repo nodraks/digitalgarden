@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/my-second-brain/","tags":["digital-garden"],"created":"2025-08-21T12:35:32.441+01:00","updated":"2025-08-21T23:15:13.203+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/my-second-brain/","tags":["#digital-garden"],"created":"2025-08-21T12:35:32.441+01:00","updated":"2025-08-21T23:15:13.203+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
