@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-atoms/exploring-a-collaboration/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-20T12:12:47.979+01:00"}
+{"dg-publish":true,"permalink":"/07-atoms/exploring-a-collaboration/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-21T23:19:31.456+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -26,7 +26,7 @@ To explore how values and ethos can shape human–AI interaction in a university
 
 The main deliverable could be a substantive, long-form essay offering a credible academic contribution to the issues facing higher education. 
 
-We could frame this as a time-bounded programme of work making use of the Anapoly AI Labs. The work would form a live, documented case study in the effective, ethical, and collaborative use of AI tools.
+We could frame this as a time-bound programme of work making use of the Anapoly AI Labs. The work would form a live, documented case study in the effective, ethical, and collaborative use of AI tools.
 
 One possibility is to structure the programme in the same way as an MSc.
 
