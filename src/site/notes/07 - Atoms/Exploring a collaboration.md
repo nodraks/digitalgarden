@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-atoms/exploring-a-collaboration/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-21T23:19:31.456+01:00"}
+{"dg-publish":true,"permalink":"/07-atoms/exploring-a-collaboration/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-21T23:20:59.193+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -36,6 +36,5 @@ Another possibility is for the work to be undertaken by a collaborating team of 
 
 ## Twofold value 
 
-**Academic output** – A credible, well-researched essay proposing a framework of values and ethos for guiding human–AI interaction.
-
-**Applied learning** – A live, documented example of using AI in a real intellectual task, showing good practice in configuration, transparency, and collaboration.
+- **Academic output** – A credible, well-researched essay proposing a framework of values and ethos for guiding human–AI interaction.
+- **Applied learning** – A live, documented example of using AI in a real intellectual task, showing good practice in configuration, transparency, and collaboration.
