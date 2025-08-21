@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-labs/notebook-diary-post-2025-08-21/","created":"2025-08-21T17:08:58.416+01:00","updated":"2025-08-21T22:26:21.871+01:00"}
+{"dg-publish":true,"permalink":"/ai-labs/notebook-diary-post-2025-08-21/","created":"2025-08-21T17:08:58.416+01:00","updated":"2025-08-21T22:34:55.010+01:00"}
 ---
 
 # Mind Maps, Podcasts, and a Pocket Brain
@@ -14,6 +14,6 @@ One of the great things about NotebookLM is that you can give it fifteen YouTube
 
 On top of that, to help you reflect on these ideas while strolling round the park after work, the AI can produce an audio overview. This takes the form of a podcast-style discussion between two hosts, and you can set the ground rules for their discussion, for example the focus points, audience, technical level. Intriguingly, the discussion is interactive: you can join in to ask questions or steer the discussion in a particular direction. Listen in for yourself.
 
-![[notebooklm_obsidian_discussion_2025-08-19.m4a]]
+<audio controls src="https://anapoly.co.uk/labs/media/notebooklm_obsidian_discussion_2025-08-19.mp3"></audio>
 
 With the big picture in place, the next step was the hands-on work of shaping Obsidian to fit my needs. That will be the subject of my next post, where I’ll dig into the practicalities of building it and explore how a local AI might give my second brain extra intelligence without compromising its privacy.
