@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/using-ai-with-your-second-brain/","created":"2025-08-19T12:19:57.468+01:00","updated":"2025-08-21T23:07:52.024+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/using-ai-with-your-second-brain/","created":"2025-08-19T12:19:57.468+01:00","updated":"2025-08-21T23:28:42.209+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
 
 # Using AI with your second brain
 *whilst retaining agency*  
+
 **[[Digital Garden/Status of ideas in the digital garden\|Status]]:** 🔸 Seed → ✅ Growing → 🔸 Well-formed → 🔸 Adapting → 🔸 Retired
+
+*Transparency label: human only*
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/notebook-diary-post-2025-08-21-1/","created":"2025-08-21T22:36:46.014+01:00","updated":"2025-08-21T23:12:41.078+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/notebook-diary-post-2025-08-21-1/","created":"2025-08-21T22:36:46.014+01:00","updated":"2025-08-21T23:27:42.837+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]]
@@ -9,6 +9,8 @@
 *notebook diary post on 21 August 2025*
 
 **[[Digital Garden/Status of ideas in the digital garden\|Status]]:** 🔸 Seed → 🔸 Growing → ✅ Well-formed → 🔸 Adapting → 🔸 Retired
+
+*Transparency label: Human-led. Human-authored, with AI input limited to suggestions, edits, or fact-checking.*
 
 ---
 
