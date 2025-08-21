@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-21T23:41:54.186+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-21T23:44:56.332+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -22,7 +22,7 @@ A good way to get a better understanding of the the problem would be to carry ou
 
 ## Some background about using AI
 
-Some background is needed here.  If we want AI to stay helpful and relevant, we need to give it the right information to hold in its working memory - in what is called its **context**.  [[Digital Garden/What is context\|What is context]] explains what this means, and another perspective is offered in [[ChatGPT-5 context architecture\|ChatGPT-5 context architecture]]. For the AI to perform well on our behalf, its context must encompass and keep pace with the progress of the work for which it is assisting us. [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management v1]] describes how we can handle this during the development of a knowledge-based product such as an essay. 
+Some background is needed here.  If we want AI to stay helpful and relevant, we need to give it the right information to hold in its working memory - in what is called its **context**.  [[Digital Garden/What is context\|What is context]] explains what this means. For the AI to perform well on our behalf, its context must encompass and keep pace with the progress of the work for which it is assisting us. [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management v1]] describes how we can handle this during the development of a knowledge-based product such as an essay. 
 
 ## Purpose
 
