@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-gardening/","created":"2025-07-13T15:31:37.838+01:00","updated":"2025-08-12T12:16:29.401+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-gardening/","created":"2025-07-13T15:31:37.838+01:00","updated":"2025-08-21T12:41:24.217+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
 # Digital Gardening
+
+**[[Digital Garden/Status of ideas in the digital garden\|Status]]:** 🔸 Seed → 🔸 Growing → 🔸 Well-formed → ✅ Adapting → 🔸 Retired
 
 ---
 
