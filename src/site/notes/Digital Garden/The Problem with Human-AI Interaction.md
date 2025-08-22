@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-22T07:58:10.240+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-22T09:17:22.610+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -18,7 +18,7 @@ Dennis Silverwood put forward some [[07 - Atoms/Warning Thoughts\|Warning Though
 
 ## How to explore the problem?
 
-A good way to get a better understanding of the the problem would be to carry out a study: do some research and write an essay about it. This would examine the dangers posed to young people by the temptation to outsource their thinking to AI, and it would explore whether responsible use of AI can mitigate these dangers. As well as making us better informed, the essay would serve as a vehicle for learning the practicalities of putting AI to purposeful use.
+A good way to get a better understanding of the the problem would be to carry out a study: do some research and write an essay about it. This would examine the dangers posed by the temptation to outsource our thinking to AI, and it would explore whether responsible use of AI can mitigate these dangers. As well as making us better informed, the essay would serve as a vehicle for learning the practicalities of putting AI to purposeful use.
 
 ## Some background about using AI
 
@@ -26,7 +26,7 @@ Some background is needed here.  If we want AI to stay helpful and relevant, we 
 
 ## Purpose
 
-We do not at present have the resources to carry out the study suggested above. We can, however, go some way down that path by using AI to begin setting up such as study. The purpose of doing so is to test the value of the [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management v1]] approach. 
+We do not at present have the resources to carry out the study suggested above. We can, however, go some way down that path by using AI to begin setting up such as study. The purpose of doing so is to test the value of the [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management]] approach. 
 ## The Project Startup experiment
 
 ### A bootstrap prompt
