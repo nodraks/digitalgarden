@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-22T14:44:46.378+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-22T21:24:46.477+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
@@ -33,4 +33,4 @@ The purpose of my second brain is to help me think creatively. It is an idea fac
 
 I can take this a step further by installing an AI locally. A large language model whose capability could only be dreamed of three years ago, can now run on a high-end laptop. If I connect this AI to my second brain, I will be able to use it in all sorts of interesting ways to explore and develop my ideas. This has the potential to boost my creativity greatly. Again, with no internet connection needed, thus preserving privacy. 
 
-A danger from letting AI into my second brain is that I will begin to let it do my thinking for me. This is where [[Digital Garden/Goal-Directed Context Management v1\|context management]] comes into play. I can configure the AI's behaviour to reduce that danger. I can give it freedom to find things in my second brain, to point me in useful directions, to critique my ideas, to highlight interesting relationships amongst them, and to question the logic of my arguments. Equally, I can instruct it not to offer its own ideas or solutions to the problems I am thinking about. I must configure it to guide me up the knowledge mountain, not carry me to the top. It will be interesting to see how well I can succeed with this. 
+A danger from letting AI into my second brain is that I will begin to let it do my thinking for me. This is where [[Digital Garden/Goal-Directed Context Management v1\|context management]] comes into play. I will have to configure the AI's behaviour to reduce that danger. I can give it freedom to find things in my second brain, to point me in useful directions, to critique my ideas, to highlight interesting relationships amongst them, and to question the logic of my arguments. Equally, I can instruct it not to offer its own ideas or solutions to the problems I am thinking about. I must configure it to guide me up the knowledge mountain, not carry me to the top. It will be interesting to see how well I can succeed with this. It will require an ethos of caring about how the Human-AI relationship evolves. 
