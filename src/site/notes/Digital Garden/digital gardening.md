@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-gardening/","created":"2025-07-13T15:31:37.838+01:00","updated":"2025-08-21T12:43:01.115+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-gardening/","created":"2025-07-13T15:31:37.838+01:00","updated":"2025-08-22T07:56:20.269+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
 # Digital Gardening
 
-**[[Digital Garden/Status of ideas in the digital garden\|Status]]:** 🔸 Seed → 🔸 Growing → 🔸 Well-formed → ✅ Adapting → 🔸 Retired
+**[[Digital Garden/Status of ideas in the digital garden\|Status]]:** 🔸 Seed → 🔸 Growing → 🔸 Well-formed → ✅ Fruitful → 🔸 Retired
 
 ---
 
 ## What is a digital garden?
 
-[Maggie Appleton's](https://maggieappleton.com/garden-history) essay *A Brief History & Ethos of the Digital Garden* describes it as "*A newly revived philosophy for publishing personal knowledge on the web ... A garden is a collection of evolving ideas that aren’t strictly organised by their publication date. They’re inherently exploratory – notes are linked through contextual associations. They aren’t refined or complete - notes are published as half-finished thoughts that will grow and evolve over time. They’re less rigid, less performative, and less perfect than the personal websites we’re used to seeing.*"
+[Maggie Appleton's](https://maggieappleton.com/garden-history) essay *A Brief History & Ethos of the Digital Garden* describes it as "*A newly revived philosophy for publishing personal knowledge on the web ... A garden is a collection of evolving ideas that aren’t strictly organised by their publication date. They’re inherently exploratory – the ideas are linked through contextual associations. They aren’t refined or complete, but are published as half-finished thoughts that will grow and evolve over time. They’re less rigid, less performative, and less perfect than the personal websites we’re used to seeing.*"
 
 ## Origin and tools
 
