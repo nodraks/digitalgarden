@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-22T09:24:25.484+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-22T09:31:42.773+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
@@ -21,10 +21,9 @@ The first seed in this garden was planted during a philosophical exchange with G
 - **Culture**, where values and ethics live;
 - **Ethos**, the vibe or spirit of that culture.
 
-But what is AI, and how do we interact with it? By AI, we usually mean large language models. Though not yet intelligent, they can seem so. It's estimated that approaching a billion people now use AI in one way or another. Most commonly, this is through a chat interface such as that offered by ChatGPT, which reportedly has nearly 500 million users. We interact with the "chatbot" through its [[Digital Garden/What is context\|context]]. This makes it possible for us not simply to be passive users of what it has to offer, but to actively manage its behaviour. [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management]] explains how we can do that when the AI is being used as a collaborator in the production or editing of knowledge-based products. But the approach can be adapted to suit almost any scenario. It enables us - if we so choose - to configure the AI so that it enhances our capacity to think, rather than letting it do our thinking for us. That is a seed worth nurturing. A good starting point is to ask: what is [[Digital Garden/The Problem with Human-AI Interaction\|the problem with Human-AI interaction]]?
+But what is AI, and how do we interact with it? By AI, we usually mean large language models. Though not yet intelligent, they can seem so. It's estimated that approaching a billion people now use AI in one way or another. Most commonly, this is through a chat interface such as that offered by ChatGPT, which reportedly has nearly 500 million users. 
 
-## [[Digital Garden/My Second Brain\|My Second Brain]]  
+We interact with the "chatbot" through its [[Digital Garden/What is context\|context]]. This makes it possible for us not simply to be passive users of what it has to offer, but to actively manage its behaviour. [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management]] explains how we can do that when the AI is being used as a collaborator in the production or editing of knowledge-based products. But the approach can be adapted to suit almost any scenario. It enables us - if we so choose - to configure the AI so that it enhances our capacity to think, rather than letting it do our thinking for us. That is a seed worth nurturing. A good starting point is to ask: what is [[Digital Garden/The Problem with Human-AI Interaction\|the problem with Human-AI interaction]]? We should [[07 - Atoms/Exploring a collaboration\|explore a collaboration]] to study the question.
 
-## [[07 - Atoms/Exploring a collaboration\|Exploring a collaboration]]
-
+## [[Digital Garden/My Second Brain\|My Second Brain]]
 
