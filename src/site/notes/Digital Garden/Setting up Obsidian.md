@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/setting-up-obsidian/","tags":["#digital-garden"],"created":"2025-08-23T12:29:58.055+01:00","updated":"2025-08-23T12:32:45.663+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/setting-up-obsidian/","tags":["digital-garden"],"created":"2025-08-23T12:29:58.055+01:00","updated":"2025-08-23T12:38:48.961+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
 
-# Personal Knowledge Management
+# Setting up Obsidian
 
 ---
 
