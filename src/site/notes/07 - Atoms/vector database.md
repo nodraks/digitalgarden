@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-atoms/vector-database/","tags":["#atom"],"created":"2025-08-22T13:20:12.734+01:00","updated":"2025-08-22T14:45:17.586+01:00"}
+{"dg-publish":true,"permalink":"/07-atoms/vector-database/","tags":["atom"],"created":"2025-08-22T13:20:12.734+01:00","updated":"2025-08-22T14:45:17.586+01:00"}
 ---
 
 A **vector database** stores information in a way that captures meaning, so you can search by ideas rather than just matching exact words.
