@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/setting-up-obsidian/","tags":["digital-garden"],"created":"2025-08-23T12:29:58.055+01:00","updated":"2025-08-24T11:00:34.194+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/setting-up-obsidian/","tags":["#digital-garden"],"created":"2025-08-23T12:29:58.055+01:00","updated":"2025-08-24T11:01:12.997+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -12,7 +12,7 @@ Obsidian is a note-taking system built for connecting ideas. Notes are in plain 
 
 I can highlight a passage in a paper stored in Zotero and export the highlight with citation details into an Obsidian note. Alternatively, I can use Obsidian's own browser plug-in to import some or all of a web page directly into Obsidian, again as a note with metadata from the web page. 
 
-Obsidian is deceptively simple to use, but to realise its potential, you must structure and organise it to suit the way you think. Easier said than done. Some research brought me to <a href="https://en.wikipedia.org/wiki/Zettelkasten">Zettelkasten</a>, a note-taking method where each idea is a single note linked to other notes holding related ideas. This creates a network to support deeper thinking and discovery. After some trial and error to understand the concept better, I went in search of a practitioner whose way of thinking was similar to mine. This turned out to be a YouTuber called Callum (aka <a href="https://wanderloots.com">Wanderloots)</a>. 
+Obsidian is deceptively simple to use, but to realise its potential you must structure and organise it to suit the way you think. Easier said than done. Some research brought me to <a href="https://en.wikipedia.org/wiki/Zettelkasten">Zettelkasten</a>, a note-taking method where each idea is a single note linked to other notes holding related ideas. This creates a network to support deeper thinking and discovery. After some trial and error to understand the concept better, I went in search of a practitioner whose way of thinking was similar to mine. This turned out to be a YouTuber called Callum (aka <a href="https://wanderloots.com">Wanderloots)</a>. 
 
 Callum's channel has over fifteen videos relating his personal experience in building a second brain, and offering advice about all aspects of Obsidian for that purpose. I satisfied myself that Callum's approach would be a good basis from which to develop my own, but didn't have the time to watch every video in order to learn from their content. I needed a quick and efficient way to fast-track that process. Step forward NotebookLM.
 
