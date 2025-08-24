@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/vpn-client-server-1/","tags":["#digital-garden"],"created":"2025-08-24T10:42:39.660+01:00","updated":"2025-08-24T10:45:28.354+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/vpn-client-server-1/","tags":["#digital-garden"],"created":"2025-08-24T10:42:39.660+01:00","updated":"2025-08-24T16:06:16.606+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]]

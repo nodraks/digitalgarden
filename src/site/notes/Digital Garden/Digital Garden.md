@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-23T12:39:51.933+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-24T19:51:36.996+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
@@ -27,7 +27,7 @@ But what is AI, and how do we interact with it? By AI, we usually mean large lan
 
 We interact with the "chatbot" through its [[Digital Garden/What is context\|context]]. This consists of much more than a chat window, and makes it possible for us to be not just passive users of what the AI has to offer, but to actively manage its behaviour. [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management]] explains how we can do that when the AI is being used as a collaborator to produce a report or other knowledge-based product. But the approach can be adapted to suit almost any scenario. It enables us - if we so choose - to configure the AI so that it enhances our capacity to think, rather than letting it do our thinking for us. That is a seed worth nurturing. 
 
-As well as managing the AI’s behaviour, we need to manage our own. Knowledge workers, in particular, each need a system of some kind to help them capture, learn, enrich, and create ideas: a personal knowledge management system, or "second brain". It need not be digital, but in a digital world it makes sense for it to be so. I have chosen to use Obsidian for [[Digital Garden/My Second Brain\|my second brain]]. 
+As well as managing the AI’s behaviour, we need to manage our own. Knowledge workers, in particular, each need a system of some kind to help them capture, learn from, enrich, and create ideas: a personal knowledge management system, or "second brain". It need not be digital, but in a digital world it makes sense for it to be so. I have chosen to use Obsidian for [[Digital Garden/My Second Brain\|my second brain]]. 
 
 The purpose of a second brain is to help me think creatively. It is an idea factory, and should be structured and organised to suit the way I process ideas. AI must not be allowed to intrude on the thinking process. There is scope, however, for AI technology to enhance the process without intruding. For example, the ideas in my second brain can be embedded in a [[07 - Atoms/vector database\|vector database]], similar to the way an AI’s knowledge is stored. That enables the similarities amongst widely dispersed ideas - the [[07 - Atoms/semantic connection\|semantic connections]] - to be highlighted and to stimulate creative thinking. This can be done entirely on my local computer with no online involvement, thus preserving privacy. 
 
