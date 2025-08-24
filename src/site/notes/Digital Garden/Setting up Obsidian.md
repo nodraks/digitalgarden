@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/setting-up-obsidian/","tags":["digital-garden"],"created":"2025-08-23T12:29:58.055+01:00","updated":"2025-08-23T12:38:48.961+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/setting-up-obsidian/","tags":["digital-garden"],"created":"2025-08-23T12:29:58.055+01:00","updated":"2025-08-24T11:00:34.194+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -10,7 +10,7 @@
 
 Obsidian is a note-taking system built for connecting ideas. Notes are in plain text, formatted in [[Digital Garden/markdown explanation\|Markdown]] for high portability, and the software adds backlinks and graphs to show the relationships among them. Zotero is a reference manager. Its browser plug-in lets me grab material from the web, perhaps a web page or a PDF, along with its metadata. 
 
-I can highlight a passage in a paper stored in Zotero and export the highlight with citation details into an Obsidian note. Alternatively, I can use Obsidian's own browser plug-in to import some or all of a web page directly into Obsidian, again as a note again with metadata from the web page. 
+I can highlight a passage in a paper stored in Zotero and export the highlight with citation details into an Obsidian note. Alternatively, I can use Obsidian's own browser plug-in to import some or all of a web page directly into Obsidian, again as a note with metadata from the web page. 
 
 Obsidian is deceptively simple to use, but to realise its potential, you must structure and organise it to suit the way you think. Easier said than done. Some research brought me to <a href="https://en.wikipedia.org/wiki/Zettelkasten">Zettelkasten</a>, a note-taking method where each idea is a single note linked to other notes holding related ideas. This creates a network to support deeper thinking and discovery. After some trial and error to understand the concept better, I went in search of a practitioner whose way of thinking was similar to mine. This turned out to be a YouTuber called Callum (aka <a href="https://wanderloots.com">Wanderloots)</a>. 
 
