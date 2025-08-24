@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/vpn-client-server-1/","tags":["#digital-garden"],"created":"2025-08-24T10:42:39.660+01:00","updated":"2025-08-24T16:06:16.606+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/vpn-client-server-1/","tags":["digital-garden"],"created":"2025-08-24T10:42:39.660+01:00","updated":"2025-08-24T23:44:01.194+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]]
@@ -16,9 +16,9 @@ When you use a large language model (LLM) like an AI assistant, it can run eithe
 
 If you install an LLM directly on a laptop, you might face some limits because laptops usually have less powerful processors and less memory than desktops or mini PCs. This means the LLM might run slower or not handle very complex tasks as smoothly.
 
-A desktop or mini computer at home tends to have better performance with faster processing and more memory. This makes them better for running bigger or more advanced LLMs, offering a smoother experience and faster results than a typical laptop.
+A desktop or mini computer tends to have better performance with faster processing and more memory. This makes them better for running bigger or more advanced LLMs, offering a smoother experience and faster results than a typical laptop.
 
-To use your home computer’s LLM remotely—say from your phone or another device when you’re away—you can set up something called a VPN (Virtual Private Network). Think of a VPN like a secure tunnel that connects your remote device to your home computer over the internet, making it feel like you’re right there on your home network. Setting this up involves:
+To use your computer’s LLM remotely—say from your phone or another device when you’re away—you can set up something called a VPN (Virtual Private Network). Think of a VPN like a secure tunnel that connects your remote device to your home computer over the internet, making it feel like you’re right there on your home network. Setting this up involves:
 
 - Installing VPN software on your home computer (the server).
     
