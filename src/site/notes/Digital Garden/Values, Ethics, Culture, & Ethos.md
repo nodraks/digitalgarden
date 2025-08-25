@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/values-ethics-culture-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-24T16:31:18.672+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/values-ethics-culture-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-25T08:32:43.504+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -7,7 +7,7 @@
 
 *Source: Chat with Perplexity AI*
 
-**[[Digital Garden/Status of ideas in the digital garden\|Status]]:** ✅ Seed → 🔸 Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
+**Status:** ✅ Seed → 🔸 Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
 
 ---
 

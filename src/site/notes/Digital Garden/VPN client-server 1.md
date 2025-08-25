@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/vpn-client-server-1/","tags":["#digital-garden"],"created":"2025-08-24T10:42:39.660+01:00","updated":"2025-08-25T08:19:47.041+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/vpn-client-server-1/","tags":["#digital-garden"],"created":"2025-08-24T10:42:39.660+01:00","updated":"2025-08-25T08:30:36.844+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]]
 
 # VPN Client/Server
 
-**[[Digital Garden/Status of ideas in the digital garden\|Status]]:** 🔸 Seed → ✅ Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
+**Status:** 🔸 Seed → ✅ Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
 
 *Transparency label: AI-heavy
 

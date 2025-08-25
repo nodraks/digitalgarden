@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/additional-security-for-vpn-client-server-access-to-local-llm-1/","tags":["#molecule"],"created":"2025-08-24T16:22:02.105+01:00","updated":"2025-08-24T23:40:21.056+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/additional-security-for-vpn-client-server-access-to-local-llm-1/","tags":["molecule"],"created":"2025-08-24T16:22:02.105+01:00","updated":"2025-08-25T08:31:47.820+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
 
 # Additional security for VPN access to local LLM
 
-**[[Digital Garden/Status of ideas in the digital garden\|Status]]:** 🔸 Seed → ✅ Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
+**Status:** 🔸 Seed → ✅ Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
 
 *Transparency label: AI only*
 

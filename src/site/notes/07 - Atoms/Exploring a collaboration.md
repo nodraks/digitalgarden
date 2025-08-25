@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/07-atoms/exploring-a-collaboration/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-22T09:30:08.489+01:00"}
+{"dg-publish":true,"permalink":"/07-atoms/exploring-a-collaboration/","created":"2025-08-11T23:31:29.061+01:00","updated":"2025-08-25T08:33:29.424+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
 
 # Exploring a collaboration  
-**[[Digital Garden/Status of ideas in the digital garden\|Status]]:** ✅ Seed → 🔸 Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
+**Status:** ✅ Seed → 🔸 Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
 
 ---
 ## Background

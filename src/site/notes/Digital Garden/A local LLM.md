@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/a-local-llm/","tags":["#digital-garden"],"created":"2025-08-25T07:41:50.420+01:00","updated":"2025-08-25T08:21:44.190+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/a-local-llm/","tags":["#digital-garden"],"created":"2025-08-25T07:41:50.420+01:00","updated":"2025-08-25T08:30:57.471+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]]
 
 # A local LLM
 
-**[[Digital Garden/Status of ideas in the digital garden\|Status]]:** 🔸 Seed → ✅ Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
+**Status:** 🔸 Seed → ✅ Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
 
 *Transparency label: AI-heavy
 
