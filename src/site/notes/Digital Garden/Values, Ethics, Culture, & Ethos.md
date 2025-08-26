@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/values-ethics-culture-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-25T08:32:43.504+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/values-ethics-culture-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-08-26T09:51:34.625+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -27,5 +27,3 @@ Culture is the social terrain where these values and ethics live, evolve, and so
 Ethos is the vibe or spirit of that culture when values are actively lived out.
 
 ---
-
-Some [[07 - Atoms/Warning Thoughts\|Warning Thoughts]] from Dennis Silverwood

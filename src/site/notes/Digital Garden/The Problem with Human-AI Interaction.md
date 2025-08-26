@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-25T08:33:07.097+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-26T10:35:50.375+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -7,7 +7,7 @@
 # The Problem with Human-AI Interaction
 *PHAIN for short* 
 
-*This is the story of how we used the writing of an essay to learn how AI can be used to support that kind of work. As you read on, please keep in mind that it is a work in progress.*
+An exploration of how AI can be used to support the writing of an essay.
 
 **Status:** 🔸 Seed → 🔸 Growing → 🔸 Well-formed → ✅ Fruitful → 🔸 Retired
 
@@ -18,7 +18,7 @@ Dennis Silverwood put forward some [[07 - Atoms/Warning Thoughts\|Warning Though
 
 ## How to explore the problem?
 
-A good way to get a better understanding of the the problem would be to carry out a study: do some research and write an essay about it. This would examine the dangers posed by the temptation to outsource our thinking to AI, and it would explore whether responsible use of AI can mitigate these dangers. As well as making us better informed, the essay would serve as a vehicle for learning the practicalities of putting AI to purposeful use.
+An essay, based on research, could examine the dangers posed by the temptation to outsource our thinking to AI. It could also explore whether responsible use of AI can mitigate these dangers. As well as making us better informed, the essay could serve as a vehicle for learning the practicalities of putting AI to purposeful use.
 
 ## Some background about using AI
 
