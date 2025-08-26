@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-26T15:01:57.321+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-26T15:42:02.787+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -32,4 +32,6 @@ First impressions are that [[Digital Garden/Goal-Directed Context Management v1\
 
 ## Reflections
 
-In my experience, the learning and retention of knowledge comes through writing down and working through ideas. For example, the process of thinking about what words to write in the Introduction to [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management v1]] crystallised half-formed ideas into a fuller understanding that is now held in my memory. The AI served a useful purpose in asking me to clarify things, forcing me to write them down and think them through. But did I begin to lose agency as it then repackaged my ideas in useful ways?
+In my experience, the learning and retention of knowledge comes through writing down and working through ideas. During the [[Digital Garden/Project Startup Experiment\|Project Startup Experiment]] described above, the AI served a useful purpose in asking me to clarify things, forcing me to write them down and think them through. But did I begin to lose agency as it then repackaged my ideas in useful ways? 
+
+In this limited case, I was producing boiler-plate material for controlling the work of the project; the intellectual content of that work will reside in the body of the essay yet to be written. Is it legitimate to cede agency for boiler-plate work, freeing up capacity for more intellectually demanding work? The case for the scientific calculator, <a href="https://education.casio.co.uk/blog/how-scientific-calculators-can-boost-classroomengagement/">argued here by Casio</a>, suggests so.  

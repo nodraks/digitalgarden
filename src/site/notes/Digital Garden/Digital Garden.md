@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-26T07:20:44.217+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-26T15:53:47.598+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
@@ -21,7 +21,7 @@ The first seed in this garden was planted during a philosophical exchange with G
 - **Culture**, where values and ethics live;
 - **Ethos**, the vibe or spirit of that culture.
 
-A second seed arises from asking: what is [[Digital Garden/The Problem with Human-AI Interaction\|the problem with Human-AI interaction]]? We should [[07 - Atoms/Exploring a collaboration\|explore a collaboration]] to study the question.
+A second seed arises from asking "What is [[Digital Garden/The Problem with Human-AI Interaction\|the problem with Human-AI interaction]]?".  We should [[07 - Atoms/Exploring a collaboration\|explore a collaboration]] to study the question.
 
 But what is AI, and how do we interact with it? By AI, we usually mean large language models. Though not yet intelligent, they can seem so. It's estimated that approaching a billion people now use AI in one way or another. Most commonly, this is through a chat interface such as that offered by ChatGPT, which reportedly has nearly 500 million users. 
 
