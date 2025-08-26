@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-26T15:53:47.598+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-26T16:45:32.035+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
@@ -27,10 +27,19 @@ But what is AI, and how do we interact with it? By AI, we usually mean large lan
 
 We interact with the "chatbot" through its [[Digital Garden/What is context\|context]]. This consists of much more than a chat window, and makes it possible for us to be not just passive users of what the AI has to offer, but to actively manage its behaviour. [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management]] explains how we can do that when the AI is being used as a collaborator to produce a report or other knowledge-based product. But the approach can be adapted to suit almost any scenario. It enables us - if we so choose - to configure the AI so that it enhances our capacity to think, rather than letting it do our thinking for us. That is a seed worth nurturing. 
 
-As well as managing the AI’s behaviour, we need to manage our own. Knowledge workers, in particular, each need a system of some kind to help them capture, learn from, enrich, and create ideas: a personal knowledge management system, or "second brain". It need not be digital, but in a digital world it makes sense for it to be so. I have chosen to use Obsidian for [[Digital Garden/My Second Brain\|my second brain]]. 
+As well as managing the AI’s behaviour, we need to manage our own. Knowledge workers, in particular, each need a system of some kind to help them capture, learn from, enrich, and create ideas: a personal knowledge management system, or "second brain". It need not be digital, but in a digital world it makes sense for it to be so. I have chosen to use Obsidian for [[Digital Garden/Personal Knowledge Management\|my second brain]]. 
 
 The purpose of a second brain is to help us think creatively. It is an idea factory. It should be structured and organised accordingly, and tailored individually to suit the way we process ideas. AI must not be allowed to intrude on the thinking process. There is scope, however, for AI technology to enhance the process without intruding. For example, the ideas in my second brain can be embedded in a [[07 - Atoms/vector database\|vector database]], similar to the way an AI’s knowledge is stored. That enables the similarities amongst widely dispersed ideas - the [[07 - Atoms/semantic connection\|semantic connections]] - to be highlighted and to stimulate creative thinking. This can be done entirely on my local computer with no online involvement, thus preserving privacy. 
 
 I can take this a step further by installing an AI locally. A large language model whose capability could only be dreamed of three years ago, can now run on a high-end laptop. If I connect this AI to my second brain, I will be able to use it in all sorts of interesting ways to explore and develop my ideas. This has the potential to boost my creativity greatly. Again, with no internet connection needed, thus preserving privacy. 
 
 A danger from letting AI into my second brain is that I will begin to let it do my thinking for me. This is where [[Digital Garden/Goal-Directed Context Management v1\|context management]] comes into play. I will have to configure the AI's behaviour to reduce that danger. I can give it freedom to find things in my second brain, to point me in useful directions, to critique my ideas, to highlight interesting relationships amongst them, and to question the logic of my arguments. Equally, I can instruct it not to offer its own ideas or solutions to the problems I am thinking about. I must configure it to guide me up the knowledge mountain, not carry me to the top. It will be interesting to see how well I can succeed with this. It will require an ethos of caring about how the Human-AI relationship evolves. 
+
+---
+
+## Seeds
+
+Ethos of caring about how the Human-AI relationship evolves
+What is the problem with Human-AI interaction?
+Managing AI behaviour
+Managing our own behaviour
