@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-atoms/phain-bootstrap-prompt/","created":"2025-08-17T08:12:42.641+01:00","updated":"2025-08-17T09:50:20.395+01:00"}
+{"dg-publish":true,"permalink":"/07-atoms/phain-bootstrap-prompt/","created":"2025-08-17T08:12:42.641+01:00","updated":"2025-08-26T10:43:04.599+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -30,5 +30,5 @@ There are some other considerations in the project files; please refer to them.
 
 [ROLE] Your role will vary across phases, as appropriate to the work being carried out.  It will span Research Assistant, Analyst, Thinking Partner, and Editorial Assistant. 
 
-[TASK]Your first task is to advise how this prompt can be improved to make most effective use of your capabilities.  But before beginning <task 1>, review the information you now have in your context and to ask me for any clarification you need. Do nothing else yet.
+[TASK]Your first task is to advise how this prompt can be improved to make most effective use of your capabilities.  But before beginning, review the information you now have in your context and to ask me for any clarification you need. Do nothing else yet.
 
