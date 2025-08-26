@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-26T14:54:07.486+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-26T15:01:57.321+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -22,25 +22,13 @@ A research-based essay could examine the dangers posed by the temptation to outs
 
 We do not at present have the resources to carry out the study suggested above; perhaps it could be undertaken as a collaborative endeavour? We have been able, however, to take [[Digital Garden/Project Startup Experiment\|a first step down that path]] as a means of testing the [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management]] approach. 
 
-Some background is needed.  If we want AI to stay helpful and relevant, we need to give it the right information to hold in its working memory - in what is called its **context**.  This is explained [[Digital Garden/What is context\|here]]. For the AI to perform well on our behalf, its context must encompass and keep pace with the progress of the work for which it is assisting us. [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management v1]] describes how we can handle this during the development of a knowledge-based product such as an essay. 
+Some background is needed.  If we want AI to stay helpful and relevant, we must give it the right information to hold in its working memory - in what is called its **context** (the meaning of context is explained [[Digital Garden/What is context\|here]]). For the AI to perform well on our behalf, its context must encompass and keep pace with the progress of the work for which it is assisting us. 
 
-Similarly to when using a conventional computer, the first step was to *bootstrap* the AI. This involved prompting it with as good as possible a description of intentions for the project, and then working with it to develop an *AI Startup Pack*. 
+[[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management]] proposes how to achieve this during the development of a knowledge-based product such as an essay. Similarly to when using a conventional computer, the first step was to *bootstrap* the AI. This involved prompting it with as good as possible a description of intentions for the project, and then working with it to develop an *AI Startup Pack*. 
 
 The *AI Startup Pack* consisted of *project instructions* and *reference files*. These were put into the AI's context within a ChatGPT project space. Working in that project space, after an initial hiccup the AI produced good quality first draft material for use in the *Project Brief*, one of the main outputs from project startup. 
 
-First impressions are that [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management v1]] is a good approach to the use of AI within a knowledge-based project.
-
-## Discussion & Recommendations
-
-We explored use of an AI to support the startup of a project. The purpose of the project was to research and write an essay. 
-
-During *Startup*, there was quite a lot of time spent prepping the AI as compared to doing productive work with it. The balance of prep time versus productive working time is likely to shift heavily towards the latter during *Initiation* and later stages.
-
-Reason for the AI's initial hiccup: Unless otherwise directed, ChatGPT-5 chooses a reasoning level based on its interpretation of the complexity of the prompt. It underestimated, in this case. Prompts need to be explicit about the reasoning level required of it. 
-
-Standard procedure should be to produce all conventional outputs required from a given stage in the project, and only then produce the *AI Pack* needed to support the the next stage of work. 
-
-[[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management v1]] was found to be a good approach to the use of AI within a knowledge-based project. It is recommended for further exploration and development.
+First impressions are that [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management]] is a good approach to the use of AI within a knowledge-based project.
 
 ## Reflections
 
