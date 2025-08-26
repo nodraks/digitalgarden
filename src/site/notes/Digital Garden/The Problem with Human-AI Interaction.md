@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-26T10:42:04.192+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-26T13:09:29.796+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -7,7 +7,7 @@
 # The Problem with Human-AI Interaction
 *PHAIN for short* 
 
-An exploration of how AI can be used to support the writing of an essay.
+A short exploration of how AI can be used to support the writing of an essay.
 
 **Status:** 🔸 Seed → 🔸 Growing → 🔸 Well-formed → ✅ Fruitful → 🔸 Retired
 
@@ -20,57 +20,10 @@ Dennis Silverwood put forward some [[07 - Atoms/Warning Thoughts\|Warning Though
 
 An essay, based on research, could examine the dangers posed by the temptation to outsource our thinking to AI. It could also explore whether responsible use of AI can mitigate these dangers. As well as making us better informed, the essay could serve as a vehicle for learning the practicalities of putting AI to purposeful use.
 
-Some background is needed here.  If we want AI to stay helpful and relevant, we need to give it the right information to hold in its working memory - in what is called its **context**.  [[Digital Garden/What is context\|What is context]] explains what this means. For the AI to perform well on our behalf, its context must encompass and keep pace with the progress of the work for which it is assisting us. [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management v1]] describes how we can handle this during the development of a knowledge-based product such as an essay. 
+Some background is needed here.  If we want AI to stay helpful and relevant, we need to give it the right information to hold in its working memory - in what is called its **context**.  [[Digital Garden/What is context\|What is context]] explains this. For the AI to perform well on our behalf, its context must encompass and keep pace with the progress of the work for which it is assisting us. [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management v1]] describes how we can handle this during the development of a knowledge-based product such as an essay. 
 
-## Purpose
+We do not at present have the resources to carry out the study suggested above. We were able, however, to test the value of the [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management]] approach by going some way down that path in a [[Digital Garden/Project Startup experiment\|project startup experiment]].
 
-We do not at present have the resources to carry out the study suggested above. We were able, however, go some way down that path by using AI to begin setting up such as study. The purpose of doing so was to test the value of the [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management]] approach. 
-## The Project Startup experiment
-
-### A bootstrap prompt
-
-The starting point was to configure ChatGPT so that it could begin to help us with this work. [[Digital Garden/Goal-Directed Context Management v1#AI artefacts\|Goal-Directed Context Management v1#AI artefacts]] suggests we should have an *AI startup pack* to configure the AI for its initial role at the outset of a project. To obtain that, I began with a [[07 - Atoms/PHAIN bootstrap prompt\|bootstrap prompt]]. This gave the AI an explanation of the work we were about to do together, and tasked it to help me create an improved version of the prompt. 
-
-> Your first task is to advise how this prompt can be improved to make most effective use of your capabilities. But before beginning, review the information you now have in your context and ask me for any clarification you need. Do nothing else yet.
-
-Once I had provided the [[Digital Garden/PHAIN bootstrap clarification\|clarification]] it sought, the AI responded with this [[Digital Garden/PHAIN startup prompt\|startup prompt]]. It was a useful step forward, but I realised that what I really needed was a set of *project instructions*; I would be setting up a ChatGPT project for the essay work, and would need to manage the AI's behaviour in that space.  
-
-### AI startup pack
-
-After some discussion with the AI, we arrived at this [[Digital Garden/PHAIN structure for project instructions\|structure for project instructions]] matched to the task in hand.  Before turning these into a draft set of instruction, I thought I'd better remind the AI about the distinction between project instructions and project files. I asked: 
-
->Help me understand the division or boundary between the content of Project Instructions and the content of reference material in Project Files.
-
-It responded with this explanation of the [[Digital Garden/The distinction between Project Instructions and Project Files\|distinction between Project Instructions and Project Files]]. With this in its memory, I told the AI to draft a set of project instructions, using the structure we had agreed earlier, while remembering to keep what would become project files clearly ring-fenced as reference material. After some editing, the outcome was these [[Digital Garden/Project Instructions for AI & Young People Essay\|Project Instructions for AI & Young People Essay]]. Together with some reference files, these constituted the *AI Startup Pack*. 
-
-### Outputs required from startup 
-
-With the *AI Startup Pack* now installed in the AI's context (in its project instructions and project files), the question was: what outputs are required from the startup process of the wider project to write the essay? They might include:
-
-- a clear description of the project deliverable (the essay itself);
-- a rationale / justification for undertaking the project;
-- the intended management structure for the project;
-- the project approach.
-
-Typically, all the above would be packaged in a *Project Brief*. An *Initiation Stage Plan* would also be required, setting out the work needed to produce outputs from the Initiation Stage such as the *Project Plan*. 
-
-In a conventional project, we would then move into the Initiation Stage. In an AI-assisted project, however, we must first produce the *Initiation Stage AI Pack*. This sets out the AI's configuration for that stage; i.e. it defines the context needed by the AI in order to support the Initiation Stage most effectively. 
-
-To summarise: after producing all the Startup products needed by a conventional project to begin its Initiation Stage, an AI-assisted project must also produce its *Initiation Stage AI Pack*. 
-
-### The *Project Brief*  
-
-Task for the AI:  given what's in your context, draft a clear description of the project deliverable.
-Response: initially very quick but muddled, with some nonsense. I told it to think harder, and after 52 seconds it produced a much better effort.
-Outcome: a comprehensive first draft of [[Digital Garden/Product Description - Essay\|Product Description - Essay]] 
-Status: needs review
-
-Task for the AI: draft a rationale / justification for the project
-Response: a good draft
-Outcome: well-written first drafts of the [[Digital Garden/Rationale for the project\|Rationale for the project]] 
-Status: needs review
-
-To summarise: the AI can provide valuable, time-saving assistance for production of the *Project Brief*. 
 
 ## Findings
 
