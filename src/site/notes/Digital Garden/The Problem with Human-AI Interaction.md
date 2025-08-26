@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-26T13:09:29.796+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-26T14:54:07.486+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -18,18 +18,17 @@ Dennis Silverwood put forward some [[07 - Atoms/Warning Thoughts\|Warning Though
 
 ## How to explore the problem?
 
-An essay, based on research, could examine the dangers posed by the temptation to outsource our thinking to AI. It could also explore whether responsible use of AI can mitigate these dangers. As well as making us better informed, the essay could serve as a vehicle for learning the practicalities of putting AI to purposeful use.
+A research-based essay could examine the dangers posed by the temptation to outsource our thinking to AI. It could also explore whether responsible use of AI can mitigate these dangers. As well as making us better informed, the essay could also serve as a vehicle for learning the practicalities of putting AI to purposeful use. 
 
-Some background is needed here.  If we want AI to stay helpful and relevant, we need to give it the right information to hold in its working memory - in what is called its **context**.  [[Digital Garden/What is context\|What is context]] explains this. For the AI to perform well on our behalf, its context must encompass and keep pace with the progress of the work for which it is assisting us. [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management v1]] describes how we can handle this during the development of a knowledge-based product such as an essay. 
+We do not at present have the resources to carry out the study suggested above; perhaps it could be undertaken as a collaborative endeavour? We have been able, however, to take [[Digital Garden/Project Startup Experiment\|a first step down that path]] as a means of testing the [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management]] approach. 
 
-We do not at present have the resources to carry out the study suggested above. We were able, however, to test the value of the [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management]] approach by going some way down that path in a [[Digital Garden/Project Startup experiment\|project startup experiment]].
-
-
-## Findings
+Some background is needed.  If we want AI to stay helpful and relevant, we need to give it the right information to hold in its working memory - in what is called its **context**.  This is explained [[Digital Garden/What is context\|here]]. For the AI to perform well on our behalf, its context must encompass and keep pace with the progress of the work for which it is assisting us. [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management v1]] describes how we can handle this during the development of a knowledge-based product such as an essay. 
 
 Similarly to when using a conventional computer, the first step was to *bootstrap* the AI. This involved prompting it with as good as possible a description of intentions for the project, and then working with it to develop an *AI Startup Pack*. 
 
 The *AI Startup Pack* consisted of *project instructions* and *reference files*. These were put into the AI's context within a ChatGPT project space. Working in that project space, after an initial hiccup the AI produced good quality first draft material for use in the *Project Brief*, one of the main outputs from project startup. 
+
+First impressions are that [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management v1]] is a good approach to the use of AI within a knowledge-based project.
 
 ## Discussion & Recommendations
 
