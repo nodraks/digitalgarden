@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/personal-knowledge-management/","tags":["#digital-garden"],"created":"2025-08-21T12:35:32.441+01:00","updated":"2025-08-26T16:39:24.292+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/personal-knowledge-management/","tags":["#digital-garden"],"created":"2025-08-21T12:35:32.441+01:00","updated":"2025-08-26T16:53:34.052+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
 
 # Personal Knowledge Management
+
+**Status**: 
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-26T15:42:02.787+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/the-problem-with-human-ai-interaction/","created":"2025-08-12T08:21:58.194+01:00","updated":"2025-08-26T17:23:47.354+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
@@ -9,7 +9,7 @@
 
 A short exploration of how AI can be used to support the writing of an essay.
 
-**Status:** 🔸 Seed → 🔸 Growing → 🔸 Well-formed → ✅ Fruitful → 🔸 Retired
+**Status:** ✅ Seed → 🔸 Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
 
 ---
 ## The problem
