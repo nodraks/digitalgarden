@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-28T07:55:56.033+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-28T08:01:57.501+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
@@ -26,11 +26,11 @@ But what is AI, and how do we interact with it? By AI, we usually mean large lan
  
 It's estimated that approaching a billion people now use AI in one way or another. Most commonly, this is through a chat interface such as that offered by ChatGPT, which reportedly has nearly 500 million users. We interact with the "chatbot" through its [[Digital Garden/What is context\|context]], which is much more than just a chat window. If we choose carefully what we put into the AI's context, we can turn ourselves from passive users of what it has to offer into active managers of its behaviour. [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management]] explains how to do that when producing a report or other knowledge-based product. But the approach can be adapted to suit almost any scenario. It enables us - if we so choose - to configure the AI so that it enhances our capacity to think, rather than letting it do our thinking for us. That is a seed worth nurturing. 
 
-As well as managing the AI’s behaviour, we need to manage our own. Knowledge workers, in particular, need to capture, learn from, enrich, and create ideas. We are encouraged to use a personal knowledge management system, sometimes called a "second brain", to help us with this. I had been experimenting with Obsidian for that purpose, but I've come round to Joan Westenberg's way of thinking about it (see"<a href="https://www.joanwestenberg.com/p/i-deleted-my-second-brain">I deleted my second brain</a>"): 
+As well as managing the AI’s behaviour, we need to manage our own. Knowledge workers, in particular, need to capture, learn from, enrich, and create ideas. We are encouraged to use a personal knowledge management system, sometimes called a "second brain", to help us with this. I had been experimenting with Obsidian for that purpose, but I've come round to Joan Westenberg's <a href="https://www.joanwestenberg.com/p/i-deleted-my-second-brain">way of thinking about it</a>:
 
 > "I don’t want to manage knowledge. I want to live it. I still love Obsidian. And I’m planning on using it again. From scratch. And with a deeper level of curation and care - not as a second brain, but as a workspace for the one I already have."
 
-While this workspace is an idea factory, it does not have an assembly line. Instead, it is a network of interconnected ideas at varying levels of complexity, with the inherently greater capacity that affords. This *thinking network* should be structured and organised accordingly, and tailored individually to suit the way we process ideas. 
+This *workspace for the brain* is an idea factory. But rather than an assembly line, it has a network of interconnected ideas at varying levels of complexity, with the inherently greater capacity that affords. This *thinking network* should be structured and organised - tailored - for each of us individually, to suit the way we process ideas. 
 
 AI must not be allowed to intrude on the *thinking network*. There is scope, however, for AI technology to enhance the thinking process without intruding. For example, the ideas held in the network can be embedded in a [[20 - Archive 2025-08-27/07 - Atoms/vector database\|vector database]], similar to the way an AI’s knowledge is stored. That enables the similarities amongst widely dispersed ideas - the [[20 - Archive 2025-08-27/07 - Atoms/semantic connection\|semantic connections]] - to be highlighted and thereby stimulate creative thinking.  
 
