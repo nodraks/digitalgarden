@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-28T07:47:49.908+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-28T07:55:56.033+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
@@ -22,13 +22,8 @@ But what is AI, and how do we interact with it? By AI, we usually mean large lan
 > 
 > “Simply put, my central worry is that many people will start to believe in the illusion of AIs as conscious entities so strongly that they’ll soon advocate for AI rights, [model welfare](https://arxiv.org/abs/2411.00986) and even AI citizenship.”
 
- The second seed arises from the need for there to be an ethos of caring about how the Human-AI relationship evolves. We need to think carefully about how [[Digital Garden/Values, Ethics, Culture, & Ethos\|values, ethics, culture, and ethos]] fit together.
+ The second seed in this garden arises from the need for there to be an ethos of caring about how the Human-AI relationship evolves. We need to think carefully about how [[Digital Garden/Values, Ethics, Culture, & Ethos\|values, ethics, culture, and ethos]] fit together.
  
-- **Values**, our moral compass;
-- **Ethics**, how we apply them;
-- **Culture**, where values and ethics live;
-- **Ethos**, the vibe or spirit of that culture.
-
 It's estimated that approaching a billion people now use AI in one way or another. Most commonly, this is through a chat interface such as that offered by ChatGPT, which reportedly has nearly 500 million users. We interact with the "chatbot" through its [[Digital Garden/What is context\|context]], which is much more than just a chat window. If we choose carefully what we put into the AI's context, we can turn ourselves from passive users of what it has to offer into active managers of its behaviour. [[Digital Garden/Goal-Directed Context Management v1\|Goal-Directed Context Management]] explains how to do that when producing a report or other knowledge-based product. But the approach can be adapted to suit almost any scenario. It enables us - if we so choose - to configure the AI so that it enhances our capacity to think, rather than letting it do our thinking for us. That is a seed worth nurturing. 
 
 As well as managing the AI’s behaviour, we need to manage our own. Knowledge workers, in particular, need to capture, learn from, enrich, and create ideas. We are encouraged to use a personal knowledge management system, sometimes called a "second brain", to help us with this. I had been experimenting with Obsidian for that purpose, but I've come round to Joan Westenberg's way of thinking about it (see"<a href="https://www.joanwestenberg.com/p/i-deleted-my-second-brain">I deleted my second brain</a>"): 
