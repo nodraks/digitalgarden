@@ -31,7 +31,7 @@ Having installed the *AI Startup Pack*, we carried out part of the *project init
 
 ### A bootstrap prompt
 
-The starting point was to configure ChatGPT so that it could begin to help us with this work. [[Digital Garden/Goal-Directed Context Management v1#AI artefacts\|Goal-Directed Context Management v1#AI artefacts]] suggests we should have an *AI startup pack* to configure the AI for its initial role at the outset of a project. To obtain that, I began with a [[07 - Atoms/PHAIN bootstrap prompt\|bootstrap prompt]]. This gave the AI an explanation of the work we were about to do together, and tasked it to help me create an improved version of the prompt. 
+The starting point was to configure ChatGPT so that it could begin to help us with this work. [[Digital Garden/Goal-Directed Context Management v1#AI artefacts\|Goal-Directed Context Management v1#AI artefacts]] suggests we should have an *AI startup pack* to configure the AI for its initial role at the outset of a project. To obtain that, I began with a [[20 - Archive 2025-08-27/07 - Atoms/PHAIN bootstrap prompt\|bootstrap prompt]]. This gave the AI an explanation of the work we were about to do together, and tasked it to help me create an improved version of the prompt. 
 
 > Your first task is to advise how this prompt can be improved to make most effective use of your capabilities. But before beginning, review the information you now have in your context and ask me for any clarification you need. Do nothing else yet.
 

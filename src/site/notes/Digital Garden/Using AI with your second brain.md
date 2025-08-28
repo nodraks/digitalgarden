@@ -24,4 +24,4 @@ There are plugins for Obsidian that can create an embedding for some or all of t
 It is possible, also, to chat with an AI about the embedded content of my notes. This can be done by connecting my Obsidian vault to a cloud-based AI such as ChatGPT. Or if I want my thinking to be kept entirely private, I can install an AI locally on my own computer. In effect, this becomes a local equivalent of NotebookLM. It's an interesting and powerful idea. 
 
 ---
-*Tags*: [[01 - Tag notes/PKM\|PKM]] [[01 - Tag notes/agency\|agency]] 
+*Tags*: [[PKM\|PKM]] [[agency\|agency]] 

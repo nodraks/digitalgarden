@@ -110,7 +110,7 @@ For a knowledge-based product, a typical programme might have the following phas
 
 ### Project Approach
 
-Here is an [[07 - Atoms/example of the project approach\|example of the project approach]] applied to the creation of a staff onboarding procedure. 
+Here is an [[20 - Archive 2025-08-27/07 - Atoms/example of the project approach\|example of the project approach]] applied to the creation of a staff onboarding procedure. 
 
 In the _Design & Planning_ stage of the staff onboarding procedure project, the contextual scaffolding would comprise both **persistent context** and **current context**.
 
@@ -120,7 +120,7 @@ The **persistent context** holds the enduring reference framework for the projec
 
 ### Programme Approach
 
-Here is an [[07 - Atoms/example of the programme approach\|example of the programme approach]] applied to the development of a policy framework. In a programme such as this, the **volume and diversity of information** will be significantly greater than in a single project. Multiple phases will generate numerous and often lengthy documents: consultation summaries, draft policy sections, legal reviews, implementation plans, and more.
+Here is an [[20 - Archive 2025-08-27/07 - Atoms/example of the programme approach\|example of the programme approach]] applied to the development of a policy framework. In a programme such as this, the **volume and diversity of information** will be significantly greater than in a single project. Multiple phases will generate numerous and often lengthy documents: consultation summaries, draft policy sections, legal reviews, implementation plans, and more.
 
 Here, **persistent context** contains the programme’s overarching objectives, governance arrangements, phase plans, and other enduring references that anchor all phases. The **current context** is tightly scoped to the phase in progress. For example, during the Definition phase, it might hold the agreed structure for the framework, key stakeholder requirements, and a shortlist of draft policy themes under development. 
 

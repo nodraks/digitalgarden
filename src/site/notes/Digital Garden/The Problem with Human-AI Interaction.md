@@ -14,7 +14,7 @@ A short exploration of how AI can be used to support the writing of an essay.
 ---
 ## The problem
 
-Dennis Silverwood put forward some [[07 - Atoms/Warning Thoughts\|Warning Thoughts]]. These begin by asserting that, although widely called artificial intelligence, AI is not in fact intelligent. They end by highlighting the risk that people might outsource their thinking to AI and lose or never acquire the ability for critical thinking. While all age groups are at risk from outsourced thinking, the young are especially so. They already show signs of shorter attention spans, limiting their capacity to follow complex arguments, absorb nuanced information, and sustain reasoning without distraction. If this is compounded by outsourcing their thinking and failing to develop critical thinking skills, they risk losing the judgement and decision-making ability essential to independent agency.
+Dennis Silverwood put forward some [[20 - Archive 2025-08-27/07 - Atoms/Warning Thoughts\|Warning Thoughts]]. These begin by asserting that, although widely called artificial intelligence, AI is not in fact intelligent. They end by highlighting the risk that people might outsource their thinking to AI and lose or never acquire the ability for critical thinking. While all age groups are at risk from outsourced thinking, the young are especially so. They already show signs of shorter attention spans, limiting their capacity to follow complex arguments, absorb nuanced information, and sustain reasoning without distraction. If this is compounded by outsourcing their thinking and failing to develop critical thinking skills, they risk losing the judgement and decision-making ability essential to independent agency.
 
 ## How to explore the problem?
 
