@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-27T23:57:54.274+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-08-28T07:47:49.908+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
@@ -14,7 +14,7 @@ Transparency label: human only
 
 Maggie Appleton describes [[Digital Garden/digital gardening\|digital gardening]] as the nurturing of ideas, connecting them through contextual association rather than publication date. Beginning as seeds, the ideas grow and evolve through thinking. Some prove fruitful, others less so. 
 
-The first seed in this garden was planted during a philosophical exchange with Giles Freathy. We were talking about the temptation for us to outsource our thinking to AI, which risks us losing our critical thinking skills and the judgement and decision-making abilities which depend on that. We need a better understanding of [[Digital Garden/The Problem with Human-AI Interaction\|the problem with Human-AI interaction]]. Perhaps we could [[20 - Archive 2025-08-27/07 - Atoms/Exploring a collaboration\|explore a collaboration]] to study it.
+The first seed in this garden was planted during a philosophical exchange with Giles Freathy. We were talking about the temptation for us to outsource our thinking to AI. This risks us losing our critical thinking skills, and the judgement and decision-making abilities which depend on that. We need a better understanding of the problem with Human-AI interaction. Perhaps we could explore [[Digital Garden/Exploring a collaboration\|a collaboration]] to study it.
 
 But what is AI, and how do we interact with it? By AI, we usually mean large language models. Though not yet intelligent, they can seem so. This in itself is a concern. <a href="https://www.kozyr.com/about">Cassie Kozyrkov</a> explains why we should worry about AI psychosis in <a href="https://substack.com/home/post/p-171599460">this Substack post</a>. 
 
