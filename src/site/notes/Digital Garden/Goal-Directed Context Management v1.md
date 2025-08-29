@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/goal-directed-context-management-v1/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-24T18:14:45.068+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/goal-directed-context-management-v1/","created":"2025-08-14T16:08:42.047+01:00","updated":"2025-08-29T17:19:40.564+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
