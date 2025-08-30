@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/design-concept-workspace-for-my-brain/","tags":["#digital-garden"],"created":"2025-08-30T20:07:02.630+01:00","updated":"2025-08-30T21:38:46.521+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/design-concept-workspace-for-my-brain/","tags":["#digital-garden"],"created":"2025-08-30T20:07:02.630+01:00","updated":"2025-08-30T23:23:26.518+01:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 # A workspace for my brain: the concept
 
 > [!info] Concept
-> > The *workspace for my brain* is an idea factory. But rather than an assembly line, think of it as a network of interconnected ideas at varying levels of maturity and complexity.  It let's me bring in other people's thinking, helping me capture ideas and add them to my existing network of knowledge. The ideas must be discoverable, yet retain enough context for each to be understandable.  I must be able to draw on and remix them in order to create new ideas and original thoughts; and it must be easy for me to share that thinking. Above all, the *workspace for my brain* must suit the way I think; it should be structured and organised - tailored - for me individually. 
+> The *workspace for my brain* is an idea factory. But rather than an assembly line, think of it as a network of interconnected ideas at varying levels of maturity and complexity.  It let's me bring in other people's thinking, helping me capture ideas and add them to my existing network of knowledge. The ideas must be discoverable, yet retain enough context for each to be understandable.  I must be able to draw on and remix them in order to create new ideas and original thoughts; and it must be easy for me to share that thinking. Above all, the *workspace for my brain* must suit the way I think; it should be structured and organised - tailored - for me individually. 
 
 > [!info] Principle
 > Where appropriate, the workspace will have structured content organised by cognitive function: reference, concept, principle, process, or task. 
@@ -21,7 +21,7 @@
 >
 >A Read Later folder holds material that might be interesting to me, for later inspection. 
 >
-> A Sources folder holds source material in the form of newsletters, Web, articles, YouTube videos, and AI chats. 
+> A Sources folder holds source material of immediate interest, in the form of newsletters, eeb, articles, YouTube videos, and AI chats. 
 
 > [!info] Process
 > Each sources goes through a process of progressive summarisation, represented by layers. 
