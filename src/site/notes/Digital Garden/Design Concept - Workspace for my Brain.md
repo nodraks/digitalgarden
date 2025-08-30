@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/design-concept-workspace-for-my-brain/","tags":["#digital-garden"],"created":"2025-08-30T20:07:02.630+01:00","updated":"2025-08-30T21:29:11.104+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/design-concept-workspace-for-my-brain/","tags":["#digital-garden"],"created":"2025-08-30T20:07:02.630+01:00","updated":"2025-08-30T21:38:46.521+01:00"}
 ---
 
 
@@ -13,6 +13,8 @@
 > [!info] Principle
 > Where appropriate, the workspace will have structured content organised by cognitive function: reference, concept, principle, process, or task. 
 
+> [!info] Reference
+> Structured content transforms an LLM from a **generic text generator** into a **precision tool** for thinking, creating, and problem-solving. By organizing your knowledge, you enable the LLM to work _with_ you - faster, smarter, and more creatively - while keeping you in control.
 
 > [!info] Principle
 > Daily Notes act as a journal to capture fleeting thoughts, plan AI interactions, record reflections. 
