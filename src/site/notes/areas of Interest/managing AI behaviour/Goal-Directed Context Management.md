@@ -98,7 +98,7 @@ A knowledge‑based product is any output whose primary value lies in informatio
 
 ## Project approach example
 
-The example of a **[[archive 2025-08-27/07 - Atoms/example of the project approach\|staff onboarding procedure]]** illustrates the project approach: the goal is clear and risk is acceptable.
+The example of a **[[digital garden/example of the project approach\|staff onboarding procedure]]** illustrates the project approach: the goal is clear and risk is acceptable.
 
 In the _Design & Planning_ stage, the contextual scaffolding includes:
 
@@ -109,7 +109,7 @@ In the _Design & Planning_ stage, the contextual scaffolding includes:
 
 ## Programme approach example
 
-The **[[archive 2025-08-27/07 - Atoms/example of the programme approach\|policy framework example]]** illustrates the programme approach: the objective is broad and uncertain, requiring phased reduction of uncertainty.
+The **[[digital garden/example of the programme approach\|policy framework example]]** illustrates the programme approach: the objective is broad and uncertain, requiring phased reduction of uncertainty.
 
 - **Persistent context**: overarching objectives, governance arrangements, and phase plans.
 - **Current context**: tightly scoped to the phase in progress — e.g., framework structure, key requirements, draft policy themes.
