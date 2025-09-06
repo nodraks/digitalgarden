@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/workspace-for-my-brain/","tags":["#digital-garden"],"created":"2025-08-30T20:07:02.630+01:00","updated":"2025-09-06T16:06:33.015+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/workspace-for-my-brain/","tags":["digital-garden"],"created":"2025-08-30T20:07:02.630+01:00","updated":"2025-09-06T16:13:51.635+01:00"}
 ---
 
 
@@ -25,7 +25,7 @@ Obsidian has a daily note feature. I use it to capture fleeting thoughts and nas
 
 Other people's thinking takes the form of online material (newsletters, articles, YouTube videos, podcasts) and books or other printed material. Where possible, I use the Obsidian Web Clipper to capture any online material of interest into Obsidian notes; otherwise I simply copy and paste it. I put these notes into a _sources_ folder.
 
-To start drawing out ideas from someone else’s work, I use highlighting. If the material is already in a note, I just mark the relevant text. With video or audio, I jot my highlights at the top of the note as I listen. When I’m reading a book, I keep it low-tech: a pencil underline or a quick mark in the margin. The method shifts with the medium, but the purpose is always to pull out the pieces worth a closer look.
+To start drawing out ideas from the daily notes, my AI chats, and someone else’s work, I use highlighting. If the material is already in a note, I just mark the relevant text. With video or audio, I jot my highlights at the top of the note as I listen. When I’m reading a book, I keep it low-tech: a pencil underline or a quick mark in the margin. The method shifts with the medium, but the purpose is always to pull out the pieces worth a closer look.
 
 When I review a highlighted section of source material, I consider why it caught my attention. I think about its meaning, its relevance to the topic at hand, and how it connects to other ideas I’m working with. I weigh up whether it clarifies, challenges, or expands my understanding. Then I put those thoughts into a brief annotation, written in my own words.
 
