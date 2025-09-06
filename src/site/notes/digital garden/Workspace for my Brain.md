@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/workspace-for-my-brain/","tags":["digital-garden"],"created":"2025-08-30T20:07:02.630+01:00","updated":"2025-09-06T16:18:49.487+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/workspace-for-my-brain/","tags":["digital-garden"],"created":"2025-08-30T20:07:02.630+01:00","updated":"2025-09-06T16:19:12.152+01:00"}
 ---
 
 
@@ -33,4 +33,4 @@ When I’m working with a book, I write my annotations directly into an Obsidian
 
 To distil ideas, I take the mass of annotations I’ve gathered and focus on the points that resonate with my thinking. I look for patterns, insights, or tensions that stand out across the notes, then condense them into a clear set of ideas I can carry forward and build on.
 
-The final stept is to turn a set of distilled notes into a piece of writing., I use them to spark new ideas, pull different perspectives together, and shape an argument that makes sense. I work out the structure as I go, testing how the ideas fit and refining the line of reasoning until it holds up. Then I put them into clear language others can follow and use.
+The final step is to turn a set of distilled notes into a piece of writing., I use them to spark new ideas, pull different perspectives together, and shape an argument that makes sense. I work out the structure as I go, testing how the ideas fit and refining the line of reasoning until it holds up. Then I put them into clear language others can follow and use.
