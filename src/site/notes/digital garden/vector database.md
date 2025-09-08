@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/vector-database/","tags":["#atom"],"created":"2025-08-22T13:20:12.734+01:00","updated":"2025-09-03T15:27:32.513+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/vector-database/","tags":["atom"],"created":"2025-08-22T13:20:12.734+01:00","updated":"2025-09-03T15:27:32.513+01:00"}
 ---
 
 A **vector database** stores information in a way that captures meaning, so you can search by ideas rather than just matching exact words.
