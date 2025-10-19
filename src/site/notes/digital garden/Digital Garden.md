@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-10-19T11:13:05.080+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-10-19T11:27:18.581+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
@@ -14,9 +14,11 @@ Transparency label: human only
 
 Maggie Appleton describes [[digital garden/digital gardening\|digital gardening]] as the nurturing of ideas, connecting them through contextual association rather than publication date. Beginning as seeds, the ideas grow and evolve through thinking. Some prove fruitful, others less so. 
 
-The first seed in this garden was planted during a philosophical exchange with Giles Freathy. We were talking about the temptation to outsource our thinking to AI. This risks us losing our critical thinking skills, and the judgement and decision-making abilities which depend on that. We need a better understanding of the problem with Human-AI interaction. Perhaps we could set up  [[digital garden/Exploring a collaboration\|a collaboration]] to study it?
+The first seed in this garden was planted during a philosophical exchange with Giles Freathy. We were talking about the temptation to outsource our thinking to AI. This risks us losing our critical thinking skills, and the judgement and decision-making abilities which depend on that. We need a better understanding of the problem with Human-AI interaction. Perhaps we could set up [[digital garden/Exploring a collaboration\|a collaboration]] to study it?
 
-But what is AI, and how do we interact with it? By AI, we usually mean large language models. Though not yet intelligent, they can seem so. This in itself is a concern as it can <a href="https://www.mentalhealthjournal.org/articles/minds-in-crisis-how-the-ai-revolution-is-impacting-mental-health.html">induce or exacerbate psychiatric symptoms</a> (AI psychosis), particularly in vulnerable individuals. 
+But what is AI, and how do we interact with it? By AI, we usually mean large language models. Though not yet intelligent, they can seem so. As reported in the <a href="https://www.mentalhealthjournal.org/articles/minds-in-crisis-how-the-ai-revolution-is-impacting-mental-health.html">Journal of Mental Health & Clinical Psychology</a>:
+
+> The rapid proliferation of AI and conversational AI chatbots has introduced unprecedented mental health challenges that mental health professionals are ill-equipped to address. ... the documented convergence of attachment formation, delusional thinking, and harmful outcomes ... represents a significant public health concern ... 
 
  The second seed in this garden arises from the need for there to be an ethos of caring about how the Human-AI relationship evolves. We need to think carefully about how [[digital garden/Values, Ethics, Culture, & Ethos\|values, ethics, culture, and ethos]] fit together.
  
