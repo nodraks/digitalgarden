@@ -1,22 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-06T15:32:02.485+00:00"}
+{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-06T16:04:02.851+00:00"}
 ---
 
 # AI-embedded Business
 ## Introduction
 
-This document explores what it means for a small business to become **AI-embedded**. That is, to treat artificial intelligence not as a bolt-on tool but as a working member of the organisation. Our aim is practical: to understand how AI can participate in the business of serving clients, improving operations, and sustaining value over time.
+This document explores what it means for a small business to become **AI-embedded**. That is, to treat artificial intelligence not as a bolt-on tool but as a working member of the organisation. We will examine how control, trust, and responsibility operate when AI systems act as collaborators; how they are **embedded** rather than merely **enabled**. From this, we will develop the methods that make such collaboration durable: contextual scaffolding, context engineering, and the disciplined management of knowledge.
 
-The approach is incremental. We will examine how control, trust, and responsibility operate when AI systems act as collaborators; how they are **embedded** rather than merely **enabled**. From this, we will develop the methods that make such collaboration durable: contextual scaffolding, context engineering, and the disciplined management of knowledge.
+This is very much a **working paper**, not a finished document. The intention is to move step by step:
 
-The document should be read as a **working paper**, not a finished model. It reflects our reasoning as we test and refine ideas within the business. The intention is to move step by step:
-
-1. To clarify what embedding AI actually involves.
-    
-2. To define the practices that make it reliable and auditable.
-    
-3. To model how an AI-embedded organisation creates and delivers value.
-    
+1. to clarify what embedding AI actually involves; then
+2. to define the practices that make it reliable and auditable; and finally
+3. to model how an AI-embedded organisation creates and delivers value.
 
 ## How do we control an AI?
 
