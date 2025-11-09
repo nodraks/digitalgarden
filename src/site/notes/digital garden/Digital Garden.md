@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-11-06T15:48:38.274+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-11-08T09:10:27.872+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
@@ -40,7 +40,7 @@ The fifth seed in this digital garden is about how AI can be deployed into a sma
 
 ---
 
-## Seeds
+# Seeds
 
 What is the problem with Human-AI interaction?
 Ethos of caring about the Human-AI relationship
