@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-09T12:14:59.320+00:00"}
+{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-11T08:06:19.821+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 
@@ -41,7 +41,12 @@ To be “embedded” in this sense does not mean giving AI autonomy. It means bu
 
 ## Contextual Scaffolding
 
-For an AI system to perform usefully, humans must define and maintain the informational environment in which it operates.. We might call this environment the AI's **contextual scaffolding**; it contains the knowledge, references, and constraints that shape the AI's behaviour in a given role.
+For an AI system to perform usefully, humans must define and maintain the informational environment in which it operates.. We might call this operational workspace the AI's **contextual scaffolding**. It shapes the AI's behaviour, and its key elements are:
+
+- orientation - background information about the business, culture, values, and objectives;
+- role definition - clear articulation of what the AI is responsible for and what boundaries exist; 
+- reference material - internal resources such as knowledge bases, manuals, and policy documents that guide decision-making; and
+- task definition - specific instructions, desired outcomes, and processes to follow.
 
 Different business functions require different scaffolding configurations. In practice, this means preparing and maintaining **context packages**: structured sets of instructions, reference material, and data that define how the AI should operate within a given process or workflow. These packages are created and maintained through the discipline of _context engineering_ described in the next section.
 
