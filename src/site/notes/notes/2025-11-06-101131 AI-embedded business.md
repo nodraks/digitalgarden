@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-14T10:34:14.036+00:00"}
+{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-14T10:42:07.537+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 
@@ -87,15 +87,15 @@ Persistent context provides continuity and alignment; current context gives focu
 
 Context engineering turns business knowledge into structured, reusable form. It draws on several key technical practices that are documented in detail elsewhere.
 
-**Structured formats** use Markdown, JSON, or similar machine-readable layouts to keep information clear and accessible (_see Information Typing and Format Design_).
+> **Structured formats** use Markdown, JSON, or similar machine-readable layouts to keep information clear and accessible.
 
-A **chunking strategy** divides material into small, self-contained units (typically 100–500 tokens) that each express a single idea or process (_see Chunk Design and RAG Optimisation_).
+> A **chunking strategy** divides material into small, self-contained units (typically 100–500 tokens) that each express a single idea or process.
 
-A **knowledge architecture** helps maintain a consistent hierarchy of files and references so that context can scale from overview to detail (_see Knowledge Management for AI-OS_).
+> A **knowledge architecture** helps maintain a consistent hierarchy of files and references so that context can scale from overview to detail.
 
-**Context packages**, predefined sets of persistent and current information, can be loaded or refreshed for a recurring task (_see Goal-Directed Context Management_).
+> **Context packages**, predefined sets of persistent and current information, can be loaded or refreshed for a recurring task.
 
-**Versioning and traceability** keep track of which context packages, prompts, or reference sets produced particular outputs (_see Context Governance and Audit_).
+> **Versioning and traceability** keep track of which context packages, prompts, or reference sets produced particular outputs.
 
 These techniques make context engineering repeatable. They allow us to update one element without corrupting the whole system and to reuse proven configurations across different projects or roles. Context engineering maintains both persistent and temporary scaffolding, ensuring that project-based work and routine operations share the same disciplined framework.
 
