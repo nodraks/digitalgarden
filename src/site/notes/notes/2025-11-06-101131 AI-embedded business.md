@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-14T10:42:07.537+00:00"}
+{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-14T10:43:55.952+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 
@@ -85,7 +85,7 @@ Persistent context provides continuity and alignment; current context gives focu
 
 ### How context is built and maintained
 
-Context engineering turns business knowledge into structured, reusable form. It draws on several key technical practices that are documented in detail elsewhere.
+Context engineering turns business knowledge into structured, reusable form. It draws on several key technical practices.
 
 > **Structured formats** use Markdown, JSON, or similar machine-readable layouts to keep information clear and accessible.
 
