@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-14T09:49:18.191+00:00"}
+{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-14T10:34:14.036+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 
@@ -50,7 +50,7 @@ Different business functions require different scaffolding configurations. In pr
 
 In an AI-embedded business, contextual scaffolding is not a one-off setup but a managed artefact. It changes with the nature of the work and must be maintained alongside business processes, policies, and data assets. By treating contextual scaffolding as part of the operational infrastructure, a business can ensure that AI contributions remain aligned with objectives and that every output is traceable to a defined configuration.
 
-## Persistent and Temporary Scaffolding
+## Temporary and Persistent Scaffolding
 
 Contextual scaffolding can be either **temporary** or **persistent**, depending on the nature of the work it supports.
 
@@ -58,7 +58,7 @@ Contextual scaffolding can be either **temporary** or **persistent**, depending 
 
 **Persistent scaffolding** supports repeatable business functions such as client support, billing, or recruitment. It provides a stable, reusable environment that keeps AI systems aligned with established processes over time. Its purpose is to maintain **stability**.
 
-Together, these two forms of scaffolding give the business both adaptability and consistency. Temporary scaffolding enables exploration and innovation; persistent scaffolding ensures dependable day-to-day performance. Both are designed, version-controlled, and maintained within the same context-engineering discipline described in the next section.
+Together, these two forms of scaffolding give the business both adaptability and consistency. Temporary scaffolding enables exploration and innovation; persistent scaffolding ensures dependable day-to-day performance. Both are designed, version-controlled, and maintained through context engineering.
 
 ## Context Engineering
 
@@ -66,7 +66,7 @@ Context engineering is the discipline that builds, maintains, and governs the co
 
 The discipline gives structure and traceability to AI use. It ensures that the information shaping AI behaviour is versioned, reviewable, and reusable. It also provides a way to scale: once a sound configuration is in place, it can be adapted for other roles or projects without starting again.
 
-In this sense, context engineering is the operational technology of embedding. It keeps human and AI participants in the same operational framework, and it allows that framework to be maintained as both people and AIs change over time.
+In this sense, context engineering is the operational technology of embedding. It keeps human and AI in the same operational framework, and it allows that framework to be maintained as both people and AIs change over time.
 
 ## How do we engineer context?
 
@@ -98,6 +98,16 @@ A **knowledge architecture** helps maintain a consistent hierarchy of files and 
 **Versioning and traceability** keep track of which context packages, prompts, or reference sets produced particular outputs (_see Context Governance and Audit_).
 
 These techniques make context engineering repeatable. They allow us to update one element without corrupting the whole system and to reuse proven configurations across different projects or roles. Context engineering maintains both persistent and temporary scaffolding, ensuring that project-based work and routine operations share the same disciplined framework.
+
+Simply adding more context does not guarantee better performance, however. In fact, it can introduce significant challenges:
+
+- **Information Overload**: LLMs may fail to distinguish between relevant and irrelevant details, leading to confusion or "lost in the middle" effects, where critical information is overlooked.
+- **Performance Degradation**: Studies show that model performance on tasks like reasoning or summarization often declines as context size grows beyond an optimal point, especially if the information is unstructured or redundant.
+- **Resource Costs**: Larger context windows increase computational demands, slowing response times and raising operational costs without proportional benefits.
+
+The deeper issue is not just the volume of context, but how it is managed. Large Language Models lack inherent mechanisms for **selective attention** or **true contextual reasoning**. Without careful structuring (such as prioritizing, filtering, or summarizing information) they treat all input as equally important, diluting the value of the context provided.
+
+For businesses, this underscores the need for a disciplined approach to curating, maintaining, and delivering information in ways that align with the AI’s strengths and the organization’s goals.
 
 ### The business value
 
