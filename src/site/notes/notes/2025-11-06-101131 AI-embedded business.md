@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-11T08:06:19.821+00:00"}
+{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-14T09:49:18.191+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 
@@ -10,9 +10,7 @@
 # An AI-embedded Business
 ## Introduction
 
-This document explores what it means for a small business to become **AI-embedded**. That is, to integrate AI systems so deeply into its operations that they behave _as if_ they were active team members, though they remain instruments of human intention. The aim is not to personify AI but to understand how it can operate dependably within human-defined structures of control, trust, and responsibility. 
-
-From this, we will develop the methods that make such collaboration durable: contextual scaffolding, context engineering, and the disciplined management of knowledge. Contextual scaffolding defines the environment; context engineering manages it as infrastructure; both operate entirely under human intention and oversight.
+For this essay, an AI-embedded business is defined as one in which AI systems are deeply integrated into its operations. Because of the way they interact with members of the business team, these systems can seem to behave as if they, too, were team members. But they remain instruments of human intention, and the aim is to understand how AI can be made to operate dependably within human-defined structures of control, trust, and responsibility. We will explore the methods that make such operation durable: contextual scaffolding to define the AI’s working environment, context engineering to manage that environment as part of the business infrastructure, and the disciplined management of knowledge. 
 
 This is very much a **working paper**, not a finished document. The intention is to move step by step:
 
@@ -28,7 +26,7 @@ To use an AI effectively, we have to configure it’s behaviour to suit the purp
 
 _Contextual control_, the method of controlling the AI by putting information into its context, is similar to the way we control a computer by giving it a program to run. But there is an important difference: a computer is deterministic, it executes the instructions in its program precisely, whereas an AI _interprets_ the information we give it. We should aim, therefore, to give the AI all the information it needs to avoid losing focus. A vague prompt gets a vague answer. A precise prompt with the right background information gets us something much more useful.
 
-There are clear parallels with the way we guide a human team member. A person draws on stored knowledge, follows instructions, and interprets information in light of prior experience. An AI does something broadly similar: it draws on the knowledge acquired during training, and interprets the information in its context to generate a response. The difference lies not in the act of interpretation but in its basis:  experiential for the person, statistical for the AI. The practical effect, however, is that both can engage in dialogue where meaning and intent are clarified through exchange.
+There are parallels with the way we guide a human team member. A person draws on stored knowledge, follows instructions, and interprets information in light of prior experience. An AI does something broadly similar: it draws on the knowledge acquired during training, and interprets the information in its context to generate a response. The difference lies not in the act of interpretation itself, but in its foundation: humans rely on lived experience, while AI relies on patterns in data. In practice, however, both can participate in dialogue where meaning and intent emerge through ongoing exchange
 
 The distinction between _instructional control_ and _contextual control_ is important. Traditional computing is about explicit commands; AI control is about _constraint and alignment_ through shared context. “Control” here really means _steering_, not command and control. We must acknowledge that interpretation of its instructions by an AI introduces _uncertainty_ and _risk of misalignment_. Feedback is essential: testing and review provide the same corrective loop that supervision gives human staff.
 ## How do we embed AI?
