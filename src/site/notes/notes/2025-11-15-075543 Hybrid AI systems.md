@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025-11-15-075543-hybrid-ai-systems/","title":"2025-11-15-075543 Hybrid AI systems","created":"2025-11-15T07:55:43.776+00:00","updated":"2025-11-15T08:19:10.634+00:00"}
+{"dg-publish":true,"permalink":"/notes/2025-11-15-075543-hybrid-ai-systems/","title":"2025-11-15-075543 Hybrid AI systems","created":"2025-11-15T07:55:43.776+00:00","updated":"2025-11-15T08:47:26.185+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 
@@ -12,7 +12,7 @@ Transparency label: AI-heavy. Sources of information were curated by NotebookLM,
 
 # Hybrid AI Systems 
 
-The future of enterprise AI is taking a clear shape. Hybrid deployment strategies are moving from theory to practice, pairing autonomous, orchestrating agents with specialised Small Language Models for the bulk of routine work. Larger, more expensive LLMs are used only when the task genuinely warrants their power. Throughout, human oversight remains the anchor, ensuring that judgement, accountability, and context stay firmly in human hands.
+The future of enterprise AI is taking a clear shape. Hybrid deployment strategies are moving from theory to practice, pairing autonomous, orchestrating agents with specialised Small Language Models (SLMs) for the bulk of routine work. Larger, more expensive Large Language Models (LLMs) are used only when the task genuinely warrants their power. Throughout, human oversight remains the anchor, ensuring that judgement, accountability, and context stay firmly in human hands.
 
 ## To what extent can a hybrid deployment strategy be implemented today?
 
