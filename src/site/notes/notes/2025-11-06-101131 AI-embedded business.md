@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-14T10:45:10.022+00:00"}
+{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-15T08:11:21.371+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 
 
-**Status:** ✅ Seed → 🔸 Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
+**Status:** 🔸 Seed → ✅ Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
 
 ---
 # An AI-embedded Business
