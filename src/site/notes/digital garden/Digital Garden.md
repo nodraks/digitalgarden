@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-11-09T12:21:52.642+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-08-11T21:46:53.866+01:00","updated":"2025-11-15T08:08:20.338+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
@@ -34,7 +34,7 @@ There is scope for AI technology to enhance our thinking in that workspace witho
 
 We can take this a step further by inviting an AI into our thinking space. If we connect the AI to the vector database mentioned above, we will be able to use it in all sorts of interesting ways to explore and develop our thinking. The danger here, of course, is the temptation to let the AI do our thinking for us. This is where [[digital garden/Goal-Directed Context Management v1\|context management]] can help. We will have to configure the AI's behaviour to reduce that danger. We can give it freedom to find things in the network, to point us in useful directions, to critique our ideas, to highlight interesting relationships amongst them, and to question the logic of our arguments. Equally, we can instruct it not to offer its own ideas or solutions to the problems we are thinking about. We must configure it to guide us up the knowledge mountain, not carry us to the top. 
 
-The fifth seed in this digital garden is about how AI can be deployed into a small business and what we mean by an [[notes/2025-11-06-101131 AI-embedded business\|AI-embedded business]]. 
+The fifth seed in this digital garden is about how AI can be deployed into a small business. What do we mean by an [[notes/2025-11-06-101131 AI-embedded business\|AI-embedded business]], and are [[notes/2025-11-15-075543 Hybrid AI systems\|hybrid AI systems]] (a combination of small and large language models) what we should be focusing on?
 
 
 
