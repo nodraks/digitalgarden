@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025-11-15-075543-hybrid-ai-systems/","title":"2025-11-15-075543 Hybrid AI systems","created":"2025-11-15T07:55:43.776+00:00","updated":"2025-11-15T08:06:54.315+00:00"}
+{"dg-publish":true,"permalink":"/notes/2025-11-15-075543-hybrid-ai-systems/","title":"2025-11-15-075543 Hybrid AI systems","created":"2025-11-15T07:55:43.776+00:00","updated":"2025-11-15T08:19:10.634+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 
 
 **Status:** 🔸 Seed → ✅ Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
+
+Transparency label: AI-heavy. Sources of information were curated by NotebookLM, raw material for this piece was drawn from those sources by NotebookLM in response to human prompts, and the final editing was done by a ChatGPT instance with contextual scaffolding configured by Alec Fearon. 
 
 ---
 
