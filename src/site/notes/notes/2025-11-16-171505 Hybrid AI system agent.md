@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025-11-16-171505-hybrid-ai-system-agent/","title":"2025-11-16-171505 Hybrid AI system agent","created":"2025-11-16T17:15:05.786+00:00","updated":"2025-11-16T17:43:30.816+00:00"}
+{"dg-publish":true,"permalink":"/notes/2025-11-16-171505-hybrid-ai-system-agent/","title":"2025-11-16-171505 Hybrid AI system agent","created":"2025-11-16T17:15:05.786+00:00","updated":"2025-11-16T17:49:31.752+00:00"}
 ---
 
  <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 
@@ -39,9 +39,7 @@ A workable agent usually contains:
     Again: software.
     
 
-So the agent is software that happens to employ one or more AI models. If the agent were itself an SLM or an LLM, it would be a clever model with no hands — no API calls, no integrations, no persistence, no guarantees.
-
-This distinction is important for risk, governance, and reliability:
+So the agent is software that happens to employ one or more AI models. If the agent were itself an SLM or an LLM, it would be a clever model with no hands — no API calls, no integrations, no persistence, no guarantees. This distinction is important for risk, governance, and reliability:
 
 - The **agent** handles control flow, safety, escalation, audit trails.
     
