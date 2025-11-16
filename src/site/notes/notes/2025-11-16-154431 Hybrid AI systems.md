@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025-11-16-154431-hybrid-ai-systems/","title":"2025-11-16-154431 Hybrid AI systems","created":"2025-11-16T15:44:31.396+00:00","updated":"2025-11-16T17:37:26.547+00:00"}
+{"dg-publish":true,"permalink":"/notes/2025-11-16-154431-hybrid-ai-systems/","title":"2025-11-16-154431 Hybrid AI systems","created":"2025-11-16T15:44:31.396+00:00","updated":"2025-11-16T17:40:00.458+00:00"}
 ---
 
  <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 
@@ -9,6 +9,8 @@
 Transparency label: AI-assisted
 
 ---
+
+# Hybrid AI Systems
 
 Businesses are moving away from giant, general-purpose, Large Language Models toward hybrid AI systems which offer a better balance of cost, speed, and control. In a hybrid system, small, specialised models can run cheaply inside the organisation and handle most of the work, while larger models are used sparingly for harder problems. This reduces reliance on external services, keeps sensitive data in‑house, and makes AI adoption manageable rather than all‑or‑nothing.
 

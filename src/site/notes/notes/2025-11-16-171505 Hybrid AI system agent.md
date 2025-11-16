@@ -1,14 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025-11-16-171505-hybrid-ai-system-agent/","title":"2025-11-16-171505 Hybrid AI system agent","created":"2025-11-16T17:15:05.786+00:00","updated":"2025-11-16T17:38:00.809+00:00"}
+{"dg-publish":true,"permalink":"/notes/2025-11-16-171505-hybrid-ai-system-agent/","title":"2025-11-16-171505 Hybrid AI system agent","created":"2025-11-16T17:15:05.786+00:00","updated":"2025-11-16T17:43:30.816+00:00"}
 ---
 
  <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 
  
 **Status:** 🔸 Seed → ✅ Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
 
-Transparency label: AI-assisted
+Transparency label: AI-only
 
 ---
+
+# The Agent in a Hybrid AI System
 
 **The agent is a software system, not a model.**  
 It’s written in ordinary code (Python, Node, Go, whatever). It has modules, APIs, state management, error handling, logs, and a workflow engine. Inside that software, the agent _calls_ AI models as needed. The models are interchangeable components, not the agent itself.
