@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/phain-bootstrap-clarification/","created":"2025-08-17T09:36:51.931+01:00","updated":"2025-08-26T10:44:32.489+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/phain-bootstrap-clarification/","created":"2025-12-18T09:36:13.817+00:00","updated":"2025-08-26T10:44:32.489+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/notebook-diary-post-2025-08-21-1/","created":"2025-08-21T22:36:46.014+01:00","updated":"2025-09-03T15:26:53.791+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/notebook-diary-post-2025-08-21-1/","created":"2025-12-18T09:36:13.801+00:00","updated":"2025-09-03T15:26:53.791+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-11-06T10:11:33.643+00:00","updated":"2025-11-15T08:21:23.610+00:00"}
+{"dg-publish":true,"permalink":"/notes/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-12-18T09:36:14.269+00:00","updated":"2025-11-18T10:45:03.702+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 
@@ -41,12 +41,16 @@ To be “embedded” in this sense does not mean giving AI autonomy. It means bu
 
 ## Contextual Scaffolding
 
-For an AI system to perform usefully, humans must define and maintain the informational environment in which it operates.. We might call this operational workspace the AI's **contextual scaffolding**. It shapes the AI's behaviour, and its key elements are:
+For an AI system to perform usefully, humans must define and maintain the informational environment in which it operates.. We might call this operational workspace the AI's **contextual scaffolding**. It shapes the AI's behaviour, and its key elements include:
 
 - orientation - background information about the business, culture, values, and objectives;
 - role definition - clear articulation of what the AI is responsible for and what boundaries exist; 
 - reference material - internal resources such as knowledge bases, manuals, and policy documents that guide decision-making; and
 - task definition - specific instructions, desired outcomes, and processes to follow.
+- **situational context**: specific circumstances where output will be used;
+- audience context**: who will consume the AI's output;
+- **domain context**: industry or field-specific background;
+- **goal context**: desired outcomes and constraints
 
 Different business functions require different scaffolding configurations. In practice, this means preparing and maintaining **context packages**: structured sets of instructions, reference material, and data that define how the AI should operate within a given process or workflow. These packages are created and maintained through the discipline of _context engineering_ described in the next section.
 

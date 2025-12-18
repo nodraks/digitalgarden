@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/what-is-context/","created":"2025-08-03T08:49:16.639+01:00","updated":"2025-10-19T11:37:58.402+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/what-is-context/","created":"2025-12-18T09:36:13.849+00:00","updated":"2025-10-19T11:37:58.402+01:00"}
 ---
 
 ,<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 

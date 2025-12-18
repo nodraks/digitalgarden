@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025-11-16-171505-hybrid-ai-system-agent/","title":"2025-11-16-171505 Hybrid AI system agent","created":"2025-11-16T17:15:05.786+00:00","updated":"2025-11-16T18:16:37.312+00:00"}
+{"dg-publish":true,"permalink":"/notes/2025-11-16-171505-hybrid-ai-system-agent/","title":"2025-11-16-171505 Hybrid AI system agent","created":"2025-12-18T09:36:14.277+00:00","updated":"2025-11-16T18:16:37.312+00:00"}
 ---
 
  <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 

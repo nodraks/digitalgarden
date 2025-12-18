@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/workspace-for-my-brain/","tags":["digital-garden"],"created":"2025-08-30T20:07:02.630+01:00","updated":"2025-09-06T16:39:51.112+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/workspace-for-my-brain/","tags":["digital-garden"],"created":"2025-12-18T09:36:13.849+00:00","updated":"2025-09-06T16:39:51.112+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/project-instructions-for-ai-and-young-people-essay/","created":"2025-08-13T15:38:51.970+01:00","updated":"2025-08-22T07:17:18.104+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/project-instructions-for-ai-and-young-people-essay/","created":"2025-12-18T09:36:13.825+00:00","updated":"2025-08-22T07:17:18.104+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]]

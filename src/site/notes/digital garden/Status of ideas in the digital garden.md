@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/status-of-ideas-in-the-digital-garden/","created":"2025-08-20T10:18:18.493+01:00","updated":"2025-11-16T17:25:04.875+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/status-of-ideas-in-the-digital-garden/","created":"2025-12-18T09:36:13.833+00:00","updated":"2025-11-16T17:25:04.875+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 

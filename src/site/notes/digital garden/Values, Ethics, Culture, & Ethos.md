@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/values-ethics-culture-and-ethos/","created":"2025-08-11T22:00:29.414+01:00","updated":"2025-09-08T09:55:18.921+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/values-ethics-culture-and-ethos/","created":"2025-12-18T09:36:13.841+00:00","updated":"2025-09-08T09:55:18.921+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[digital garden/Digital Garden\|Digital Garden]] 
