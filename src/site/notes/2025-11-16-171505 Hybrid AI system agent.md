@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/2025-11-16-171505-hybrid-ai-system-agent/","title":"2025-11-16-171505 Hybrid AI system agent","created":"2025-12-20T12:21:37.550+00:00","updated":"2025-11-16T18:16:37.312+00:00"}
+{"dg-publish":true,"permalink":"/2025-11-16-171505-hybrid-ai-system-agent/","title":"2025-11-16-171505 Hybrid AI system agent","created":"2025-12-20T12:21:37.550+00:00","updated":"2025-12-31T10:57:29.537+00:00"}
 ---
 
  <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
  
-**Status:** 🔸 Seed → ✅ Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
-
 Transparency label: AI-only
 
 ---

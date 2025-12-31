@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/what-is-context/","created":"2025-12-20T12:21:37.237+00:00","updated":"2025-10-19T11:37:58.402+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/what-is-context/","created":"2025-12-20T12:21:37.237+00:00","updated":"2025-12-31T10:59:19.371+00:00"}
 ---
 
 ,<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
 
 # What is an AI's context?
-
-**Status:** 🔸 Seed → 🔸 Growing → ✅ Well-formed → 🔸 Fruitful → 🔸 Retired
 
 *Transparency label: human-only*
 

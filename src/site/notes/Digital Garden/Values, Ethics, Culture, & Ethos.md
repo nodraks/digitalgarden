@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/values-ethics-culture-and-ethos/","created":"2025-12-20T12:21:37.237+00:00","updated":"2025-09-08T09:55:18.921+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/values-ethics-culture-and-ethos/","created":"2025-12-20T12:21:37.237+00:00","updated":"2025-12-31T10:59:00.275+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
 # How Values, Ethics, Culture, & Ethos Connect
 
 *Source: Chat with Perplexity AI*
-
-**Status:** ✅ Seed → 🔸 Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
 
 ---
 
