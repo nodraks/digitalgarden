@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ideaverse/","tags":["digital-garden"],"created":"2025-12-20T12:21:37.237+00:00","updated":"2025-12-31T10:48:25.901+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ideaverse/","tags":["#digital-garden"],"created":"2025-12-20T12:21:37.237+00:00","updated":"2025-12-31T10:48:25.901+00:00"}
 ---
 
 
