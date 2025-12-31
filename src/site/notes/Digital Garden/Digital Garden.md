@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-12-20T12:21:37.175+00:00","updated":"2025-12-31T08:50:42.426+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2025-12-20T12:21:37.175+00:00","updated":"2025-12-31T10:50:28.555+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
@@ -31,15 +31,3 @@ There is scope for AI technology to enhance our thinking in that workspace witho
 We can take this a step further by inviting an AI into our thinking space. If we connect the AI to the vector database mentioned above, we will be able to use it in all sorts of interesting ways to explore and develop our thinking. The danger here, of course, is the temptation to let the AI do our thinking for us. This is where [[Digital Garden/Goal-Directed Context Management v1\|context management]] can help. We will have to configure the AI's behaviour to reduce that danger. We can give it freedom to find things in the network, to point us in useful directions, to critique our ideas, to highlight interesting relationships amongst them, and to question the logic of our arguments. Equally, we can instruct it not to offer its own ideas or solutions to the problems we are thinking about. We must configure it to guide us up the knowledge mountain, not carry us to the top. 
 
 Taking a wider perspective, how AI can be deployed into a small business. What do we mean by an [[2025-11-06-101131 AI-embedded business\|AI-embedded business]], and [[local-only\|local-only]] or [[2025-11-16-154431 Hybrid AI systems\|hybrid AI systems]] what we should be focusing on?
-
-
-
----
-
-# Seeds
-
-What is the problem with Human-AI interaction?
-Ethos of caring about the Human-AI relationship
-Managing AI behaviour
-Managing our own habits of thought
-An AI-embedded business
