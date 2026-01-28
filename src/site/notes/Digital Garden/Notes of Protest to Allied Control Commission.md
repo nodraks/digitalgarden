@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/notes-of-protest-to-allied-control-commission/","created":"2026-01-28T18:38:02.384+00:00","updated":"2026-01-28T18:40:50.236+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/notes-of-protest-to-allied-control-commission/","created":"2026-01-28T18:38:02.384+00:00","updated":"2026-01-28T18:52:58.855+00:00"}
 ---
 
 # Notes of Protest to Allied Control Commission 
@@ -54,7 +54,3 @@ Chambers’ effectiveness came from his ability to use the **Allied Control Comm
 ### **The Legacy of His "Notes"**
 
 When **Edward P. Southby** took over in 1947, he inherited a portfolio of "unresolved protests" drafted by Chambers. By 1949–1950, the Hungarian state (now fully under Stalinist control) stopped responding to these notes entirely. This diplomatic silence culminated in the **Edgar Sanders trial**, where the very commercial activities Chambers and Southby were conducting—protecting Western property—were rebranded as "espionage" and "economic sabotage."
-
----
-
-**Next Step:** Would you like me to look for any specific records regarding his wife or their residential life in Budapest, particularly their connection to the famous linguist **Kató Lomb**, who interpreted for the British Mission?
