@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2026-01-22T14:05:33.797+00:00","updated":"2026-01-28T18:18:28.118+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/digital-garden/","tags":["gardenEntry"],"created":"2026-01-22T14:05:33.797+00:00","updated":"2026-01-28T18:36:08.494+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
@@ -34,4 +34,4 @@ We can take this a step further by inviting an AI into our thinking space. If we
 Taking a wider perspective, how AI can be deployed into a small business. What do we mean by an [[2025-11-06-101131 AI-embedded business\|AI-embedded business]], and [[Local-Only AI\|Local-Only AI]] or [[2025-11-16-154431 Hybrid AI systems\|hybrid AI]] systems? What we should be focusing on?
 
 ---
-[[2026-01-28_1500 Stanley Victor James Chambers\|Victor Chambers Biography]]
+[[Digital Garden/Victor Chambers\|Victor Chambers]]
