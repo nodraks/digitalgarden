@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers-recall-to-london-in-1939/","created":"2026-01-28T17:22:23.166+00:00","updated":"2026-01-28T18:40:42.526+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers-recall-to-london-in-1939/","created":"2026-01-28T17:22:23.166+00:00","updated":"2026-01-28T19:57:35.628+00:00"}
 ---
 
 # Victor Chambers recall to London in 1939
@@ -14,8 +14,7 @@ The most definitive evidence is the **Foreign Office List and Diplomatic and Con
 
 - **The Record:** The 1939 and 1940 editions show Chambers’ transition. In early 1939, he is listed as **Vice-Consul in Budapest**.
     
-- **The Shift:** By the mid-1939 supplement, he is noted as being **"employed in the Foreign Office"** or on **"special duty."** This was the standard diplomatic parlance for personnel seconded to the Ministry of Information (MoI) or the BBC’s burgeoning European Service to prepare for wartime psychological operations.
-    
+- **The Shift:** By the mid-1939 supplement, he is noted as being **"employed in the Foreign Office"** or on **"special duty."** This was the standard diplomatic parlance for personnel seconded to the Ministry of Information (MoI) or the BBC’s burgeoning European Service to prepare for wartime psychological operations.    
 
 ## 2. BBC Internal Staffing Logs & "The Bush House" Records
 
@@ -23,8 +22,7 @@ Internal BBC documents (often cited in academic histories of the World Service) 
 
 - **Appointment Date:** Records indicate that in the summer of 1939, as the BBC expanded its "Broadcasting in Languages Other than English" (BLOE) initiative, Chambers was officially seconded to **Bush House**.
     
-- **Role Verification:** He is identified in these logs as the founding administrator who bridged the gap between the Foreign Office's policy requirements and the BBC's editorial standards. This is corroborated by **Gerard Mansell** in _Let Truth Be Told: 50 Years of the BBC External Services_, which discusses the recruitment of diplomatic "experts" like Chambers to lead regional desks at the outbreak of war.
-    
+- **Role Verification:** He is identified in these logs as the founding administrator who bridged the gap between the Foreign Office's policy requirements and the BBC's editorial standards. This is corroborated by **Gerard Mansell** in _Let Truth Be Told: 50 Years of the BBC External Services_, which discusses the recruitment of diplomatic "experts" like Chambers to lead regional desks at the outbreak of war.    
 
 ## 3. Biographical Evidence from Hungarian Sources
 
