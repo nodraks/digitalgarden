@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-28T18:35:31.116+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-28T18:47:32.638+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -8,9 +8,9 @@ Stanley Victor James Chambers, known professionally as **Victor Chambers**, was 
 
 ## Early Life and Marriage
 
-Chambers was born on **19 September 1887** at 3 Keston Road, Goose Green, Camberwell. His father, William James Earl Chambers, was a commercial traveller for the Alfred Alexander & Co|Alfred Alexander Bottling Company. He stayed with the company for fifty years, seeing it merge with other glass firms in 1913 to form United Glass Bottle Manufacturers Ltd. Victor was educated at West Cliff School in Ramsgate, a small private boarding school.
+Chambers was born on **19 September 1887** at 3 Keston Road, Goose Green, Camberwell. His father, William James Earl Chambers, was a commercial traveller for the Alfred Alexander Bottling Company. He stayed with the company for fifty years, seeing it merge with other glass firms in 1913 to form United Glass Bottle Manufacturers Ltd. Victor was educated at West Cliff School in Ramsgate, a small private boarding school.
 
-By 1912, Victor was living in Budapest, working as Secretary at the British Consulate-General and also as a freelance language teacher. He met Mary Emily Catherine Hilda Graepel (Hilda), sister of [[References/Heinrich Friedrich Hugo Graepel\|Harry Graepel]] who managed the Hugo Graepel machinery factory, at the home of a Hungarian family called Kelemen. The couple became engaged in 1910.
+By 1912, Victor was living in Budapest, working as Secretary at the British Consulate-General and also as a freelance language teacher. He met Mary Emily Catherine Hilda Graepel (Hilda), sister of Harry Graepel who managed the Hugo Graepel machinery factory, at the home of a Hungarian family called Kelemen. The couple became engaged in 1910.
 
 There was a complication: Victor had not been baptised. On 12 April 1912, he underwent adult baptism at the Continental Chaplaincy in Budapest, with Stephen Kelemen, Harry Graepel, and Harry's sister Emmy as sponsors. This was a discreet solution that avoided the social awkwardness of being baptised as an adult in London society. Three months later, on **20 July 1912**, Victor and Hilda were married at **St George's, Hanover Square**, London, under a Special Licence from the Archbishop of Canterbury. The ceremony was performed by the Right Reverend Bishop Bury. The Special Licence – an expensive instrument costing approximately £25–30 (equivalent to £3,000–4,000 today) – was necessary because neither party was resident in the parish.
 
@@ -42,11 +42,11 @@ Marshall, Sons & Co went into receivership in 1934. The Lincoln, Rutland and Sta
 
 On 10 September 1937, Victor was appointed to the **Department of Overseas Trade** as an Assistant in the commercial diplomatic service. He returned to Budapest as **Vice-Consul** at the British Legation. Hilda and the girls remained in England.
 
-In summer 1939, as war approached, Victor was [[2026-01-28_1720 Stanley Victor James Chambers\|recalled to London]] and seconded to Bush House. The Foreign Office List for mid-1939 records him as being on "special duty" – the standard diplomatic parlance for personnel seconded to the Ministry of Information or the BBC's European Service.
+In summer 1939, as war approached, Victor was [[Digital Garden/Victor Chambers recall to London in 1939\|recalled to London]] and seconded to Bush House. The Foreign Office List for mid-1939 records him as being on "special duty" – the standard diplomatic parlance for personnel seconded to the Ministry of Information or the BBC's European Service.
 
 ## The BBC Hungarian Service (1939–1944)
 
-Victor organised the **[[2026-01-28_1750 Stanley Victor James Chambers\|Hungarian Section of the BBC European Service]]**. On **5 September 1939**, just two days after Britain's declaration of war on Germany, he oversaw the first broadcast of **"Londoni Rádió"**. As founding **Programme Organiser**, he bridged the gap between the Foreign Office's policy requirements and the BBC's editorial standards. The Hungarian writer László Cs. Szabó, an early BBC broadcaster who worked under Victor, noted that the "Londoni Rádió" was organised by a British diplomat who spoke perfect Hungarian and had been brought back from Budapest specifically to provide "political and linguistic guidance" during the war.
+Victor organised the [[Digital Garden/The BBC Hungarian Service\|The BBC Hungarian Service]]. On **5 September 1939**, just two days after Britain's declaration of war on Germany, he oversaw the first broadcast of **"Londoni Rádió"**. As founding **Programme Organiser**, he bridged the gap between the Foreign Office's policy requirements and the BBC's editorial standards. The Hungarian writer László Cs. Szabó, an early BBC broadcaster who worked under Victor, noted that the "Londoni Rádió" was organised by a British diplomat who spoke perfect Hungarian and had been brought back from Budapest specifically to provide "political and linguistic guidance" during the war.
 
 After Britain declared war on Hungary on 7 December 1941, Victor's colleagues - British diplomatic and consular staff - remaining in Budapest were interned. They were repatriated through neutral Portugal in April 1942 as part of a diplomatic exchange.
 
@@ -54,7 +54,7 @@ After Britain declared war on Hungary on 7 December 1941, Victor's colleagues - 
 
 Following the Soviet capture of Budapest in 1945, Victor returned to Hungary as **Commercial Secretary** of the British Political Mission. Because a peace treaty was not yet in place, Hungary was under the authority of the **Allied Control Commission (ACC)**, chaired by Marshal Kliment Voroshilov.
 
-Victor served as the primary [[2026-01-28_1510 Stanley Victor James Chambers\|British economic liaison]] to the ACC. In this high-stakes environment, he was responsible for:
+Victor served as the primary [[Digital Garden/Victor Chambers and the Allied Control Commission\|British economic liaison]] to the ACC. In this high-stakes environment, he was responsible for:
 
 - **Protecting British Assets:** He fought to prevent the Soviet Union from seizing British-owned industrial assets, particularly in the oil and manufacturing sectors, which were being claimed as "German reparations."
     
