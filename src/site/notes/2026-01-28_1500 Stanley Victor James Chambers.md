@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2026-01-28-1500-stanley-victor-james-chambers/","created":"2026-01-28T17:27:37.720+00:00","updated":"2026-01-28T18:17:14.330+00:00"}
+{"dg-publish":true,"permalink":"/2026-01-28-1500-stanley-victor-james-chambers/","created":"2026-01-28T17:27:37.720+00:00","updated":"2026-01-28T18:23:17.466+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -18,7 +18,7 @@ The couple's first home was a flat in Zoltán Street (now Nádor Street), Budape
 
 ### World War I
 
-With the outbreak of war in 1914, Victor and Hilda returned to England with baby Joan, living with Victor's parents at their house named "Ashburton", in Forest Hill. **Vivien** was born in Lewisham on 15 July 1915. Victor joined the army and by February 1917 was graded as **Staff Lieutenant 3rd Class**.
+With the outbreak of war in 1914, Victor and Hilda returned to England with baby Joan, living with Victor's parents at their house named "Ashburton", in Forest Hill. **Vivien** was born in Lewisham on 15 July 1915. Victor joined the army, and February 1917 records show him as a **Staff Lieutenant 3rd Class**.
 
 ### The Clearing Office (1920–1931)
 
@@ -34,7 +34,7 @@ In 1931, Victor and his family returned to England. He was appointed **Secretary
 
 ### The Marshall Connection
 
-A 1930 Deed of Appointment named Victor as one of the trustees of a trust fund established for [[References/Emily Eliza Marshall\|Emily Eliza Marshall]] (his mother-in-law) under the will of [[References/Henry Dickenson Marshall\|Henry Dickenson Marshall]] (his father-in-law and managing director of [[2025-11-01-151221 Marshall, Sons & Co\|Marshall, Sons & Co]]. 
+A 1930 Deed of Appointment named Victor as one of the trustees of a trust fund established for [[References/Emily Eliza Marshall\|Emily Eliza Marshall]] (his mother-in-law) under the will of [[References/Henry Dickenson Marshall\|Henry Dickenson Marshall]] (his father-in-law and managing director of [[2025-11-01-151221 Marshall, Sons & Co\|Marshall, Sons & Co]]). 
 
 Marshall, Sons & Co went into receivership in 1934. The Lincoln, Rutland and Stamford Mercury of 22 January 1937 reported that Victor purchased part of the assets of Marshall, Sons & Co Ltd from the receiver, though the nature of this purchase is not recorded.
 
