@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ideaverse/","tags":["#digital-garden"],"created":"2025-12-20T12:21:37.237+00:00","updated":"2025-12-31T10:48:25.901+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/ideaverse/","tags":["digital-garden"],"created":"2026-01-22T14:05:33.812+00:00","updated":"2025-12-31T13:24:05.794+00:00"}
 ---
 
 
@@ -13,7 +13,7 @@ Everything is in one vault. My own thinking (something I wrote, or that relates 
 
 There are two reference folders:
 - *References* where I write about things that exist outside my personal world: people, places, events, books, and so on.  
-- *Clippings* where I save other people's writing; I use the <a href="https://stephango.com/obsidian-web-clipper">Obsidian web clipper</a> to save web articles and pages (along with their metadata) directly into notes in that folder. 
+- *Clippings* where I file other people's writing; I use the <a href="https://stephango.com/obsidian-web-clipper">Obsidian web clipper</a> to save web articles and pages (along with their metadata) directly into notes in that folder. 
 
 I use three admin folders so that their content can be excluded from the file navigation: 
 - *Attachments* for images, audio, videos, PDFs, etc.

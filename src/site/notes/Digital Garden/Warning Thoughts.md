@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/warning-thoughts/","created":"2025-12-20T12:21:37.237+00:00","updated":"2025-08-14T08:50:13.511+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/warning-thoughts/","created":"2026-01-22T14:05:33.859+00:00","updated":"2025-08-14T08:50:13.511+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 

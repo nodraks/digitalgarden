@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2025-12-20T12:21:37.534+00:00","updated":"2025-12-31T10:58:20.625+00:00"}
+{"dg-publish":true,"permalink":"/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","created":"2026-01-22T14:05:26.107+00:00","updated":"2025-12-31T10:58:20.625+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 

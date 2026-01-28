@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/semantic-connection/","tags":["#atom"],"created":"2025-12-20T12:21:37.222+00:00","updated":"2025-09-03T15:27:15.909+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/semantic-connection/","tags":["atom"],"created":"2026-01-22T14:05:33.828+00:00","updated":"2025-09-03T15:27:15.909+01:00"}
 ---
 
 A semantic connection is a link between pieces of information based on their meaning, not just the exact words they use.

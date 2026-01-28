@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/phain-startup-prompt/","created":"2025-12-20T12:21:37.190+00:00","updated":"2025-08-17T10:29:03.408+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/phain-startup-prompt/","created":"2026-01-22T14:05:33.812+00:00","updated":"2025-08-17T10:29:03.408+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 

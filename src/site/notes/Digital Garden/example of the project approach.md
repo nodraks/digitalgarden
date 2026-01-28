@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/example-of-the-project-approach/","created":"2025-12-20T12:21:37.175+00:00","updated":"2025-08-20T12:37:31.577+01:00"}
+{"dg-publish":true,"permalink":"/digital-garden/example-of-the-project-approach/","created":"2026-01-22T14:05:33.797+00:00","updated":"2025-08-20T12:37:31.577+01:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Digital Garden/Digital Garden\|Digital Garden]] 
