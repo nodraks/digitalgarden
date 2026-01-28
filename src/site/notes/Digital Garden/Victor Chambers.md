@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-28T18:47:32.638+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-28T19:17:46.245+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
+
+---
 
 Stanley Victor James Chambers, known professionally as **Victor Chambers**, was a British diplomat whose career spanned four decades in Central European affairs. His deep linguistic mastery of Hungarian and intimate knowledge of the country, gained through marriage into a prominent Anglo-Hungarian family, made him an invaluable asset to British interests during two world wars and the early Cold War.
 
