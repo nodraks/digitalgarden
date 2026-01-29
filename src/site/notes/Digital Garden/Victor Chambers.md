@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-29T08:48:33.532+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-29T10:35:48.153+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -12,11 +12,11 @@ Stanley Victor James Chambers, known as **Victor Chambers**, was a British diplo
 
 Victor Chambers was born on **19 September 1887** at 3 Keston Road, Goose Green, Camberwell. His father, William James Earl Chambers, was a commercial traveller for the Alfred Alexander Bottling Company. William stayed with the company for fifty years, seeing it merge with other glass firms in 1913 to form United Glass Bottle Manufacturers Ltd. 
 
-Victor was educated at West Cliff School in Ramsgate, a small private boarding school.
+Victor was educated at West Cliff School in Ramsgate. This was a "mathematical & classical boarding school" run by Arthur Philip Southee, with 21 pupils ranging in age from 8 to 16. 
 
 In 1910, Victor was living in Budapest, working at the British Consulate and perhaps also as a freelance language teacher. He met Mary Emily Catherine Hilda Graepel (Hilda), sister of Harry Graepel who managed the Hugo Graepel Machinery Factory, at the home of a Hungarian family called Kelemen. 
 
-Victor and Hilda became engaged in 1910. But there was a complication: Victor had not been baptised. On 12 April 1912, he underwent adult baptism at the Continental Chaplaincy in Budapest, with Stephen Kelemen, Harry Graepel, and Harry's sister Emmy as sponsors. This was a discreet solution that avoided the social awkwardness of being baptised as an adult in London society. Three months later, on **20 July 1912**, Victor and Hilda were married at **St George's, Hanover Square**, London, under a Special Licence from the Archbishop of Canterbury. The ceremony was performed by the Right Reverend Bishop Bury. The Special Licence was necessary because neither party was resident in the parish.
+Victor and Hilda became engaged in 1910. But there was a complication: Victor had not been baptised. On 12 April 1912, he underwent adult baptism at the Continental Chaplaincy in Budapest, with Stephen Kelemen, Harry Graepel, and Harry's mother Emily Graepel as sponsors. This was a discreet solution that avoided the social awkwardness of being baptised as an adult in London society. Three months later, on **20 July 1912**, Victor and Hilda were married at **St George's, Hanover Square**, London, under a Special Licence from the Archbishop of Canterbury. The ceremony was performed by the Right Reverend Bishop Bury. The Special Licence was necessary because neither party was resident in the parish.
 
 The couple's first home was a flat in Zoltán Street (now Nádor Street), Budapest, near the Parliament. Their first daughter, Joan, was born there on 7 February 1914.
 
