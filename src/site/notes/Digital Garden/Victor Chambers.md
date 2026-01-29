@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-28T19:56:14.893+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-29T08:48:33.532+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -10,25 +10,33 @@ Stanley Victor James Chambers, known as **Victor Chambers**, was a British diplo
 
 ## Early Life and Marriage
 
-Victor Chambers was born on **19 September 1887** at 3 Keston Road, Goose Green, Camberwell. His father, William James Earl Chambers, was a commercial traveller for the Alfred Alexander Bottling Company. William stayed with the company for fifty years, seeing it merge with other glass firms in 1913 to form United Glass Bottle Manufacturers Ltd. Victor was educated at West Cliff School in Ramsgate, a small private boarding school.
+Victor Chambers was born on **19 September 1887** at 3 Keston Road, Goose Green, Camberwell. His father, William James Earl Chambers, was a commercial traveller for the Alfred Alexander Bottling Company. William stayed with the company for fifty years, seeing it merge with other glass firms in 1913 to form United Glass Bottle Manufacturers Ltd. 
 
-In 1910, Victor was living in Budapest, working at the British Consulate and perhaps also as a freelance language teacher. He met Mary Emily Catherine Hilda Graepel (Hilda), sister of Harry Graepel who managed the Hugo Graepel Machinery Factory, at the home of a Hungarian family called Kelemen. The couple became engaged in 1910.
+Victor was educated at West Cliff School in Ramsgate, a small private boarding school.
 
-There was a complication: Victor had not been baptised. On 12 April 1912, he underwent adult baptism at the Continental Chaplaincy in Budapest, with Stephen Kelemen, Harry Graepel, and Harry's sister Emmy as sponsors. This was a discreet solution that avoided the social awkwardness of being baptised as an adult in London society. Three months later, on **20 July 1912**, Victor and Hilda were married at **St George's, Hanover Square**, London, under a Special Licence from the Archbishop of Canterbury. The ceremony was performed by the Right Reverend Bishop Bury. The Special Licence was necessary because neither party was resident in the parish.
+In 1910, Victor was living in Budapest, working at the British Consulate and perhaps also as a freelance language teacher. He met Mary Emily Catherine Hilda Graepel (Hilda), sister of Harry Graepel who managed the Hugo Graepel Machinery Factory, at the home of a Hungarian family called Kelemen. 
+
+Victor and Hilda became engaged in 1910. But there was a complication: Victor had not been baptised. On 12 April 1912, he underwent adult baptism at the Continental Chaplaincy in Budapest, with Stephen Kelemen, Harry Graepel, and Harry's sister Emmy as sponsors. This was a discreet solution that avoided the social awkwardness of being baptised as an adult in London society. Three months later, on **20 July 1912**, Victor and Hilda were married at **St George's, Hanover Square**, London, under a Special Licence from the Archbishop of Canterbury. The ceremony was performed by the Right Reverend Bishop Bury. The Special Licence was necessary because neither party was resident in the parish.
 
 The couple's first home was a flat in Zoltán Street (now Nádor Street), Budapest, near the Parliament. Their first daughter, Joan, was born there on 7 February 1914.
 
 ## World War I
 
-With the outbreak of war in 1914, Victor and Hilda returned to England with baby Joan. They lived with Victor's parents at their house named "Ashburton", in Forest Hill. Their second daughter, Vivien, was born on 15 July 1915. Victor joined the army, and February 1917 records show him as a Staff Lieutenant 3rd Class.
+With the outbreak of war in 1914, the British Consulate in Budapest had to close. Victor and Hilda returned to England with baby Joan, and they lived with Victor's parents at their house named "Ashburton", in Forest Hill. A second daughter, Vivien, was born on 15 July 1915. Victor joined the army, and February 1917 records show him as a Staff Lieutenant 3rd Class.
 
 ## The Clearing Office (1920–1931)
 
-After the war, Victor was posted back to Budapest with Britain's newly established diplomatic legation. He served as **acting consul and head of the Clearing Office**, responsible for collecting reparations from Hungary. The family rented a first-floor apartment at 22 Mányoki út on Gellért Hill.
+In 1920, Victor was posted back to Budapest with Britain's diplomatic legation. The family rented a first-floor apartment at 22 Mányoki út on Gellért Hill,  where their landlady was Mrs. Szontág. Joan and Vivien had a governess who taught them in German.
+
+The British Consulate was housed in a large property at 1 Verboczy Utca (now known as Táncsics utca 1) in the Castle District of the city. Victor served as **Acting Consul and Head of the Clearing Office**.
+
+The Clearing Office was established under the post-war peace treaties (the Treaty of Versailles and, for Hungary, the Treaty of Trianon) as a means of settling pre-war debts between nationals of the erstwhile enemy states. Each government set up a Clearing Office through which outstanding debts owed by its nationals to those of the opposing state were collected and paid. The system prohibited direct payment between the parties; instead, the debtor's government collected the sums due and credited them to the creditor's Clearing Office, which in turn paid the creditor. Governments guaranteed the debts, accepting responsibility even where individual debtors could not pay. Victor, as head of the British Clearing Office in Budapest, was responsible for identifying, verifying, and collecting sums owed by Hungarian nationals to British creditors.
 
 In October 1920, Victor obtained a bank loan to purchase land on the Danube embankment adjoining the Graepel factory. This land was later rented to the Richter pharmaceutical company.
 
-Hilda returned to England for the birth of their third daughter, Claudia, on 20 April 1921 at Forest Hill. The family were reunited in Budapest early in 1922.
+Hilda took the girls with her when she returned to England for the birth of their third daughter. **Claudia** was born on 20 April 1921 at 2 Manor Court, Manor Mount, Forest Hill; she was named after Hilda's brother Claudius who died when he was 17 years old. 
+
+The family re-joined Victor in Budapest early in 1922, where the three girls were schooled at home by a German governess. Victor's diplomatic work meant that he and Hilda had a busy social life. To help, they had a Hungarian maid named Berjee, and a seamstress named Erszi who also helped with the cooking.  Many years later, Erszi went to England where she became housekeeper for and eventually married Bobby Chambers, Victor’s brother. 
 
 The Chambers and Graepel families remained close throughout the 1920s, spending Sundays together and usually Christmas. In summer, the two families would rent a villa beside Lake Balaton. Victor's daughters later recalled these as "nine happy years."
 
@@ -36,7 +44,7 @@ In 1931, Victor and his family returned to England. He was appointed **Secretary
 
 ## Marshall Matters
 
-A 1930 Deed of Appointment named Victor as one of the trustees of a trust fund established for Emily Eliza Marshall (his mother-in-law) under the will of Henry Dickenson Marshall (his father-in-law and managing director of Marshall, Sons & Co). 
+A 1930 Deed of Appointment named Victor as one of the trustees of a trust fund established for Emily Eliza Marshall (his mother-in-law) under the will of Henry Dickenson Marshall (his deceased father-in-law, who had been managing director of Marshall, Sons & Co). 
 
 Marshall, Sons & Co went into receivership in 1934. The Lincoln, Rutland and Stamford Mercury of 22 January 1937 reported that Victor purchased part of the assets of Marshall, Sons & Co Ltd from the receiver, though the nature of this purchase is not recorded.
 
@@ -66,7 +74,7 @@ Victor served as the primary [[Digital Garden/Victor Chambers and the Allied Con
 
 ## First Secretary (Commercial) and OBE
 
-When the tenure of the Allied Control Commission ended on 10 February 1947, Victor resumed the normal duties of the **First Secretary (Commercial)** at His Majesty's Legation in Budapest. 
+When the tenure of the Allied Control Commission ended on 10 February 1947, Victor resumed the normal duties of the **First Secretary (Commercial)** at the British Legation in Budapest. 
 
 Later that year, he handed over the commercial portfolio to his successor, **Edward Philip Southby**.
 
@@ -75,9 +83,9 @@ For his "exceptional service under difficult conditions" in post-war Budapest an
 ## Family
 
 Victor married Mary Emily Catherine Hilda Graepel (Hilda, also known as Maidie) in 1912. They had three daughters: 
-- Lilian Joan Chambers (Joan, 1914–?)
+- Lilian Joan Chambers (Joan, 1914–1984)
 - Vivien Gwendolen Graepel Chambers (Vivien, 1915–1986), who married John Still Lewis in 1939
-- Yvonne Claudia Marshall Chambers (Claudia, 1921–2006), named after Hilda's brother Claudius
+- Yvonne Claudia Marshall Chambers (Claudia, 1921–2007), named after Hilda's brother Claudius
 
 The three sisters were close friends throughout their lives and continued to speak Hungarian amongst themselves, especially on the telephone, much to the annoyance of their children in later years.
 
