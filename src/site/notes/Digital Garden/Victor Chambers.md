@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-29T10:35:48.153+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T08:57:34.789+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -50,15 +50,13 @@ Marshall, Sons & Co went into receivership in 1934. The Lincoln, Rutland and Sta
 
 ## Return to the Diplomatic Service (1937–1942)
 
-On 10 September 1937, Victor was appointed to the **Department of Overseas Trade** as an Assistant in the commercial diplomatic service. He returned to Budapest as **Vice-Consul** at the British Legation. Hilda and the girls remained in England.
+On 10 September 1937, Victor was appointed to the **Department of Overseas Trade** as an Assistant in the commercial diplomatic service. He returned to Budapest as Assistant Commercial Secretary at the British Legation. Hilda and the girls remained in England.
 
-In summer 1939, as war approached, Victor was [[Digital Garden/Victor Chambers recall to London in 1939\|recalled to London]] and seconded to Bush House. The Foreign Office List for mid-1939 records him as being on "special duty" – the standard diplomatic parlance for personnel seconded to the Ministry of Information or the BBC's European Service.
+After Britain declared war on Hungary on 7 December 1941, Victor's colleagues in Budapest - British diplomatic and consular staff - were interned. They were repatriated through neutral Portugal in April 1942 as part of a diplomatic exchange. There is a suggestion that Victor was not amongst them: that in the summer of 1939 he was recalled to London and seconded to Bush House. There is a so far unsubstantiated suggestion that the Foreign Office List for mid-1939 records him as being on "special duty" – the standard diplomatic parlance for personnel seconded to the Ministry of Information or the BBC's European Service. 
 
 ## The BBC Hungarian Service (1939–1944)
 
-Victor organised the [[Digital Garden/The BBC Hungarian Service\|The BBC Hungarian Service]]. On **5 September 1939**, just two days after Britain's declaration of war on Germany, he oversaw the first broadcast of **"Londoni Rádió"**. As founding **Programme Organiser**, he bridged the gap between the Foreign Office's policy requirements and the BBC's editorial standards. The Hungarian writer László Cs. Szabó, an early BBC broadcaster who worked under Victor, noted that the "Londoni Rádió" was organised by a British diplomat who spoke perfect Hungarian and had been brought back from Budapest specifically to provide "political and linguistic guidance" during the war.
-
-After Britain declared war on Hungary on 7 December 1941, Victor's former colleagues remaining in Budapest - the British diplomatic and consular staff - were interned. They were repatriated through neutral Portugal in April 1942 as part of a diplomatic exchange.
+There is no family recollection of Victor's role during the war. But the idea that he was involved with the **[[2026-01-28_1750 Stanley Victor James Chambers\|Hungarian Section of the BBC European Service]]** has appeal because it would have made perfect sense. The first broadcast of "Londoni Rádió" was made on **5 September 1939**, just two days after Britain's declaration of war on Germany. It is well documented that Foreign Office staff were seconded to bridge the gap between the Foreign Office's policy requirements and the BBC's editorial standards. There is also a suggestion (again unsubstantiated at present) that the Hungarian writer László Cs. Szabó, an early BBC broadcaster, noted that the "Londoni Rádió" was organised by a British diplomat who spoke perfect Hungarian and had been brought back from Budapest specifically to provide "political and linguistic guidance" during the war.
 
 ## The Allied Control Commission (1945–1947)
 
