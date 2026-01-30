@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/notes-of-protest-to-allied-control-commission/","created":"2026-01-28T18:38:02.384+00:00","updated":"2026-01-28T18:52:58.855+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/notes-of-protest-to-allied-control-commission/","created":"2026-01-28T18:38:02.384+00:00","updated":"2026-01-30T11:06:30.383+00:00"}
 ---
+
+[[Digital Garden/Victor Chambers\|Victor Chambers]] | [[Digital Garden/Victor Chambers and the Allied Control Commission\|Allied Control Commission]]
 
 # Notes of Protest to Allied Control Commission 
 

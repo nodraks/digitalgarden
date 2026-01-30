@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers-and-the-allied-control-commission/","created":"2026-01-28T18:36:58.192+00:00","updated":"2026-01-28T18:49:57.049+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers-and-the-allied-control-commission/","created":"2026-01-28T18:36:58.192+00:00","updated":"2026-01-30T11:04:51.023+00:00"}
 ---
+
+[[Digital Garden/Victor Chambers\|Victor Chambers]]
 
 # Victor Chambers and the Allied Control Commission
 
