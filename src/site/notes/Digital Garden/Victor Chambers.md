@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T10:32:14.245+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T10:46:32.886+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -52,7 +52,7 @@ Marshall, Sons & Co went into receivership in 1934. The Lincoln, Rutland and Sta
 
 On 10 September 1937, Victor was appointed to the **Department of Overseas Trade** as an Assistant in the commercial diplomatic service. He returned to Budapest as Assistant Commercial Secretary at the British Legation. Hilda and the girls remained in England.
 
-After Britain declared war on Hungary on 7 December 1941, Victor's colleagues in Budapest - British diplomatic and consular staff - were interned before being repatriated through neutral Portugal in April 1942 as part of a diplomatic exchange. There is a possibility that Victor was not amongst them: that in the summer of 1939 he was recalled to London and seconded to Bush House. There is a so-far-unsubstantiated suggestion that the Foreign Office List for mid-1939 records him as being on "special duty" – the standard diplomatic parlance for personnel seconded to the Ministry of Information or the BBC's European Service. 
+After Britain declared war on Hungary on 7 December 1941, Victor's colleagues in Budapest - British diplomatic and consular staff - were interned before being repatriated through neutral Portugal in April 1942 as part of a diplomatic exchange. There is a possibility that Victor was not amongst them; that in the summer of 1939 he was instead recalled to London and seconded to Bush House. There is a so-far-unsubstantiated suggestion that the Foreign Office List for mid-1939 records him as being on "special duty" – the standard diplomatic parlance for personnel seconded to the Ministry of Information or the BBC's European Service. 
 
 ## The BBC Hungarian Service (1939–1944)
 
@@ -95,35 +95,35 @@ Stanley Victor James Chambers died on **2 October 1954**, at the age of 67.
 
 # Detailed Timeline
 
-| Date | Event |
-|------|-------|
-| **1887 (19 Sept)** | Born at 3 Keston Road, Goose Green, Camberwell |
-| **1901** | Pupil at West Cliff School, Ramsgate (census) |
-| **1910** | Engaged to Mary Emily Catherine Hilda Graepel |
-| **1912 (12 April)** | Adult baptism at the Continental Chaplaincy, Budapest |
-| **1912 (20 July)** | Marries Mary Emily Catherine Hilda Graepel at St George's, Hanover Square |
-| **1914 (7 Feb)** | Daughter Joan born in Budapest |
-| **1914** | Returns to England with family at outbreak of WWI |
-| **1915 (15 July)** | Daughter Vivien born in Lewisham |
-| **1917 (6 Feb)** | Listed in London Gazette as Staff Lieutenant 3rd Class |
-| **1920** | Returns to Budapest as acting consul and head of Clearing Office |
-| **1920 (23 Oct)** | Purchases land on Danube embankment, Budapest |
-| **1921 (20 April)** | Daughter Claudia born at Forest Hill |
-| **1930** | Named as trustee in Deed of Appointment for Emily Marshall's trust fund |
-| **1931** | Returns to England; appointed Secretary to District Committee of Investigation, Newcastle |
-| **1937 (Jan)** | Purchases part of Marshall, Sons & Co assets from receiver |
-| **1937 (10 Sept)** | Appointed to Department of Overseas Trade as Assistant in commercial diplomatic service |
-| **c. 1938** | Returns to Budapest as Vice-Consul |
-| **1939 (early)** | Listed as Vice-Consul in Budapest (Foreign Office List) |
-| **1939 (summer)** | Recalled to London; seconded to Bush House |
-| **1939 (5 Sept)** | Launches BBC Hungarian Service ("Londoni Rádió") as first Programme Organiser |
-| **1941 (7 Dec)** | Britain declares war on Hungary; remaining British staff interned |
-| **1942 (April)** | British diplomatic staff repatriated to England via Portugal |
-| **1945 (Spring)** | Returns to Budapest as Commercial Secretary, British Political Mission |
-| **1945–1947** | Serves as British economic representative to Allied Control Commission |
-| **1948 (1 Jan)** | Awarded OBE in New Year Honours |
-| **1948** | Listed as First Secretary (Commercial) at HM Legation, Budapest |
-| **1954 (2 Oct)** | Dies, aged 67 |
+| Date                | Event                                                                                     |
+| ------------------- | ----------------------------------------------------------------------------------------- |
+| **1887 (19 Sept)**  | Born at 3 Keston Road, Goose Green, Camberwell                                            |
+| **1901**            | Pupil at West Cliff School, Ramsgate (census)                                             |
+| **1910**            | Engaged to Mary Emily Catherine Hilda Graepel                                             |
+| **1912 (12 April)** | Adult baptism at the Continental Chaplaincy, Budapest                                     |
+| **1912 (20 July)**  | Marries Mary Emily Catherine Hilda Graepel at St George's, Hanover Square                 |
+| **1914 (7 Feb)**    | Daughter Joan born in Budapest                                                            |
+| **1914**            | Returns to England with family at outbreak of WWI                                         |
+| **1915 (15 July)**  | Daughter Vivien born in Lewisham                                                          |
+| **1917 (6 Feb)**    | Listed in London Gazette as Staff Lieutenant 3rd Class                                    |
+| **1920**            | Returns to Budapest as acting consul and head of Clearing Office                          |
+| **1920 (23 Oct)**   | Purchases land on Danube embankment, Budapest                                             |
+| **1921 (20 April)** | Daughter Claudia born at Forest Hill                                                      |
+| **1930**            | Named as trustee in Deed of Appointment for Emily Marshall's trust fund                   |
+| **1931**            | Returns to England; appointed Secretary to District Committee of Investigation, Newcastle |
+| **1937 (Jan)**      | Purchases part of Marshall, Sons & Co assets from receiver                                |
+| **1937 (10 Sept)**  | Appointed to Department of Overseas Trade as Assistant in commercial diplomatic service   |
+| **c. 1938**         | Returns to Budapest as Vice-Consul                                                        |
+| **1939 (early)**    | Listed as Vice-Consul in Budapest (Foreign Office List)                                   |
+| **1939 (summer)**   | Perhaps recalled to London; seconded to Bush House                                        |
+| **1939 (5 Sept)**   | Perhaps launches BBC Hungarian Service ("Londoni Rádió") as first Programme Organiser     |
+| **1941 (7 Dec)**    | Britain declares war on Hungary; remaining British staff interned                         |
+| **1942 (April)**    | British diplomatic staff repatriated to England via Portugal                              |
+| **1945 (Spring)**   | Returns to Budapest as Commercial Secretary, British Political Mission                    |
+| **1945–1947**       | Serves as British economic representative to Allied Control Commission                    |
+| **1948 (1 Jan)**    | Awarded OBE in New Year Honours                                                           |
+| **1948**            | Listed as First Secretary (Commercial) at HM Legation, Budapest                           |
+| **1954 (2 Oct)**    | Dies, aged 67                                                                             |
 
 ---
 
