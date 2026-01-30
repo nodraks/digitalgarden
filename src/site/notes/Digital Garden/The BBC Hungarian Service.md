@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/the-bbc-hungarian-service/","created":"2026-01-28T18:39:26.461+00:00","updated":"2026-01-30T09:57:34.755+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/the-bbc-hungarian-service/","created":"2026-01-28T18:39:26.461+00:00","updated":"2026-01-30T11:10:35.643+00:00"}
 ---
+
+[[Digital Garden/Victor Chambers\|Victor Chambers]]
 
 # The BBC Hungarian Service
 
