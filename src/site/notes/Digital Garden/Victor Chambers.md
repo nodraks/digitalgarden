@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T13:08:32.949+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T13:15:19.035+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -79,7 +79,7 @@ For his "exceptional service under difficult conditions" in post-war Budapest, V
 ## Family
 
 Victor married Mary Emily Catherine Hilda Graepel (Hilda, also known as Maidie) in 1912. They had three daughters: 
-- Lilian Joan Chambers (Joan, 1914–1984)
+- Lilian Joan Chambers (Joan, 1914–1984), who married Jack Long in 1939
 - Vivien Gwendolen Graepel Chambers (Vivien, 1915–1986), who married John Still Lewis in 1939
 - Yvonne Claudia Marshall Chambers (Claudia, 1921–2007), named after Hilda's brother Claudius
 
