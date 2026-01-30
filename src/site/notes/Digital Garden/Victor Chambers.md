@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T12:54:00.281+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T13:08:32.949+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -52,7 +52,7 @@ Marshall, Sons & Co went into receivership in 1934. The Lincoln, Rutland and Sta
 
 On 10 September 1937, Victor was appointed to the **Department of Overseas Trade** as an Assistant in the commercial diplomatic service. He returned to Budapest as Assistant Commercial Secretary at the British Legation. Hilda and the girls remained in England.
 
-After Britain declared war on Hungary on 7 December 1941, Victor's colleagues in Budapest - British diplomatic and consular staff - were interned before being repatriated through neutral Portugal in April 1942 as part of a diplomatic exchange. There is a possibility that Victor was not amongst them; that in the summer of 1939 he was instead recalled to London and seconded to Bush House. This would be supported by an as yet unsubstantiated suggestion that the Foreign Office List for mid-1939 records him as being on "special duty" – the standard diplomatic parlance for personnel seconded to the Ministry of Information or the BBC's European Service. Victor's early return is also supported by a statement in Hugh's account of Victor.
+After Britain declared war on Hungary on 7 December 1941, Victor's colleagues in Budapest - British diplomatic and consular staff - were interned before being repatriated through neutral Portugal in April 1942 as part of a diplomatic exchange. There is a possibility that Victor was not amongst them; that in the summer of 1939 he was instead recalled to London and seconded to Bush House. This would be supported by an as yet unsubstantiated suggestion that the Foreign Office List for mid-1939 records him as being on "special duty" – the standard diplomatic parlance for personnel seconded to the Ministry of Information or the BBC's European Service. Victor's early return is also supported by a statement in Hugh Graepel's account of Victor.
 
 ## The BBC Hungarian Service (1939–1944)
 
@@ -72,11 +72,9 @@ Victor served as the primary [[Digital Garden/Victor Chambers and the Allied Con
 
 ## First Secretary (Commercial) and OBE
 
-When the tenure of the Allied Control Commission ended on 10 February 1947, Victor resumed the normal duties of the **First Secretary (Commercial)** at the British Legation in Budapest. 
+When the tenure of the Allied Control Commission ended on 10 February 1947, Victor resumed the normal duties of the **First Secretary (Commercial)** at the British Legation in Budapest. Hilda joined him in Hungary.  
 
-Later that year, he handed over the commercial portfolio to his successor, **Edward Philip Southby**.
-
-For his "exceptional service under difficult conditions" in post-war Budapest and his wartime contributions, he was appointed an **OBE** in the **1948 New Year Honours** (London Gazette, 30 December 1947).
+For his "exceptional service under difficult conditions" in post-war Budapest, Victor was appointed an **OBE** in the **1948 New Year Honours** (London Gazette, 30 December 1947). The following year, he handed over the commercial portfolio to his successor, **Edward Philip Southby**.
 
 ## Family
 
