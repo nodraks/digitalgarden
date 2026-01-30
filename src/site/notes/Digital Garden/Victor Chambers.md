@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T13:17:11.194+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T16:46:50.274+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -36,7 +36,7 @@ In October 1920, Victor obtained a bank loan to purchase land on the Danube emba
 
 Hilda took the girls with her when she returned to England for the birth of their third daughter. **Claudia** was born on 20 April 1921 at 2 Manor Court, Manor Mount, Forest Hill; she was named after Hilda's brother Claudius, who died when he was 17 years old. 
 
-The family re-joined Victor in Budapest early in 1922, where the three girls were schooled at home by a German governess. Victor's diplomatic work meant that he and Hilda had a busy social life. To help, they had a Hungarian maid named Berjee, and a seamstress named Erszi who also helped with the cooking.  Many years later, Erszi went to England where she became housekeeper for and eventually married Bobby Chambers, Victor’s brother. 
+The family re-joined Victor in Budapest early in 1922, where the three girls were schooled at home by a German governess. Victor's diplomatic work meant that he and Hilda had a busy social life. To help, they had a Hungarian maid named Berjee, and a seamstress named Erszi who also helped with the cooking.  Many years later, Erszi went to England where she became housekeeper for and eventually married Robert Chambers, Victor’s brother. 
 
 The Chambers and Graepel families remained close throughout the 1920s, spending Sundays together and usually Christmas. In summer, the two families would rent a villa beside Lake Balaton. Victor's daughters later recalled these as "nine happy years."
 
