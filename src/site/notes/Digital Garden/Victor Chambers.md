@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T09:51:38.981+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T10:22:24.899+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -10,7 +10,7 @@ Stanley Victor James Chambers, known as **Victor Chambers**, was a British diplo
 
 ## Early Life and Marriage
 
-Victor Chambers was born on **19 September 1887** at 3 Keston Road, Goose Green, Camberwell. His father, William James Earl Chambers, was a commercial traveller for the Alfred Alexander Bottling Company. William stayed with the company for fifty years, seeing it merge with other glass firms in 1913 to form United Glass Bottle Manufacturers Ltd. 
+Victor Chambers was born on **19 September 1887** at 3 Keston Road, Goose Green, Camberwell. His father, William James Earl Chambers, was a commercial traveller for the Alfred Alexander Bottle Company. William stayed with the company for fifty years, seeing it merge with other glass firms in 1913 to form United Glass Bottle Manufacturers Ltd. 
 
 Victor was educated at West Cliff School in Ramsgate. This was a "mathematical & classical boarding school" run by Arthur Philip Southee, with 21 pupils ranging in age from 8 to 16. 
 
