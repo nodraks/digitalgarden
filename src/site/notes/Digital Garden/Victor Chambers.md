@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T17:03:30.147+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T18:04:49.855+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -87,7 +87,7 @@ The three sisters were close friends throughout their lives and continued to spe
 
 ## Death
 
-Stanley Victor James Chambers died on **2 October 1954**, at the age of 67.
+In his later years, Stanley Victor James Chambers suffered from heart problems and Hodgkin's Disease (a cancer that originates in the lymphatic system). He died on **2 October 1954**, at the age of 67.
 
 ---
 
