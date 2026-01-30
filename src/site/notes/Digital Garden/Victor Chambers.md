@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T09:28:48.006+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T09:43:45.071+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -22,7 +22,7 @@ The couple's first home was a flat in Zoltán Street (now Nádor Street), Budape
 
 ## World War I
 
-With the outbreak of war in 1914, the British Consulate in Budapest had to close. Victor and Hilda returned to England with baby Joan, and they lived with Victor's parents at their house named "Ashburton", in Forest Hill. A second daughter, Vivien, was born on 15 July 1915. Victor joined the army, and February 1917 records show him as a Staff Lieutenant 3rd Class.
+With the outbreak of war in 1914, the British Consulate in Budapest had to close. Victor and Hilda returned to England with baby Joan, and they lived with Victor's parents at their house named "Ashburton", in Forest Hill. A second daughter, Vivien, was born on 15 July 1915. Victor joined the army. Under the heading Regular Forces | Special Appointments, the London Gazette of 6 February 1917 shows him "graded for purposes of pay as a Staff Lieutenant 3rd Class to be temporary 2nd Lieutenant from 1 February 1917".
 
 ## The Clearing Office (1920–1931)
 
