@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T10:22:24.899+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T10:32:14.245+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -52,7 +52,7 @@ Marshall, Sons & Co went into receivership in 1934. The Lincoln, Rutland and Sta
 
 On 10 September 1937, Victor was appointed to the **Department of Overseas Trade** as an Assistant in the commercial diplomatic service. He returned to Budapest as Assistant Commercial Secretary at the British Legation. Hilda and the girls remained in England.
 
-After Britain declared war on Hungary on 7 December 1941, Victor's colleagues in Budapest - British diplomatic and consular staff - were interned. They were repatriated through neutral Portugal in April 1942 as part of a diplomatic exchange. There is a possibility that Victor was not amongst them: that in the summer of 1939 he was recalled to London and seconded to Bush House. There is a so-far-unsubstantiated suggestion that the Foreign Office List for mid-1939 records him as being on "special duty" – the standard diplomatic parlance for personnel seconded to the Ministry of Information or the BBC's European Service. 
+After Britain declared war on Hungary on 7 December 1941, Victor's colleagues in Budapest - British diplomatic and consular staff - were interned before being repatriated through neutral Portugal in April 1942 as part of a diplomatic exchange. There is a possibility that Victor was not amongst them: that in the summer of 1939 he was recalled to London and seconded to Bush House. There is a so-far-unsubstantiated suggestion that the Foreign Office List for mid-1939 records him as being on "special duty" – the standard diplomatic parlance for personnel seconded to the Ministry of Information or the BBC's European Service. 
 
 ## The BBC Hungarian Service (1939–1944)
 
