@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T16:46:50.274+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T17:03:30.147+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -81,7 +81,7 @@ For his "exceptional service under difficult conditions" in post-war Budapest, V
 Victor married Mary Emily Catherine Hilda Graepel (Hilda, also known as Maidie) in 1912. They had three daughters: 
 - Lilian Joan Chambers (Joan, 1914–1984), who married Jack Long in 1939
 - Vivien Gwendolen Graepel Chambers (Vivien, 1915–1986), who married John Still Lewis in 1939
-- Yvonne Claudia Marshall Chambers (Claudia, 1921–2007), named after Hilda's brother Claudius
+- Yvonne Claudia Marshall Chambers (Claudia, 1921–2007, named after Hilda's brother Claudius) who married Cherry Grainger
 
 The three sisters were close friends throughout their lives and continued to speak Hungarian amongst themselves, especially on the telephone, much to the annoyance of their children in later years.
 
