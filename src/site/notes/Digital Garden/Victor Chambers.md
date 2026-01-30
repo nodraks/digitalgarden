@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T13:15:19.035+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T13:17:11.194+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -74,7 +74,7 @@ Victor served as the primary [[Digital Garden/Victor Chambers and the Allied Con
 
 When the tenure of the Allied Control Commission ended on 10 February 1947, Victor resumed the normal duties of the **First Secretary (Commercial)** at the British Legation in Budapest. Hilda joined him in Hungary.  
 
-For his "exceptional service under difficult conditions" in post-war Budapest, Victor was appointed an **OBE** in the **1948 New Year Honours** (London Gazette, 30 December 1947). The following year, he handed over the commercial portfolio to his successor, **Edward Philip Southby**.
+For his "exceptional service under difficult conditions" in post-war Budapest, Victor was appointed an **OBE** in the **1948 New Year Honours** (London Gazette, 30 December 1947). The following year, he handed over the commercial portfolio to his successor, **Edward Philip Southby** and returned to England.
 
 ## Family
 
