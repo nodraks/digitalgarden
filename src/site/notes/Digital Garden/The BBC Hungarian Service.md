@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/the-bbc-hungarian-service/","created":"2026-01-28T18:39:26.461+00:00","updated":"2026-01-30T09:02:42.369+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/the-bbc-hungarian-service/","created":"2026-01-28T18:39:26.461+00:00","updated":"2026-01-30T09:57:34.755+00:00"}
 ---
 
 # The BBC Hungarian Service
@@ -12,7 +12,7 @@ See also [[BBC-Year-Book-1940.pdf]]
 
 In late summer 1939, the BBC received a directive from the **Ministry of Information (MoI)** to expand its European Service to counter the "Berlin-Rome Axis" broadcasts.
 
-The strategy was to pair a British **Programme Organiser** (the administrative and political "gatekeeper") with a team of native broadcasters. Chambers would have been a natural choice for the Hungarian desk. The mandate for this team was:
+The strategy was to pair a British **Programme Organiser** (the administrative and political "gatekeeper") with a team of native broadcasters. The mandate for this team was:
 
 1. **Objectivity over Propaganda:** To provide a calm, factual alternative to the histrionics of the Hungarian state radio and German-controlled stations.
     
@@ -21,22 +21,22 @@ The strategy was to pair a British **Programme Organiser** (the administrative a
 3. **Political Intelligence:** To use consular experience to "read between the lines" of official Hungarian communiqués and provide listeners with the British perspective on their government’s shifting alliances.
     
 
-### **The Broadcasters Chambers Recruited**
+### **The Broadcasters Recruited**
 
 The Progamme Organiser's role was to recruit and direct a team of talented Hungarians in London. The early "Golden Age" of the service featured figures who often went on to become giants of Hungarian literature and journalism:
 
-|**Name**|**Role / Significance**|**Connection to Chambers**|
-|---|---|---|
-|**László Cs. Szabó**|Renowned essayist and writer|Recruited as a cultural and political commentator; he described Chambers as a "true friend of Hungary" who understood the country's tragic geopolitical position.|
-|**György Tarján**|Senior Broadcaster|Worked directly under Chambers and eventually succeeded him as Programme Organiser in 1946 when Chambers returned to Budapest.|
-|**Pál Tábori**|Author and journalist|Provided rapid-fire news translation and scripts under Chambers' editorial supervision.|
-|**Ferenc Rentoul**|Broadcaster|A foundational voice of the service who helped establish the "London sound" that became a staple for Hungarian households.|
+| **Name**             | **Role / Significance**      | **Connection to Chambers**                                                                                                                                        |
+| -------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **László Cs. Szabó** | Renowned essayist and writer | Recruited as a cultural and political commentator; he described Chambers as a "true friend of Hungary" who understood the country's tragic geopolitical position. |
+| **György Tarján**    | Senior Broadcaster           | Eventually became Programme Organiser in 1946.                                                                                                                    |
+| **Pál Tábori**       | Author and journalist        | Provided rapid-fire news translation and scripts under editorial supervision.                                                                                     |
+| **Ferenc Rentoul**   | Broadcaster                  | A foundational voice of the service who helped establish the "London sound" that became a staple for Hungarian households.                                        |
 
 ### **The "Londoni Rádió" Schedule**
 
 5 September: First broadcast of the news service in Magyar. 
 
-The service began modestly but grew rapidly. By 1940, the typical daily schedule he managed included:
+The service began modestly but grew rapidly. By 1940, the typical daily schedule included:
 
 - **15 minutes of News:** A straight translation of the BBC home news.
     
