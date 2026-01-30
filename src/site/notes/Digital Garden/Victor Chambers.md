@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T10:46:32.886+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T11:09:03.604+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -56,7 +56,7 @@ After Britain declared war on Hungary on 7 December 1941, Victor's colleagues in
 
 ## The BBC Hungarian Service (1939–1944)
 
-There is no family recollection of Victor's role during the war. But the idea that he was involved with the **[[2026-01-28_1750 Stanley Victor James Chambers\|Hungarian Section of the BBC European Service]]** has appeal because it would have made perfect sense. The first broadcast of "Londoni Rádió" was made on **5 September 1939**, just two days after Britain's declaration of war on Germany. It is well documented that Foreign Office staff were seconded to bridge the gap between the Foreign Office's policy requirements and the BBC's editorial standards. There is also a suggestion (again unsubstantiated at present) that the Hungarian writer László Cs. Szabó, an early BBC broadcaster, noted that the "Londoni Rádió" was organised by a British diplomat who spoke perfect Hungarian and had been brought back from Budapest specifically to provide "political and linguistic guidance" during the war.
+There is no family recollection of Victor's role during the war. But the idea that he was involved with the **[[Digital Garden/The BBC Hungarian Service\|Hungarian Section of the BBC European Service]]** has appeal because it would have made perfect sense. The first broadcast of "Londoni Rádió" was made on **5 September 1939**, just two days after Britain's declaration of war on Germany. It is well documented that Foreign Office staff were seconded to bridge the gap between the Foreign Office's policy requirements and the BBC's editorial standards. There is also a suggestion (again unsubstantiated at present) that the Hungarian writer László Cs. Szabó, an early BBC broadcaster, noted that the "Londoni Rádió" was organised by a British diplomat who spoke perfect Hungarian and had been brought back from Budapest specifically to provide "political and linguistic guidance" during the war.
 
 ## The Allied Control Commission (1945–1947)
 
