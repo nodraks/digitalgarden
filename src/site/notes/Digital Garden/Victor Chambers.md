@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-02-02T15:46:19.677+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-02-02T16:16:53.709+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -83,16 +83,15 @@ Victor was appointed an **OBE** in the **1948 New Year Honours** (London Gazette
 
 ## Arrest in Budapest
 
-During 1949 and early 1950, Victor tried to sell his Budapest property (rented to Gedeon Richter & Co, a pharmaceutical company) in order to pay off the mortgage, but was blocked by the Hungarian authorities. 
+In December 1949, without recompense, the Graepel Company in Budapest was nationalised and all its assets seized. For the next six months, Hugh Graepel lived with relatives while trying without success to obtain exit visas so that he and his wife could leave Hungary for England. The Hungarian authorities did not want him to leave and were playing a bureaucratic waiting game with him. Also during 1949 and into early 1950, Victor tried to sell his Budapest property (rented to Gedeon Richter & Co, a pharmaceutical company) in order to pay off its mortgage, but he too was blocked by the Hungarian authorities. 
 
-In December 1949, the Graepel Company in Budapest was nationalised and all its assets seized. For the next six months, Hugh Graepel lived with relatives while trying without success to obtain exit visas so that he and his wife could leave Hungary for England.  
-
-Translation of a report by the Hungarian State Security Authority:
+It seems likely that Victor travelled to Budapest in the summer of 1950 in the hope of being able to resolve these problems. In the event, he found himself in police custody, as witness this translation of a report by the Hungarian State Security Authority:
 
 > Chambers Viktor’s personal circumstances can only be described as follows: he is 53 years old, a retired diplomatic attaché, currently a resident of London at 13 Dacres Road, Forest Hill. He is approximately 182 cm tall, has blonde hair turning grey, a balding head, a round face, and is clean-shaven. 
 > 
 > He was taken into custody on July 5th, and during the arrest, he had no complaints and did not raise any objections. The order for pretrial detention has been announced, and after informing him of his rights, he acknowledged and accepted the ruling.
 
+We do not know if Victor was put on trial, nor when he returned to England. We do know that he was in England to meet Hugh and his wife when they finally managed to escape Hungary in early 1951. 
 ## Family
 
 Victor married Mary Emily Catherine Hilda Graepel (Hilda, also known as Maidie) in 1912. They had three daughters: 
