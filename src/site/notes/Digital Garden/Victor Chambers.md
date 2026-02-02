@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-01-30T18:04:49.855+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-02-02T15:06:24.835+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -50,13 +50,18 @@ Marshall, Sons & Co went into receivership in 1934. The Lincoln, Rutland and Sta
 
 ## Return to the Diplomatic Service (1937–1942)
 
-On 10 September 1937, Victor was appointed to the **Department of Overseas Trade** as an Assistant in the commercial diplomatic service. He returned to Budapest as Assistant Commercial Secretary at the British Legation. Hilda and the girls remained in England.
+On 10 September 1937, Victor was appointed to the **Department of Overseas Trade** as an Assistant in the commercial diplomatic service. He returned to Budapest in the role of Assistant Commercial Secretary at the British Legation. Hilda and the girls remained in England.
 
-After Britain declared war on Hungary on 7 December 1941, Victor's colleagues in Budapest - British diplomatic and consular staff - were interned before being repatriated through neutral Portugal in April 1942 as part of a diplomatic exchange. There is a possibility that Victor was not amongst them; that in the summer of 1939 he was instead recalled to London and seconded to Bush House. This would be supported by an as yet unsubstantiated suggestion that the Foreign Office List for mid-1939 records him as being on "special duty" – the standard diplomatic parlance for personnel seconded to the Ministry of Information or the BBC's European Service. Victor's early return is also supported by a statement in Hugh Graepel's account of Victor.
+After Britain declared war on Hungary on 7 December 1941, Victor's colleagues in Budapest - British diplomatic and consular staff - were interned before being repatriated through neutral Portugal in April 1942 as part of a diplomatic exchange. Victor was not amongst them; in the summer of 1939 he was instead recalled to London and seconded to Bush House. The evidence for this is:
+
+- a statement in Hugh Graepel's written account that Victor returned in 1940;
+- a family memory passed on by Betty Lanyii (Emmy's daughter in Budapest) that Victor was working for the BBC during the war years;
+- a not-yet-substantiated claim that the Foreign Office List for mid-1939 records him as being on "special duty" – the standard diplomatic parlance for personnel seconded to the Ministry of Information or the BBC's European Service;
+-  a suggestion (unsubstantiated at present) that the Hungarian writer László Cs. Szabó, an early BBC broadcaster, noted that the "Londoni Rádió" was organised by a British diplomat who spoke perfect Hungarian and had been brought back from Budapest specifically to provide "political and linguistic guidance" during the war.
 
 ## The BBC Hungarian Service (1939–1944)
 
-There is no family recollection of Victor's role during the war. But the idea that he was involved with the **[[Digital Garden/The BBC Hungarian Service\|Hungarian Section of the BBC European Service]]** has appeal because it would have made perfect sense. The first broadcast of "Londoni Rádió" was made on **5 September 1939**, just two days after Britain's declaration of war on Germany. It is well documented that Foreign Office staff were seconded to bridge the gap between the Foreign Office's policy requirements and the BBC's editorial standards. There is also a suggestion (again unsubstantiated at present) that the Hungarian writer László Cs. Szabó, an early BBC broadcaster, noted that the "Londoni Rádió" was organised by a British diplomat who spoke perfect Hungarian and had been brought back from Budapest specifically to provide "political and linguistic guidance" during the war.
+ The idea that Victor was involved with the **[[Digital Garden/The BBC Hungarian Service\|Hungarian Section of the BBC European Service]]** has appeal because it makes perfect sense. The first broadcast of "Londoni Rádió" was made on **5 September 1939**, just two days after Britain's declaration of war on Germany. It is well documented that Foreign Office staff were seconded to bridge the gap between the Foreign Office's policy requirements and the BBC's editorial standards. 
 
 ## The Allied Control Commission (1945–1947)
 
@@ -75,6 +80,16 @@ Victor served as the primary [[Digital Garden/Victor Chambers and the Allied Con
 When the tenure of the Allied Control Commission ended on 10 February 1947, Victor resumed the normal duties of the **First Secretary (Commercial)** at the British Legation in Budapest. Hilda joined him in Hungary.  
 
 For his "exceptional service under difficult conditions" in post-war Budapest, Victor was appointed an **OBE** in the **1948 New Year Honours** (London Gazette, 30 December 1947). The following year, he handed over the commercial portfolio to his successor, **Edward Philip Southby** and returned to England.
+
+## Arrest in Budapest
+
+In December 1949, the Graepel Company in Budapest was nationalised and all its assets seized. For the next six months, Hugh Graepel lived with relatives while trying without success to obtain exit visas so that he and his wife could leave Hungary for England.  
+
+Translation of a report by the Hungarian State Security Authority:
+
+> Chambers Viktor’s personal circumstances can only be described as follows: he is 53 years old, a retired diplomatic attaché, currently a resident of London at 13 Dacres Road, Forest Hill. He is approximately 182 cm tall, has blonde hair turning grey, a balding head, a round face, and is clean-shaven. 
+> 
+> He was taken into custody on July 5th, and during the arrest, he had no complaints and did not raise any objections. The order for pretrial detention has been announced, and after informing him of his rights, he acknowledged and accepted the ruling.
 
 ## Family
 
@@ -113,15 +128,17 @@ In his later years, Stanley Victor James Chambers suffered from heart problems a
 | **1937 (10 Sept)**  | Appointed to Department of Overseas Trade as Assistant in commercial diplomatic service   |
 | **c. 1938**         | Returns to Budapest as Vice-Consul                                                        |
 | **1939 (early)**    | Listed as Vice-Consul in Budapest (Foreign Office List)                                   |
-| **1939 (summer)**   | Perhaps recalled to London; seconded to Bush House                                        |
-| **1939 (5 Sept)**   | Perhaps launches BBC Hungarian Service ("Londoni Rádió") as first Programme Organiser     |
-| **1941 (7 Dec)**    | Britain declares war on Hungary; remaining British staff interned                         |
+| **1939 (summer)**   | Recalled to London; seconded to Bush House                                                |
+| **1939 (5 Sept)**   | Launches BBC Hungarian Service ("Londoni Rádió") as first Programme Organiser             |
+| **1941 (7 Dec)**    | Britain declares war on Hungary; remaining British Consulate staff interned               |
 | **1942 (April)**    | British diplomatic staff repatriated to England via Portugal                              |
 | **1945 (Spring)**   | Returns to Budapest as Commercial Secretary, British Political Mission                    |
 | **1945–1947**       | Serves as British economic representative to Allied Control Commission                    |
 | **1948 (1 Jan)**    | Awarded OBE in New Year Honours                                                           |
 | **1948**            | Listed as First Secretary (Commercial) at HM Legation, Budapest                           |
+| **1950** (5 Jul)    | Arrested in Budapest                                                                      |
 | **1954 (2 Oct)**    | Dies, aged 67                                                                             |
+|                     |                                                                                           |
 
 ---
 
