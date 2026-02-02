@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-02-02T15:06:24.835+00:00"}
+{"dg-publish":true,"permalink":"/digital-garden/victor-chambers/","created":"2026-01-28T18:26:36.473+00:00","updated":"2026-02-02T15:46:19.677+00:00"}
 ---
 
 # Biography: Stanley Victor James Chambers, OBE (1887–1954)
@@ -79,9 +79,11 @@ Victor served as the primary [[Digital Garden/Victor Chambers and the Allied Con
 
 When the tenure of the Allied Control Commission ended on 10 February 1947, Victor resumed the normal duties of the **First Secretary (Commercial)** at the British Legation in Budapest. Hilda joined him in Hungary.  
 
-For his "exceptional service under difficult conditions" in post-war Budapest, Victor was appointed an **OBE** in the **1948 New Year Honours** (London Gazette, 30 December 1947). The following year, he handed over the commercial portfolio to his successor, **Edward Philip Southby** and returned to England.
+Victor was appointed an **OBE** in the **1948 New Year Honours** (London Gazette, 30 December 1947). This was in recognition of his "exceptional service under difficult conditions" in a post-war Hungary that was being forced to become a communist state. Later in the year he handed over the commercial portfolio to his successor, **Edward Philip Southby** and returned to England.
 
 ## Arrest in Budapest
+
+During 1949 and early 1950, Victor tried to sell his Budapest property (rented to Gedeon Richter & Co, a pharmaceutical company) in order to pay off the mortgage, but was blocked by the Hungarian authorities. 
 
 In December 1949, the Graepel Company in Budapest was nationalised and all its assets seized. For the next six months, Hugh Graepel lived with relatives while trying without success to obtain exit visas so that he and his wife could leave Hungary for England.  
 
