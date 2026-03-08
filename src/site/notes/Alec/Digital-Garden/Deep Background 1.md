@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alec/digital-garden/deep-background-1/","tags":["#digital-garden"],"created":"2026-03-08T10:53:34.707+00:00","updated":"2026-03-08T12:33:25.427+00:00"}
+{"dg-publish":true,"permalink":"/alec/digital-garden/deep-background-1/","tags":["#digital-garden"],"created":"2026-03-08T10:53:34.707+00:00","updated":"2026-03-08T12:36:15.921+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Alec/Digital-Garden/Digital Garden\|Digital Garden]] 
@@ -8,7 +8,7 @@
 
 Source: https://checkplease.neocities.org
 
-A lengthy instruction prompt you paste at the start of a chat session (or add to project instructions) to make the LLM behave as a rigorous research assistant rather than a chatbot. The full prompt is at **checkplease.neocities.org**. There's also a pre-built ChatGPT GPT version at chatgpt.com (search "Deep Background Fact Checks and Context"), designed specifically for o3.
+A lengthy instruction prompt you paste at the start of a chat session (or add to project instructions) to make the LLM behave as a rigorous research assistant rather than a chatbot. The full prompt is at **checkplease.neocities.org**. 
 
 Follow-up prompts designed to work within a Deep Background session:
 
