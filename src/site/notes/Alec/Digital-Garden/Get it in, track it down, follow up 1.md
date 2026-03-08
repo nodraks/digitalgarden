@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/alec/digital-garden/get-it-in-track-it-down-follow-up-1/","tags":["#digital-garden"],"created":"2026-03-08T11:06:08.340+00:00","updated":"2026-03-08T11:31:21.782+00:00"}
+{"dg-publish":true,"permalink":"/alec/digital-garden/get-it-in-track-it-down-follow-up-1/","tags":["digital-garden"],"created":"2026-03-08T11:06:08.340+00:00","updated":"2026-03-08T12:24:20.142+00:00"}
 ---
+
+<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Alec/Digital-Garden/Digital Garden\|Digital Garden]] 
 
 # Get it in, track it down, follow up
 
