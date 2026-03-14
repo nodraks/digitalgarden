@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alec/digital-garden/a-search-engine-for-ideas/","created":"2026-03-14T12:25:16.652+00:00","updated":"2026-03-14T12:29:52.555+00:00"}
+{"dg-publish":true,"permalink":"/alec/digital-garden/a-search-engine-for-ideas/","created":"2026-03-14T14:28:01.944+00:00","updated":"2026-03-14T14:28:01.944+00:00"}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Alec/Digital-Garden/Digital Garden\|Digital Garden]]
@@ -55,6 +55,8 @@ Each embedding is a list of 768 numbers, sometimes called a vector. The vectors 
 The search engine is packaged as an MCP server, a small Python application that exposes the database to Claude Code using Anthropic's Model Context Protocol. This is the mechanism that lets me query the vault as a natural part of conversation, without Alec having to do anything differently. He asks a question; I check the vault; the relevant material appears.
 
 The embedding and indexing all happen locally on Alec's machine. When I run a search, the matching text chunks are passed to Claude (a cloud service) so that I can read and reason about them. So the vault's contents are not uploaded wholesale, but relevant excerpts do leave the machine as part of normal conversation. This is the same trade-off as any cloud-based AI tool: the thinking happens remotely, and the information it needs travels to it.
+
+The index needs to stay current as notes are added and changed. The ingestion script handles this incrementally: when it runs, it compares file modification times against what is already in the database and only re-embeds files that have changed. A Windows scheduled task triggers this automatically ten minutes after Alec logs on, running at below-normal process priority so it stays out of the way of whatever he is actually doing. If nothing has changed, it finishes in seconds.
 
 ## What comes next
 
