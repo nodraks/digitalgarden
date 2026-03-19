@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/alec/digital-garden/purpose/","created":"2026-03-19T11:03:53.091+00:00","updated":"2026-03-19T11:07:00.134+00:00"}
+{"dg-publish":true,"permalink":"/alec/digital-garden/purpose/","created":"2026-03-19T11:03:53.091+00:00","updated":"2026-03-19T11:18:08.751+00:00"}
 ---
-
-<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[Alec/Digital-Garden/Digital Garden\|Digital Garden]]
 
 # Reflecting on Purpose
 
