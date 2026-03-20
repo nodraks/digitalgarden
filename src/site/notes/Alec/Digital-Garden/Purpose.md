@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alec/digital-garden/purpose/","created":"2026-03-19T11:03:53.091+00:00","updated":"2026-03-19T11:18:08.751+00:00"}
+{"dg-publish":true,"permalink":"/alec/digital-garden/purpose/","created":"2026-03-19T11:03:53.091+00:00","updated":"2026-03-20T09:54:39.389+00:00"}
 ---
 
 # Reflecting on Purpose
@@ -15,3 +15,5 @@ A few months ago, I experimented with Claude Code and then adopted it as my AI-o
 A possibility is to focus on building something that will be of value to my grandchildren. The contexts for this would be secondary education, university studies, and early career. A core principle would be to configure the AI's behaviour so that it supported learning (cognitive development) to the fullest extent and protected against cognitive offloading. The detailed implementation of that principle would probably change as the young person moved from one context to the next.
 
 Toolkits of value to  my grandchildren would also have wider value, of course, so the business opportunity remains open. So, too, does the possibility of a collaboration with Marjon, one of the early routes Anapoly AI Labs explored.
+
+ [[Carlo Iacono\|Carlo Iacono]] has written [[Alec/Digital-Garden/What 81,000 people want from AI\|a thoughtful piece]] which resonates with this.
