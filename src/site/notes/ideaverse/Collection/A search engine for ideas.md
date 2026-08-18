@@ -12,7 +12,7 @@
 *Transparency label: human-only*
 *Author: Alec Fearon*
 
-I have a workspace for my research, thinking, and writing. It goes by the name of THINKSPACE.
+I have a workspace for my research, thinking, and writing. It goes by the name of [[ideaverse/Collection/ThinkSpace for research, thinking and writing\|ThinkSpace]].
 
 At its heart is the [Obsidian](https://obsidian.md) knowledge base. This is a powerful tool in its own right, especially as it synchronises across all my devices. But I have supercharged Obsidian by integrating it with Claude Code. The integration takes the form of an agent whose instructions, memory files, context files, and skills are an integral part of the Obsidian vault. The agent's name is Peka (Personal Knowledge Assistant). 
 
