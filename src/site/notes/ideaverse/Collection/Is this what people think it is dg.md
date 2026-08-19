@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/is-this-what-people-think-it-is-dg/","dg-note-properties":{"created":"2026-03-08","categories":["[[ideaverse/References/Mike Caulfield]]","[[ideaverse/Collection/Prompts]]","[[ideaverse/Collection/Fact checking]]","[[ideaverse/Collection/Garden]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/is-this-what-people-think-it-is-dg/","dg-note-properties":{"created":"2026-03-08","categories":["[[ideaverse/Collection/Mike Caulfield]]","[[ideaverse/Collection/Prompts]]","[[ideaverse/Collection/Fact checking]]","[[ideaverse/Collection/Garden]]"],"provenance":"alec"}}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[ideaverse/Collection/Digital Garden\|Digital Garden]] 

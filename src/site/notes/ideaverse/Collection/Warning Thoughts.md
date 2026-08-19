@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/warning-thoughts/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"provenance":"external","source":["[[ideaverse/References/Dennis Silverwood]]"]}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/warning-thoughts/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"provenance":"external","source":["[[ideaverse/Collection/Dennis Silverwood]]"]}}
 ---
 
 <a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[ideaverse/Collection/Digital Garden\|Digital Garden]] 
