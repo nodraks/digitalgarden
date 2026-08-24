@@ -4,10 +4,6 @@
 
 # Eddystone website requirements
 
-Jim's requirements, recorded as he gives them. The questions below are a first draft for Alec to cut down before meeting him; nothing here has been put to Jim yet.
-
-Where an answer arrives, write it under the question and date it. Where Jim has no view, say so rather than leaving the question blank, so that a later reader can tell an unasked question from an open one.
-
 ## Purpose and audience
 
 1. What is the site for? Winning candidates, winning clients, or standing as proof the firm exists when someone looks it up.
