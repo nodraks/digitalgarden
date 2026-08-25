@@ -12,11 +12,9 @@
 *Transparency label: human-only*
 *Author: Alec Fearon*
 
-I have a workspace for my research, thinking, and writing. It goes by the name of [[ideaverse/Collection/ThinkSpace for research, thinking and writing\|ThinkSpace]].
+At the heart of [[ideaverse/Collection/ThinkSpace for research, thinking and writing\|ThinkSpace]] is the [Obsidian](https://obsidian.md) knowledge base. This is a powerful tool in its own right, especially as it synchronises across all my devices. But I have supercharged Obsidian by integrating it with Claude Code. The integration takes the form of an agent whose instructions, memory files, context files, and skills are an integral part of the Obsidian vault. The agent's name is Peka (Personal Knowledge Assistant). 
 
-At its heart is the [Obsidian](https://obsidian.md) knowledge base. This is a powerful tool in its own right, especially as it synchronises across all my devices. But I have supercharged Obsidian by integrating it with Claude Code. The integration takes the form of an agent whose instructions, memory files, context files, and skills are an integral part of the Obsidian vault. The agent's name is Peka (Personal Knowledge Assistant). 
-
-As my knowledge base grows with articles I've saved, ideas I've written up, project plans, research, and so on, it becomes increasingly difficult to find things and make connections. I can search for specific words easily enough, which is fine if the exact words are all I want. But keyword search doesn't help when I'm looking for a concept. For example, a search for "how AI changes the way we think" won't pick up the note I wrote about cognitive tools, the article I saved about augmenting human judgement, and the clipping about second brains. 
+As my knowledge base grows, it becomes increasingly difficult to find things and make connections. I can search for specific words easily enough, which is fine if the exact words are all I want. But keyword search doesn't help when I'm looking for a idea. For example, a search for "how AI changes the way we think" won't pick up the note I wrote about cognitive tools, the article I saved about augmenting human judgement, and the clipping about second brains. 
 
 To overcome that shortcoming I needed a search engine based on ideas; one that reads meaning, not just words. In other words, a semantic search engine.
 

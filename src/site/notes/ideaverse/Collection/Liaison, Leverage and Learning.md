@@ -14,7 +14,7 @@
 
 I have a workspace for my research, thinking, and writing. It goes by the name of ThinkSpace. One of the components of ThinkSpace is a piece of software called Obsidian. Amongst other things, Obsidian enables me to publish some of my writing to my [[ideaverse/Collection/Digital Garden\|digital garden]]. It uses an Obsidian plugin called Digital Garden for this purpose. 
 
-One of my goals is to create a family archive online. I've been experimenting with Obsidian and the Digital Garden plugin to see if it might play a part in that. One experiment was to see if the plug-in could publish a table listing some of my forebears, with their dates and how they relate to each other. The table worked well in Obsidian, but on the website it fell apart. 
+One of my goals is to create a family archive online. I've been experimenting in [[ideaverse/Collection/ThinkSpace for research, thinking and writing\|ThinkSpace]] with the possibility of using Obsidian and the Digital Garden plugin to for that purpose. One experiment was to see if the plug-in could publish a table listing some of my forebears, with their dates and how they relate to each other. The table worked well in Obsidian, but on the website it fell apart. 
 
 Rather than look for a workaround, Peka (my AI assistant within ThinkSpace) suggested we should find out the cause of the problem and ask Ole (the software engineer who maintains the Digital Garden plugin) to fix it.  This was beyond my skill set, so I gave the task to Peka. It created a test setup and analysed the code involved, asking me to help by selecting particular options in the test web page. It didn't take Peka long to determine the nature of the problem and to write a detailed issue report for me. I uploaded it for Ole's attention. 
 
