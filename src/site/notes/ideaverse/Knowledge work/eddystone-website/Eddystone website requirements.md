@@ -69,7 +69,7 @@ Jim answered by audio on 27 August 2026; the transcription is [[ideaverse/Knowle
 
 14. Does he expect to search across the CVs he holds?
 
-    Yes, but through Recruit CRM, not through the site. Jim cancelled his Recruit CRM subscription because he was not using it much; it is on pause at £125 a month, cancellable whenever he wants, and he will probably revive it. The site would then use Recruit CRM's API so that candidates go straight through onto the CRM, which he says he can get happening overnight.
+    Yes, but through Recruit CRM, not through the site. Jim's subscription is paused and he will probably revive it; the site would then use Recruit CRM's API so that candidates go straight through onto the CRM, which he says he can get happening overnight.
 
 15. Should candidates be able to register an account, or is that more than the business needs?
 

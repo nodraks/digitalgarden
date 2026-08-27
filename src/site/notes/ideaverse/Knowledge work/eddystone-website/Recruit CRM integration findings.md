@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/ideaverse/knowledge-work/eddystone-website/recruit-crm-integration-findings/","dg-note-properties":{"description":"what Recruit CRM's jobs page, application forms and API offer the Eddystone website, researched from public documentation on 27 August 2026","created":"2026-08-27","categories":["[[ideaverse/Collection/Eddystone]]"],"provenance":"peka"}}
 ---
 
+← Back to [[ideaverse/Knowledge work/eddystone-website/Eddystone website requirements\|Eddystone website requirements]]
+
 # Recruit CRM integration findings
 
 Researched by Peka on 27 August 2026 from Recruit CRM's public documentation, help centre and pricing page. Nothing here has been tested against a live account; Jim's subscription is paused, and the points marked open need his account or their support to settle.
@@ -16,11 +18,11 @@ The REST API at `api.recruitcrm.io/v1` authenticates with a bearer token. `GET /
 
 ## Plans and price
 
-The published tiers are Pro at $85, Business at $125 and Enterprise at $165 per user per month, billed annually, with monthly billing costing more. Open API access starts at Business; Pro has none. Recruit Craft, their builder for full career pages and candidate portals, is Enterprise only, and nothing in Jim's requirements needs it. Jim's figure of £125 a month sits nearest the Business tier at $125, which would include the API, but the currency does not match the published price list. Open: which tier Jim's paused subscription is on.
+The published tiers are Pro at $85, Business at $125 and Enterprise at $165 per user per month, billed annually, with monthly billing costing more. Open API access starts at Business; Pro has none. Recruit Craft, their builder for full career pages and candidate portals, is Enterprise only, and nothing in Jim's requirements needs it. Which tier the subscription is on is a question for Jim, in the requirements file as question 22.
 
 ## Data roles
 
-Recruit CRM's data processing agreement states that Recruit CRM acts as Processor and processes personal data only on behalf of the Controller. Eddystone would therefore be the data controller for candidate data, whatever the site's architecture, and would need its own privacy notice and, in the normal case for a UK recruiter, an ICO registration. This contradicts Jim's answer to question 15 in [[ideaverse/Knowledge work/eddystone-website/Eddystone website requirements\|Eddystone website requirements]], which the requirements file already flags.
+Recruit CRM's data processing agreement states that Recruit CRM acts as Processor and processes personal data only on behalf of the Controller. Eddystone would therefore be the data controller for candidate data, whatever the site's architecture, and would need its own privacy notice and, in the normal case for a UK recruiter, an ICO registration. This refines the answer to question 15 in [[ideaverse/Knowledge work/eddystone-website/Eddystone website requirements\|Eddystone website requirements]]: Recruit CRM handle the data obligations on their side, and the controller duties sit with Eddystone.
 
 ## What this means for the build
 

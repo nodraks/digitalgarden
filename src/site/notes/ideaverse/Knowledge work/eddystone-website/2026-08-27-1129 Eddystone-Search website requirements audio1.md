@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/ideaverse/knowledge-work/eddystone-website/2026-08-27-1129-eddystone-search-website-requirements-audio1/","dg-note-properties":{"description":"Jim's initial requirements for the Eddystone Search website, transcribed from his audio message of 27 August 2026","created":"2026-08-27","categories":["[[ideaverse/Collection/Eddystone]]"],"provenance":"external"}}
 ---
 
+← Back to [[ideaverse/Knowledge work/eddystone-website/Eddystone website requirements\|Eddystone website requirements]]
+
 # Eddystone-Search website requirements audio1
 
 Reference: AUDIO-2026-08-27-09-05-46.m4a
