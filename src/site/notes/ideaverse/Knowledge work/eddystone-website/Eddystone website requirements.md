@@ -4,7 +4,7 @@
 
 # Eddystone website requirements
 
-Jim answered by audio on 27 August 2026; the transcription is [[ideaverse/Knowledge work/eddystone-website/2026-08-27-1129 Eddystone-Search website requirements audio1\|2026-08-27-1129 Eddystone-Search website requirements audio1]]. Each answer stands beneath its question; a question with nothing beneath it is still open.
+Jim answered by audio message on 27 August 2026. Each answer stands beneath its question; a question with nothing beneath it is still open.
 
 ## Purpose and audience
 
