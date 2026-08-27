@@ -113,3 +113,5 @@ project; a searchable store is a system. Jim's answer takes the searchable store
 
     No date given, but the Canada campaign, four adverts for about 20 jobs, will probably start soon, and the client wants to do online advertising.
 
+22. Which Recruit CRM tier is the paused subscription on, and does it include Open API access? The API starts at the Business tier, and the answer decides whether the site fetches jobs through the API or embeds the hosted jobs page; see [[ideaverse/Knowledge work/eddystone-website/Recruit CRM integration findings\|Recruit CRM integration findings]].
+
