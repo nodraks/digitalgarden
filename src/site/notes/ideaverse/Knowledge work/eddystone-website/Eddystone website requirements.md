@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/ideaverse/knowledge-work/eddystone-website/eddystone-website-requirements/","dg-note-properties":{"description":"the questions to put to Jim about the new Eddystone Search website, and his answers","created":"2026-08-24","categories":["[[ideaverse/Collection/Eddystone]]"],"provenance":"collaborative"}}
 ---
 
+**Requirements** · [[ideaverse/Knowledge work/eddystone-website/Recruit CRM integration findings\|Recruit CRM findings]] · [[ideaverse/Knowledge work/eddystone-website/Eddystone website structure\|Site structure]]
+
 # Eddystone website requirements
 
 Jim answered by audio message on 27 August 2026. Each answer stands beneath its question; a question with nothing beneath it is still open.

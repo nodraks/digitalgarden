@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/knowledge-work/eddystone-website/eddystone-website-structure/","dg-note-properties":{"description":"the proposed page structure for the new Eddystone Search site, built against the Recruit CRM architecture, for Jim to react to","created":"2026-08-27","categories":["[[ideaverse/Collection/Eddystone]]"],"provenance":"peka"}}
 ---
 
-← Back to [[ideaverse/Knowledge work/eddystone-website/Eddystone website requirements\|Eddystone website requirements]]
+[[ideaverse/Knowledge work/eddystone-website/Eddystone website requirements\|Requirements]] · [[ideaverse/Knowledge work/eddystone-website/Recruit CRM integration findings\|Recruit CRM findings]] · **Site structure**
 
 # Eddystone website structure
 

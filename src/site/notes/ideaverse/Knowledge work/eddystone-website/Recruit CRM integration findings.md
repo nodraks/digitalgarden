@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/knowledge-work/eddystone-website/recruit-crm-integration-findings/","dg-note-properties":{"description":"what Recruit CRM's jobs page, application forms and API offer the Eddystone website, researched from public documentation on 27 August 2026","created":"2026-08-27","categories":["[[ideaverse/Collection/Eddystone]]"],"provenance":"peka"}}
 ---
 
-← Back to [[ideaverse/Knowledge work/eddystone-website/Eddystone website requirements\|Eddystone website requirements]]
+[[ideaverse/Knowledge work/eddystone-website/Eddystone website requirements\|Requirements]] · **Recruit CRM findings** · [[ideaverse/Knowledge work/eddystone-website/Eddystone website structure\|Site structure]]
 
 # Recruit CRM integration findings
 
