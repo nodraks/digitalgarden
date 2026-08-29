@@ -6,21 +6,21 @@
 
 # Whether AI is superseding voiceover artists
 
-Voiceover artist is the right term, and the profession is not being superseded. It is being cut in half. Synthetic voices have taken the work that was bought by the yard, and they have taken it fast. In the National Association of Voice Actors survey of January and February 2026, 21 per cent of 1,379 respondents said they had knowingly lost a job to a synthetic voice, against 14 per cent in the same survey a year earlier. Over the same period 41 per cent of those respondents said their income had risen and 30 per cent said it had fallen. Both numbers are true at once because they describe different halves of one trade.
+Voiceover artist is the right term, and the profession is not being superseded. It is being cut in half. Synthetic voices have taken the work that was bought by the yard, and they have taken it fast. In the National Association of Voice Actors survey of January and February 2026, 21 per cent of 1,379 respondents said they had knowingly lost a job to a synthetic voice, against 14 per cent in the same survey a year earlier. Over the same period 41 per cent of those respondents said their income had risen and 30 per cent said it had fallen.
 
-The distinction that matters is not between human and machine. It is between work where the buyer wants a voice and work where the buyer wants a person. Where the client is buying audio to fill a slot, the machine has already won on price and will not give the ground back. Where the client is buying judgement, accountability, a name on an invoice or a performance that can be redirected in the room, the machine has made almost no progress, and the buyers say so.
+The line falls between work where the buyer wants a voice and work where the buyer wants a person, not between human and machine. Where the client is buying audio to fill a slot, the machine has already won on price and will not give the ground back. Where the client is buying judgement, accountability, a name on an invoice or a performance that can be redirected in the room, the machine has made almost no progress, and the buyers say so.
 
-This matters for Monica in a specific way, set out at the end: the segments she has named are among the better-defended ones, but the route new entrants used to take into the profession is the route that has closed.
+This matters for Monica in a specific way, set out at the end: the segments she has named are among the better-defended ones, but the route new entrants used to take into the profession has closed.
 
 ## What has actually been measured
 
 The NAVA survey is the best regular count of the profession, and it should be read with its limits in view. Its 1,379 respondents were recruited through social media, voiceover Facebook groups and a contact list of roughly 4,000 people, so they selected themselves and skew towards the United States and towards people already engaged with professional bodies. Seventy per cent identified as full-time or part-time professionals rather than hobbyists.
 
-Within that population the AI findings are consistent and unpleasant. Twenty-one per cent had lost a job to a synthetic voice, up seven points in twelve months. Nine per cent had found a synthetic copy of their voice, or of a character they had voiced, used in a professional project without their knowledge. Thirteen per cent had agreed to have a synthetic version made.
+Within that population the findings are consistent. Twenty-one per cent had lost a job to a synthetic voice, up seven points in twelve months. Thirteen per cent had agreed to have a synthetic version of their voice made. Nine per cent had found a synthetic copy of their voice, or of a character they had voiced, used in a professional project without their knowledge.
 
-The reason for the seven-point jump is not that the voices got much better in 2025. It is that the price and skill needed to make one collapsed. Cloning a usable voice now takes a short sample and a few minutes, on consumer products, at consumer prices. Anything that could be automated by a producer with no technical skill has now been automated by producers with no technical skill.
+The seven-point jump followed a collapse in the price and skill needed to make a synthetic voice, not an improvement in the voices themselves. Cloning a usable one now takes a short sample and a few minutes, on consumer products at consumer prices. Producers with no technical skill are doing what needed a specialist two years ago.
 
-Alongside that, the wider labour pattern is worth one sentence. A Harvard working paper reported in May 2026 that entry-level hiring at firms adopting generative AI has fallen by roughly 80 per cent per quarter since 2023, across all sectors rather than in voiceover alone, and that those firms are not moving beginners to harder work but removing the posts. Voiceover is showing the same shape.
+The same pattern is visible outside voiceover. A Harvard working paper reported in May 2026 that entry-level hiring at firms adopting generative AI has fallen by roughly 80 per cent per quarter since 2023, across all sectors, and that those firms are not moving beginners to harder work but removing the posts.
 
 ## Where the displacement has landed
 
@@ -37,15 +37,15 @@ Alongside that, the wider labour pattern is worth one sentence. A Harvard workin
 | Broadcast advertising with a named voice | Low | The voice is part of the brand asset and is contracted as such |
 | Live-directed sessions of any kind | Low | The value is in the direction, which the machine cannot receive |
 
-Two patterns run through that table. The first is that exposure tracks the absence of a person: wherever nobody needed to know whose voice it was, nobody now needs a voice. The second is that exposure tracks the absence of consequence. Where a mistake costs the client money or exposes them to a regulator, they buy a human who can be briefed, corrected and held to it.
+Two patterns run through that table. Exposure tracks the absence of a person: wherever nobody needed to know whose voice it was, nobody now needs a voice. Exposure also tracks the absence of consequence. Where a mistake costs the client money or exposes them to a regulator, they buy a human who can be briefed, corrected and held to it.
 
 ## Why the volume figures overstate the threat
 
 The most quoted numbers in this debate count titles, not money, and the gap between the two is the single most useful finding in this research.
 
-Audible's Virtual Voice, its self-service AI narration for Kindle Direct Publishing titles, passed 50,000 labelled titles during 2025, having stood at about 7,000 at the end of 2024. That is a flood by any measure. Yet in the Audio Publishers Association survey conducted by Edison Research and released on 5 June 2026, AI-narrated titles accounted for 0.03 per cent of audiobook sales revenue in 2025, in a US market worth 2.43 billion dollars and growing 9 per cent that year. Fifty thousand titles earning three-hundredths of one per cent of the money is not a market being taken. It is a long tail being filled in, mostly with books that would never have been recorded at all.
+Audible's Virtual Voice, its self-service AI narration for Kindle Direct Publishing titles, passed 50,000 labelled titles during 2025, having stood at about 7,000 at the end of 2024. That is a flood by any measure. Yet in the Audio Publishers Association survey conducted by Edison Research and released on 5 June 2026, AI-narrated titles accounted for 0.03 per cent of audiobook sales revenue in 2025, in a US market worth 2.43 billion dollars and growing 9 per cent that year. Fifty thousand titles earning three-hundredths of one per cent of the money describes a long tail being filled in, mostly with books nobody would have paid a narrator to record.
 
-Listener appetite is also moving the wrong way for the technology. In the same survey, of 1,005 US adults who listen to fiction audiobooks, willingness to try an AI-narrated title fell from 70 per cent in 2025 to 61 per cent in 2026, and only 16 per cent had actually listened to one. Among those who had, preference for AI narration declined year on year. Exposure is reducing enthusiasm rather than building it.
+Listener appetite is moving away from the technology as well. In the same survey, of 1,005 US adults who listen to fiction audiobooks, willingness to try an AI-narrated title fell from 70 per cent in 2025 to 61 per cent in 2026. Only 16 per cent had listened to one, and among those who had, preference for AI narration fell year on year.
 
 ## Where the profession's defence is weaker than it claims
 
@@ -53,17 +53,17 @@ The industry's favourite argument is that listeners can always tell. They cannot
 
 WPP Media, the sound branding agency amp, Choreograph and MediaScience ran a neuroscience study published on 27 October 2025 with 55 US participants aged 18 to 30 and 45 or over, in a simulated living room. Participants correctly identified generic AI voices in 42 per cent of individual sentences and 47 per cent of complete advertisements, which is close to guessing. On the measures advertisers buy, brand engagement and purchase intent, synthetic voiceovers matched human ones. Participants rated voices they believed to be human as more relatable and more emotional, whether or not the voice was human.
 
-That is a small sample in one country, and it tests short advertising rather than long-form narration where a synthetic voice has more chances to fail. But its direction is clear enough to retire the detectability argument. What survives is not "listeners can hear the difference" but "buyers care where the voice came from", which is a claim about provenance and disclosure rather than about ears.
+That is a small sample in one country, and it tests short advertising rather than long-form narration, where a synthetic voice has more chances to fail. Its direction is still clear enough to retire the detectability argument. The claim that survives is about provenance rather than about ears: buyers care where a voice came from, whether or not anyone can hear the difference.
 
 ## What buyers say they want
 
 Two buyer-side surveys point the same way, and both come from companies with a commercial interest in the answer, which should temper how much weight they carry.
 
-Censuswide surveyed 700 business leaders and consumers for the Voices.com Amplified 2026 report. Seventy-nine per cent of voice-AI decision-makers said inauthentic AI voices damage brand perception, and 79 per cent said it matters that AI voices come from real, attributed voice talent. Seventy-seven per cent of business leaders valued exclusive voice licensing. Meanwhile only 29 per cent of companies had deployed customer-facing voice AI at all, against 55 per cent of consumers using voice as their main way of interacting with AI systems.
+Censuswide surveyed 700 business leaders and consumers for the Voices.com Amplified 2026 report. Seventy-nine per cent of those deciding on voice AI said inauthentic AI voices damage brand perception, and the same proportion said it matters that an AI voice comes from real, attributed talent. Seventy-seven per cent of business leaders valued exclusive voice licensing. Only 29 per cent of companies had deployed customer-facing voice AI at all, against 55 per cent of consumers using voice as their main way of interacting with AI systems.
 
-The training body Gravy for the Brain reports a similar hesitancy among buyers: roughly a quarter had experimented with AI voices, most of those on fewer than a quarter of their assignments, with about a third of buyers growing more open to AI over the year and about a third growing more hesitant. Human-likeness, not cost or speed, was the top consideration when they did use it.
+The training body Gravy for the Brain reports a similar hesitancy among buyers. Roughly a quarter had experimented with AI voices, and most of those used it on fewer than a quarter of their assignments. About a third of buyers grew more open to AI over the year and about a third grew more hesitant. Human-likeness, rather than cost or speed, was the top consideration when they did use it.
 
-Consumer research adds a warning about disclosure. Across several 2026 surveys, majorities said transparency about AI involvement matters to them and that undisclosed AI reduces their trust in a brand. Since the EU will require that disclosure from 2 August 2026, brands that use synthetic voices in Europe will have to say so, and the reputational calculation changes when the label is compulsory.
+Compulsory disclosure appears to cost brands less than the industry assumes. The Internet Advertising Bureau surveyed 505 US consumers aged 16 to 43 and 104 advertising executives between October 2025 and January 2026, and found 73 per cent of those consumers saying a clear AI disclosure would either raise their likelihood of buying or make no difference to it. The European Union has required that disclosure since 2 August 2026. Where a voice came from is therefore becoming visible in the market rather than only in the contract.
 
 ## The law, and what it does for a British voice
 
@@ -83,19 +83,19 @@ Monica has named medical advertising and demos for organisations as her main tar
 
 Regulated promotional material passes through medical, legal and regulatory review. The FDA has given AI no separate compliance lane: the same rules on fair balance, claim support and risk presentation apply whether a human or a model produced the content, and the agency has been pressing on whether risk information is genuinely audible and comprehensible rather than merely present. In the United Kingdom, the ABPI Code and the Prescription Medicines Code of Practice Authority govern promotion to health professionals, and prescription-only medicines may not be advertised to the public at all. Most of the medical voice work available to a British artist is therefore facing health professionals, congresses, device demonstrations, patient information and internal training rather than consumer advertising.
 
-In that setting a mispronounced drug name or a misplaced emphasis in a risk statement is a compliance problem, not an aesthetic one, and the cost of a re-approval cycle dwarfs the fee saved by synthesis. A human who can be briefed on a pronunciation list, corrected in session and held responsible is the cheaper option. Terminology density helps too: medical scripts carry anatomical terms, drug names, acronyms and abbreviations that synthetic systems still mishandle without hand-tuning, and hand-tuning erodes the cost advantage that justified using them.
+In that setting a mispronounced drug name or a misplaced emphasis in a risk statement is a compliance problem rather than an aesthetic one, and correcting it sends the material back through review. A human who can be briefed on a pronunciation list, corrected in session and held responsible avoids that. Terminology density works the same way: medical scripts carry anatomical terms, drug names, acronyms and abbreviations that synthetic systems still mishandle without hand-tuning, and hand-tuning erodes the cost advantage that justified using them.
 
-One countervailing trend deserves flagging, because it has nothing to do with AI and may matter more. Healthcare marketing is shifting away from polished scripted voiceover towards physician-recorded clips, patient testimony and care-team explainers, on the finding that unpolished material converts better on personal health topics. That reduces demand for narrated brand video regardless of who narrates it. Monica's exposure in medical work is more likely to come from that shift than from synthesis.
+Healthcare marketing is meanwhile shifting away from polished scripted voiceover towards physician-recorded clips, patient testimony and care-team explainers, on the finding that unpolished material converts better on personal health topics. That reduces demand for narrated brand video whoever narrates it, and it has nothing to do with AI. Monica's exposure in medical work is more likely to come from that shift than from synthesis.
 
 ## Audiobooks and Hindi
 
-Audiobooks are the clearest example of a segment splitting rather than falling. The bottom has gone to Audible's Virtual Voice and to services charging tens of dollars for a full-length book against thousands for a human recording. What remains for humans is fiction with multiple characters, children's books, literary work, and any title where the publisher expects to earn back a production budget. The revenue figures above show where the money still is. Audible and ACX have also opened a beta letting selected narrators create licensed replicas of their own voices, keep approval rights and take a title-by-title royalty share, with the result labelled as AI on the product page.
+Audiobooks are the clearest example of a segment splitting rather than falling. The bottom has gone to Audible's Virtual Voice and to services charging tens of dollars for a full-length book against thousands for a human recording. What remains for humans is fiction with multiple characters, children's books, literary work, and any title where the publisher expects to earn back a production budget. Audible and ACX have also opened a beta letting selected narrators create licensed replicas of their own voices, keep approval rights and take a title-by-title royalty share, with the result labelled as AI on the product page.
 
-Hindi cuts both ways, and Monica should think about how she frames it. Demand for Indian-language content is very large and growing. India is also where AI dubbing has been adopted hardest and where performers have the least protection: the Association of Voice Artists of India has said the jobs are being annihilated, no binding industry agreement exists, and studios are cutting production costs to a fraction of previous levels using synthetic dubbing at scale. Offering Hindi as cheap bulk localisation puts her in direct price competition with that. Offering English and Hindi from one medically literate performer, under one UK contract, with one point of accountability, does not.
+Hindi cuts both ways, and Monica should think about how she frames it. Demand for Indian-language content is very large and growing. India is also where AI dubbing has been adopted hardest and where performers have the least protection: the Association of Voice Artists of India has said the jobs are being annihilated, no binding industry agreement exists, and studios are cutting production costs to a fraction of previous levels using synthetic dubbing at scale. Offering Hindi as cheap bulk localisation puts her in direct price competition with that. Offering English and Hindi from one medically literate performer, under a single UK contract with one person accountable for both, does not.
 
 ## Licensing her own voice
 
-There is a second revenue line, and it carries a trap that must be decided before launch rather than after the first offer arrives.
+There is a second revenue line, and the question it raises has to be settled before launch rather than after the first offer arrives.
 
 Marketplaces now pay voice artists when their licensed clone is used. ElevenLabs reports having paid five million dollars in total to contributors to its voice library in under two years, which across the whole library is modest per head; realistic individual earnings run from negligible for a general voice to a few hundred dollars a month for a well-defined niche, with a small top tier earning more. Voices.com is building its business on consent-based, attributed voice licensing precisely because enterprise buyers are now asking where a model's voice came from.
 
@@ -103,7 +103,7 @@ The trap is irreversibility. Once a model of a voice exists, audio already gener
 
 ## What follows for someone launching now
 
-The threat to Monica is real but it is not the threat she will have been told about. She is not competing with AI for the work she wants. She is competing with AI for the work she does not want, and losing it, which does two things: it sets a floor under the market at a price no human can work at, and it removes the rungs a beginner used to climb.
+The threat to Monica is real but it is not the threat she will have been told about. She is not competing with AI for the work she wants. She is competing with AI for the work she does not want, and losing it, which does two things: it drives the going rate for that work below anything a person can live on, and it removes the rungs a beginner used to climb.
 
 That has four consequences for how she launches.
 
@@ -112,11 +112,11 @@ That has four consequences for how she launches.
 3. Make provenance visible. State on the site that she performs every recording herself, state her policy on AI licensing and voice cloning, and state it in words a buyer searching for a human voice would type. Third-party human-voice certification marks now exist and are worth considering once the site is live.
 4. Replace the missing ladder deliberately. The cheap jobs that used to teach direction, studio discipline and turnaround are gone. Coaching, a properly treated recording space and directed practice have to substitute for them, and buyers can tell the difference within one audition.
 
-For the website itself, the research points at three requirements to add to the open questions already recorded. Publishing an explicit AI and voice-licensing policy, since regulated buyers increasingly ask. Making the demos short and the human authorship prominent, accepting that any public audio is potential training material and that reporting of the August 2026 campaign put the figure at three seconds of audio being enough to clone a voice. And choosing search terms buyers actually use, because the marketplaces' lower tiers have been hollowed out and direct discovery matters more than it did.
+Four of these points are now questions in [[ideaverse/Knowledge work/monica's website/Monica's website requirements\|Monica's website requirements]]. Three of them concern her voice: whether the site states a policy on AI and cloning, whether she will license a synthetic copy and on what terms, and how the demos should be served given that public audio is training material. The fourth asks which search terms a buyer looking for a human would type.
 
 ## How far to trust these figures
 
-The NAVA survey is self-selected and US-weighted, so it measures the professional community that answers surveys rather than the whole trade. The Voices.com and Gravy for the Brain figures come from businesses selling to voice artists or to buyers of voice, and their framing follows their interest. The WPP neuroscience study had 55 participants in one country. Market-size forecasts for AI voice, which run from roughly two billion dollars in 2026 to a hundred billion by 2035 depending on who is selling the report, should be treated as marketing rather than measurement, and none is used above.
+Being self-selected and US-weighted, the NAVA survey measures the professional community that answers surveys rather than the whole trade. Voices.com and Gravy for the Brain both sell to voice artists or to the people who book them, so their framing follows their interest, and the WPP neuroscience study rests on 55 participants in one country. Treat market-size forecasts for AI voice as marketing rather than measurement: they run from roughly two billion dollars in 2026 to a hundred billion by 2035 depending on who is selling the report, and none of them is used above.
 
 Two findings hold up better than the rest, because they have real denominators and nobody selling behind them. Twenty-one per cent of 1,379 working voice artists lost a job to a synthetic voice in a single year. AI narration took 0.03 per cent of US audiobook revenue in 2025 while occupying more than 50,000 titles.
 
@@ -129,6 +129,7 @@ Surveys and research:
 - [AI Voices in Audio Ads](https://www.wppmedia.com/news/ai-voices-audio-ads), WPP Media with amp, Choreograph and MediaScience, 55 US participants, 27 October 2025
 - [Amplified 2026: The State of Voice](https://www.voices.com/blog/amplified-2026-the-state-of-voice-report/), Voices.com, survey by Censuswide of 700 business leaders and consumers
 - [Voice Acting in 2025 to 2026](https://www.gravyforthebrain.com/voice-acting-in-2025-2026-trends-insights-and-the-future/), Gravy for the Brain
+- [The AI Ad Gap Widens](https://www.iab.com/insights/the-ai-gap-widens/), Internet Advertising Bureau, 505 US consumers aged 16 to 43 and 104 advertising executives, fielded October 2025 to January 2026
 
 Law and industry agreements:
 
