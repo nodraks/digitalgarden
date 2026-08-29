@@ -12,7 +12,7 @@ Jim answered by audio message on 27 August 2026. Each answer stands beneath its 
 
 1. What is the site for? Winning candidates, winning clients, or standing as proof the firm exists when someone looks it up.
 
-    A landing page for candidates responding to online job adverts. The immediate campaign, which will probably start soon, is about 20 jobs in Canada, advertised in adverts on perhaps four job boards, and each advert needs somewhere for applications to click through to. An email address alone would leave an inbox that gets swamped.
+    A landing page for candidates responding to online job adverts. The immediate campaign, which will probably start soon, is about 20 jobs in Canada, advertised in perhaps four adverts on job boards, and each advert needs somewhere for applications to click through to. An email address alone would leave an inbox that gets swamped.
 
 2. Who arrives at it, and how? A candidate sent a link, a hiring manager checking credentials, or someone searching for a recruiter in a sector.
 
