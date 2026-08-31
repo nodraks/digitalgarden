@@ -8,7 +8,8 @@
 
 *Written by Alec Fearon on 7 January 2026 in Anapoly Diary*
 *Transparency label: AI-assisted*
-*<<< [[ideaverse/Collection/An AI power-user's perspective\|An AI power-user's perspective]]  |  [[ideaverse/Collection/The pace is accelerating\|The pace is accelerating]] >>>*
+*<--- [[ideaverse/Collection/An AI power-user's perspective\|An AI power-user's perspective]]*
+*---> [[ideaverse/Collection/The pace is accelerating\|The pace is accelerating]]*
 
 ---
 

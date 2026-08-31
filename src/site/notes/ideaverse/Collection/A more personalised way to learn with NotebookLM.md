@@ -8,7 +8,7 @@
 
 *Written by Alec Fearon on 14 November 2025 in Anapoly Diary*
 *Transparency label: Human-only*
-*[[ideaverse/Collection/An AI-embedded business\|An AI-embedded business]] >>>*
+*---> [[ideaverse/Collection/An AI-embedded business\|An AI-embedded business]]*
 
 ---
 

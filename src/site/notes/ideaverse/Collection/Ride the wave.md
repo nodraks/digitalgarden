@@ -8,7 +8,8 @@
 
 *Written by Alec Fearon on 18 February 2026 in Anapoly Diary*
 *Transparency label: Human-only*
-*<<< [[ideaverse/Collection/The pace is accelerating\|The pace is accelerating]]  |  [[ideaverse/Collection/Momentum is gathering\|Momentum is gathering]] >>>*
+*<--- [[ideaverse/Collection/The pace is accelerating\|The pace is accelerating]]*
+*---> [[ideaverse/Collection/Momentum is gathering\|Momentum is gathering]]*
 
 ---
 

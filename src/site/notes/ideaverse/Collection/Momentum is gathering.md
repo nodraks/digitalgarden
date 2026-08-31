@@ -8,7 +8,8 @@
 
 *Written by Alec Fearon on 27 February 2026 in Anapoly Diary*
 *Transparency label: Human-only*
-*<<< [[ideaverse/Collection/Ride the wave\|Ride the wave]]  |  [[ideaverse/Collection/Working with AI\|Working with AI]] >>>*
+*<--- [[ideaverse/Collection/Ride the wave\|Ride the wave]]*
+*---> [[ideaverse/Collection/Working with AI\|Working with AI]]*
 
 ---
 

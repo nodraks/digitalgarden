@@ -8,7 +8,8 @@
 
 *Written by Alec Fearon on 1 March 2026 in Anapoly Diary*
 *Transparency label: AI-assisted. NotebookLM worked with Nishigaya’s post to outline the five levels*
-*<<< [[ideaverse/Collection/Momentum is gathering\|Momentum is gathering]]  |  [[ideaverse/Collection/An intro to ThinkSpace\|ThinkSpace]] >>>*
+*<--- [[ideaverse/Collection/Momentum is gathering\|Momentum is gathering]]*
+*---> [[ideaverse/Collection/An intro to ThinkSpace\|ThinkSpace]]*
 
 ---
 

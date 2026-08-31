@@ -8,7 +8,8 @@
 
 *Written by Alec Fearon on 27 November 2025 in Anapoly Diary*
 *Transparency label: Human-only*
-*<<< [[ideaverse/Collection/A three-layer instruction set for use in ChatGPT Projects\|A three-layer instruction set for use in ChatGPT Projects]]  |  [[ideaverse/Collection/Methodology & tool-kits\|Methodology & tool-kits]] >>>*
+*<--- [[ideaverse/Collection/A three-layer instruction set for use in ChatGPT Projects\|A three-layer instruction set for use in ChatGPT Projects]]*
+*---> [[ideaverse/Collection/Methodology & tool-kits\|Methodology & tool-kits]]*
 
 ---
 

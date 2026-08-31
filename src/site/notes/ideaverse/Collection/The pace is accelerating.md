@@ -8,7 +8,8 @@
 
 *Written by Alec Fearon on 3 February 2026 in Anapoly Diary*
 *Transparency label: Human-only*
-*<<< [[ideaverse/Collection/Beyond Words - The Rise of Large World Models\|Beyond Words: The Rise of Large World Models]]  |  [[ideaverse/Collection/Ride the wave\|Ride the wave]] >>>*
+*<--- [[ideaverse/Collection/Beyond Words - The Rise of Large World Models\|Beyond Words: The Rise of Large World Models]]*
+*---> [[ideaverse/Collection/Ride the wave\|Ride the wave]]*
 
 ---
 

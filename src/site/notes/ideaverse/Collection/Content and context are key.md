@@ -8,7 +8,8 @@
 
 *Written by Alec Fearon on 18 November 2025 in Anapoly Diary*
 *Transparency label: AI-assisted. AI was used to draft, edit, or refine content. Alec Fearon directed the process*
-*<<< [[ideaverse/Collection/An AI-embedded business\|An AI-embedded business]]  |  [[ideaverse/Collection/Make ChatGPT mark its own homework\|Make ChatGPT mark its own homework]] >>>*
+*<--- [[ideaverse/Collection/An AI-embedded business\|An AI-embedded business]]*
+*---> [[ideaverse/Collection/Make ChatGPT mark its own homework\|Make ChatGPT mark its own homework]]*
 
 ---
 

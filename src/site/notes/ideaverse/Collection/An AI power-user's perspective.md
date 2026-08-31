@@ -8,7 +8,8 @@
 
 *Written by Alec Fearon on 17 December 2025 in Anapoly Diary*
 *Transparency label: AI-assisted*
-*<<< [[ideaverse/Collection/Methodology & tool-kits\|Methodology & tool-kits]]  |  [[ideaverse/Collection/Beyond Words - The Rise of Large World Models\|Beyond Words: The Rise of Large World Models]] >>>*
+*<--- [[ideaverse/Collection/Methodology & tool-kits\|Methodology & tool-kits]]*
+*---> [[ideaverse/Collection/Beyond Words - The Rise of Large World Models\|Beyond Words: The Rise of Large World Models]]*
 
 ---
 

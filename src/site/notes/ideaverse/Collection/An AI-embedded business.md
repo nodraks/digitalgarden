@@ -8,7 +8,8 @@
 
 *Written by Alec Fearon on 15 November 2025 in Anapoly Diary*
 *Transparency label: Human-only*
-*<<< [[ideaverse/Collection/A more personalised way to learn with NotebookLM\|A more personalised way to learn with NotebookLM]]  |  [[ideaverse/Collection/Content and context are key\|Content and context are key]] >>>*
+*<--- [[ideaverse/Collection/A more personalised way to learn with NotebookLM\|A more personalised way to learn with NotebookLM]]*
+*---> [[ideaverse/Collection/Content and context are key\|Content and context are key]]*
 
 ---
 

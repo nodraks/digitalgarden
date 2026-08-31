@@ -8,7 +8,8 @@
 
 *Written by Alec Fearon on 23 November 2025 in Anapoly Diary*
 *Transparency label: Human-only*
-*<<< [[ideaverse/Collection/Content and context are key\|Content and context are key]]  |  [[ideaverse/Collection/Using local-only AI in a micro-enterprise\|Using local-only AI in a micro-enterprise]] >>>*
+*<--- [[ideaverse/Collection/Content and context are key\|Content and context are key]]*
+*---> [[ideaverse/Collection/Using local-only AI in a micro-enterprise\|Using local-only AI in a micro-enterprise]]*
 
 ---
 

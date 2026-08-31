@@ -8,7 +8,8 @@
 
 *Written by Alec Fearon on 14 March 2026 in Anapoly Diary*
 *Transparency label: Human-only*
-*<<< [[ideaverse/Collection/Working with AI\|Working with AI]]  |  [[ideaverse/Collection/What ThinkSpace has become\|What ThinkSpace has become]] >>>*
+*<--- [[ideaverse/Collection/Working with AI\|Working with AI]]*
+*---> [[ideaverse/Collection/What ThinkSpace has become\|What ThinkSpace has become]]*
 
 ---
 

@@ -8,7 +8,8 @@
 
 *Written by Alec Fearon on 9 December 2025 in Anapoly Diary*
 *Transparency label: Human-only*
-*<<< [[ideaverse/Collection/Do AI models have a prompt appetite\|Do AI models have a prompt appetite]]  |  [[ideaverse/Collection/An AI power-user's perspective\|An AI power-user's perspective]] >>>*
+*<--- [[ideaverse/Collection/Do AI models have a prompt appetite\|Do AI models have a prompt appetite]]*
+*---> [[ideaverse/Collection/An AI power-user's perspective\|An AI power-user's perspective]]*
 
 ---
 

@@ -8,7 +8,8 @@
 
 *Written by Alec Fearon on 23 November 2025 in Anapoly Diary*
 *Transparency label: AI-assisted*
-*<<< [[ideaverse/Collection/Make ChatGPT mark its own homework\|Make ChatGPT mark its own homework]]  |  [[ideaverse/Collection/A three-layer instruction set for use in ChatGPT Projects\|A three-layer instruction set for use in ChatGPT Projects]] >>>*
+*<--- [[ideaverse/Collection/Make ChatGPT mark its own homework\|Make ChatGPT mark its own homework]]*
+*---> [[ideaverse/Collection/A three-layer instruction set for use in ChatGPT Projects\|A three-layer instruction set for use in ChatGPT Projects]]*
 
 ---
 
