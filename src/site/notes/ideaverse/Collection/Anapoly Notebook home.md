@@ -8,13 +8,11 @@
 
 Stub. The Notebook's front page: what the Notebook is, with the latest diary entries listed below.
 
-## Recent diary entries
-
 
 ```base
 views:
   - type: table
-    name: Recent entries
+    name: Recent diary entries
     filters:
       and:
         - categories.contains(link("Notebook diary"))
