@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/chat-gpt-models-which-to-use-when/","dg-note-properties":{"description":"Diary entry of 24 June 2025 with Ethan Mollick's one-line guide to choosing a ChatGPT model","created":"2026-08-31","posted":"2025-06-24","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/chat-gpt-models-which-to-use-when/","dg-note-properties":{"description":"Ethan Mollick's one-line guide to choosing a ChatGPT model","created":"2026-08-31","posted":"2025-06-24","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)

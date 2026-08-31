@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/beyond-words-the-rise-of-large-world-models/","dg-note-properties":{"description":"Diary entry of 7 January 2026 on Large World Models, which learn how the physical world behaves rather than how it is described","created":"2026-08-31","posted":"2026-01-07","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/beyond-words-the-rise-of-large-world-models/","dg-note-properties":{"description":"Large World Models, which learn how the physical world behaves rather than how it is described","created":"2026-08-31","posted":"2026-01-07","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)

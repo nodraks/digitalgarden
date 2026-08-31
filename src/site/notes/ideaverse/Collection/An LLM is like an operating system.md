@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/an-llm-is-like-an-operating-system/","dg-note-properties":{"description":"Diary entry of 3 August 2025 running Karpathy's operating-system analogy from the 1960s to 2050","created":"2026-08-31","posted":"2025-08-03","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/an-llm-is-like-an-operating-system/","dg-note-properties":{"description":"Karpathy's operating-system analogy, run from the 1960s to 2050","created":"2026-08-31","posted":"2025-08-03","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)

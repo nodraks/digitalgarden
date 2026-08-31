@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/using-local-only-ai-in-a-micro-enterprise/","dg-note-properties":{"description":"Diary entry of 23 November 2025 announcing the briefing note on running AI entirely on local machines in a micro-enterprise","created":"2026-08-31","posted":"2025-11-23","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/using-local-only-ai-in-a-micro-enterprise/","dg-note-properties":{"description":"The briefing note on running AI entirely on local machines in a micro-enterprise","created":"2026-08-31","posted":"2025-11-23","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)

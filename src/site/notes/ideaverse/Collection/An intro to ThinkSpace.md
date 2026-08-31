@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/an-intro-to-think-space/","dg-note-properties":{"description":"Diary entry of 14 March 2026 on ThinkSpace, Obsidian supercharged with Claude Code and a semantic search engine","created":"2026-08-31","posted":"2026-03-14","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/an-intro-to-think-space/","dg-note-properties":{"description":"ThinkSpace, Obsidian supercharged with Claude Code and a semantic search engine","created":"2026-08-31","posted":"2026-03-14","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)

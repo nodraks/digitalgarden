@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/collaboration-in-chat-gpt/","dg-note-properties":{"description":"Diary entry of 26 June 2025 on reports of OpenAI building document collaboration into ChatGPT","created":"2026-08-31","posted":"2025-06-26","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/collaboration-in-chat-gpt/","dg-note-properties":{"description":"Reports of OpenAI building document collaboration into ChatGPT","created":"2026-08-31","posted":"2025-06-26","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)

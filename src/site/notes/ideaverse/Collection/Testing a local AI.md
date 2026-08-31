@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/testing-a-local-ai/","dg-note-properties":{"description":"Diary entry of 29 August 2025 on running Mistral 7B locally over the Obsidian vault with Ollama and Smart Connections","created":"2026-08-31","posted":"2025-08-29","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/testing-a-local-ai/","dg-note-properties":{"description":"Running Mistral 7B locally over the Obsidian vault with Ollama and Smart Connections","created":"2026-08-31","posted":"2025-08-29","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)

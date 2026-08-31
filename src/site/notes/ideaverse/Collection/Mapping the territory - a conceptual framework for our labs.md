@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/mapping-the-territory-a-conceptual-framework-for-our-labs/","dg-note-properties":{"description":"Diary entry of 22 June 2025 on the conceptual framework defining lab functions, domains, contexts and roles","created":"2026-08-31","posted":"2025-06-22","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/mapping-the-territory-a-conceptual-framework-for-our-labs/","dg-note-properties":{"description":"The conceptual framework defining lab functions, domains, contexts and roles","created":"2026-08-31","posted":"2025-06-22","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/a-three-layer-instruction-set-for-use-in-chat-gpt-projects/","dg-note-properties":{"description":"Diary entry of 26 November 2025 on writing a three-layer instruction set for Anapoly's ChatGPT Projects","created":"2026-08-31","posted":"2025-11-26","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/a-three-layer-instruction-set-for-use-in-chat-gpt-projects/","dg-note-properties":{"description":"Writing a three-layer instruction set for Anapoly's ChatGPT Projects","created":"2026-08-31","posted":"2025-11-26","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)

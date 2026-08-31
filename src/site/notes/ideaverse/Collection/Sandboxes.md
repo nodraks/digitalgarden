@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/sandboxes/","dg-note-properties":{"description":"Diary entry of 22 June 2025 on EU and UK AI sandboxes, and the space Anapoly AI Labs can occupy","created":"2026-08-31","posted":"2025-06-22","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/sandboxes/","dg-note-properties":{"description":"EU and UK AI sandboxes, and the space Anapoly AI Labs can occupy","created":"2026-08-31","posted":"2025-06-22","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)

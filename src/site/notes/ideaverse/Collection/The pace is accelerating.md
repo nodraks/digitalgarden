@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/the-pace-is-accelerating/","dg-note-properties":{"description":"Diary entry of 3 February 2026 on Gas Town, OpenClaw and agentic commerce, science fiction becoming reality","created":"2026-08-31","posted":"2026-02-03","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/the-pace-is-accelerating/","dg-note-properties":{"description":"Gas Town, OpenClaw and agentic commerce, science fiction becoming reality","created":"2026-08-31","posted":"2026-02-03","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)
