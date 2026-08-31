@@ -6,7 +6,7 @@
 
 # Anapoly Notebook
 
-Stub. The Notebook's front page: what the Notebook is, with the latest diary entries listed below.
+Anapoly Notebook is where we document our work in the day-to-day use of general-purpose AI. We reflect on what works and what doesn’t, and share our thinking as it develops. The diary provides a narrative thread through our thinking and development. This is how it all started.
 
 
 ```base
@@ -18,10 +18,10 @@ views:
         - categories.contains(link("Notebook diary"))
     order:
       - file.name
-      - published
+      - posted
       - description
     sort:
-      - property: published
+      - property: posted
         direction: DESC
     limit: 5
     columnSize:
