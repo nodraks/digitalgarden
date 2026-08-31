@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/ideaverse/collection/first-lab-note-published/","dg-note-properties":{"description":"Diary entry of 18 June 2025 announcing the first lab note, on refining ChatGPT custom instructions","created":"2026-08-31","posted":"2025-06-18","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+---
+
+[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)
+
+# First lab note published
+
+*Written by Alec Fearon on 18 June 2025 in Anapoly Diary*
+*Transparency label: Human-only*
+*<--- [[ideaverse/Collection/Sense from confusion\|Sense from confusion]]*
+*---> [[ideaverse/Collection/Working Towards a Strategy\|Working Towards a Strategy]]*
+
+---
+
+We’ve just posted our first lab note.
+
+It documents an internal experiment to refine the custom instructions we use with ChatGPT – what we expect from it, how it should respond, and how to keep it useful across different tasks. The aim is to define a persona for the AI assistant that is more consistent and can adapt to the different types of assistance required of it.
+
+It’s a good example of how we’re using the Labs: not to explain AI, but to find out what it’s actually good for.
+
+Read the lab note → [Custom Instructions for ChatGPT](https://anapoly.co.uk/labs/lab-note-instruction-refinement-custom-instructions-for-chatgpt/)

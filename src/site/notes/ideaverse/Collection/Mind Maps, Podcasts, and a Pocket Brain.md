@@ -1,0 +1,30 @@
+---
+{"dg-publish":true,"permalink":"/ideaverse/collection/mind-maps-podcasts-and-a-pocket-brain/","dg-note-properties":{"aliases":["My second brain part 1"],"description":"Diary entry of 21 August 2025 on using NotebookLM's mind maps and audio overviews to fast-track learning Obsidian","created":"2025-08-21","posted":"2025-08-21","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+---
+
+[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)
+
+# Mind Maps, Podcasts, and a Pocket Brain
+
+*Written by Alec Fearon on 21 August 2025 in Anapoly Diary*
+*Transparency label: Human-led. Human-authored, with AI input limited to suggestions, edits, or fact-checking*
+*<--- [[ideaverse/Collection/The art of goal-directed context management\|The art of goal-directed context management]]*
+*---> [[ideaverse/Collection/Testing a local AI\|Testing a local AI]]*
+
+---
+
+Lately I’ve been testing a simple idea: can AI turn Obsidian into a genuinely useful second brain for me? The answer was a complicated but resounding “Yes”.
+
+My first step was to find an experienced Obsidian user whose ideas resonated with mine. This turned out to be a YouTuber called Callum (aka Wanderloots). Callum's channel has over fifteen videos relating his personal experience in building a second brain, and offering advice about all aspects of Obsidian for that purpose.
+
+I satisfied myself that Callum's approach would be a good basis from which to develop my own, but didn't have the time to watch every video in order to benefit from their content. I needed a quick and efficient way to fast-track that process. Step forward NotebookLM.
+
+One of the great things about NotebookLM is that you can give it fifteen YouTube videos and then have a conversation about their content. The discussion can encompass the content of one, several, or all of the videos. To help you structure the conversation, NotebookLM can produce a mind map setting out all the concepts or ideas contained in the videos.
+
+On top of that, to help you reflect on these ideas while strolling round the park after work, the AI can produce an audio overview. This takes the form of a podcast-style discussion between two hosts, and you can set the ground rules for their discussion, for example the focus points, audience, technical level. Listen in for yourself.
+
+<audio controls src="https://anapoly.co.uk/labs/media/notebooklm_obsidian_discussion_2025-08-19.mp3"></audio>
+
+Intriguingly, the discussion is interactive when you’re online to the AI. You can join in to ask questions or steer the discussion in a particular direction.
+
+With the big picture in place, the next step was the hands-on work of shaping Obsidian to fit my needs. That will be the subject of my next post, where I’ll dig into the practicalities of building it and explore how a local AI might give my second brain extra intelligence without compromising its privacy.
