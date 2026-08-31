@@ -25,3 +25,4 @@ My digital workspace, a [[ideaverse/Collection/ThinkSpace for research, thinking
 ---
 
 [[ideaverse/Knowledge work/family-archive/2025-09-09-171308 Family Archive\|2025-09-09-171308 Family Archive]]
+[[ideaverse/Collection/What ThinkSpace has become\|What ThinkSpace has become]]
