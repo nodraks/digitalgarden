@@ -19,8 +19,8 @@ Before sharing, consider:
 - What you know about the source. Do you know it's reputation?
 
 Before moving forward or sharing, use the other three moves:
-- **I**nvestigate the Source, 
-- **F**ind Better Coverage, and 
+- **I**nvestigate the Source,
+- **F**ind Better Coverage, and
 - **T**race Claims, Quotes, and Media back to the Original Context.
 
 ## I - Investigate the Source
@@ -30,9 +30,9 @@ Before moving forward or sharing, use the other three moves:
 - What is their mission? Do they have vested interests? ​Would their assessment be biased?
 - Do they have authority in the area?​
 
-Use [lateral reading](https://webliteracy.pressbooks.com/chapter/what-reading-laterally-means/). Go beyond the 'About Us' section on the organization's website and see what other, trusted sources say about the source.​ You can use Google or Wikipedia to investigate the source.
+Use [lateral reading](https://webliteracy.pressbooks.com/chapter/what-reading-laterally-means/). Go beyond the 'About Us' section on the organization's website and see what other, trusted sources say about the source.​ You can use Google or Wikipedia to investigate the source.
 
-[Hovering](https://infodemic.blog/2020/02/16/lets-hover/) is another technique to learn more about who is sharing information, especially on social media platforms such as Twitter.
+[Hovering](https://infodemic.blog/2020/02/16/lets-hover/) is another technique to learn more about who is sharing information, especially on social media platforms such as Twitter.
 
 ## F - Find Better Coverage
 
@@ -49,7 +49,7 @@ Keep track of trusted news sources. Many times, fact checkers have already looke
 
 **The final step is to Trace Claims, Quotes, and Media to their Original Context.** When an article references a quote from an expert, or results of a research study, it is good practice to attempt to locate the original source of the information.​ Click through the links to follow the claims to the original source of information. Open up the original reporting sources listed in a bibliography if present. 
 
-- Was the claim, quote, or media fairly represented?
+- Was the claim, quote, or media fairly represented?
 - Does the extracted information support the original claims in the research? 
 - Is information being cherry-picked to support an agenda or a bias?​
 - Is information being taken out of context?​

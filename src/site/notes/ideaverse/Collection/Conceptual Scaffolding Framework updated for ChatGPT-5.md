@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/conceptual-scaffolding-framework-updated-for-chat-gpt-5/","dg-note-properties":{"description":"Updating the Contextual Scaffolding Framework for ChatGPT-5 with NotebookLM","created":"2026-08-31","posted":"2025-08-12","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
-[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)
+[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
 
 # Conceptual Scaffolding Framework updated for ChatGPT-5
 

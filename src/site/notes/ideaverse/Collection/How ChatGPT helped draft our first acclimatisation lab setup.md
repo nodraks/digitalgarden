@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/how-chat-gpt-helped-draft-our-first-acclimatisation-lab-setup/","dg-note-properties":{"description":"Racing two ChatGPT models to outline the first acclimatisation session","created":"2026-08-31","posted":"2025-06-24","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
-[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)
+[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
 
 # How ChatGPT helped draft our first acclimatisation lab setup
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/mind-maps-podcasts-and-a-pocket-brain/","dg-note-properties":{"aliases":["My second brain part 1"],"description":"Using NotebookLM's mind maps and audio overviews to fast-track learning Obsidian","created":"2025-08-21","posted":"2025-08-21","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
-[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)
+[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
 
 # Mind Maps, Podcasts, and a Pocket Brain
 

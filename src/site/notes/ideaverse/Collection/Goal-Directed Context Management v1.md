@@ -6,7 +6,7 @@
 
 # Goal-Directed Context Management
 *Version 1*  *Status: well advanced* 
-_With acknowledgement to Erling S. Andersen, whose book <a href="https://www.amazon.co.uk/Goal-Directed-Project-Management-Techniques/dp/0749453346">Goal Directed Project Management</a> inspired me in 1988_
+_With acknowledgement to Erling S. Andersen, whose book <a href="https://www.amazon.co.uk/Goal-Directed-Project-Management-Techniques/dp/0749453346">Goal Directed Project Management</a> inspired me in 1988_
 
 ---
 ## Introduction

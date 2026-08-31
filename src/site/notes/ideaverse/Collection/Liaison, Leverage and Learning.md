@@ -12,7 +12,7 @@
 *Transparency label: human-only*
 *Author: Alec Fearon*
 
-I have a workspace for my research, thinking, and writing. It goes by the name of ThinkSpace. One of the components of ThinkSpace is a piece of software called Obsidian. Amongst other things, Obsidian enables me to publish some of my writing to my [[ideaverse/Collection/Digital Garden\|digital garden]]. It uses an Obsidian plugin called Digital Garden for this purpose. 
+I have a workspace for my research, thinking, and writing. It goes by the name of ThinkSpace. One of the components of ThinkSpace is a piece of software called Obsidian. Amongst other things, Obsidian enables me to publish some of my writing to my [[ideaverse/Collection/Digital Garden\|digital garden]]. It uses an Obsidian plugin called Digital Garden for this purpose.
 
 One of my goals is to create a family archive online. I've been experimenting in [[ideaverse/Collection/ThinkSpace for research, thinking and writing\|ThinkSpace]] with the possibility of using Obsidian and the Digital Garden plugin to for that purpose. One experiment was to see if the plug-in could publish a table listing some of my forebears, with their dates and how they relate to each other. The table worked well in Obsidian, but on the website it fell apart. 
 
