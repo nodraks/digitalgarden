@@ -9,3 +9,8 @@
 Working notes from Anapoly AI Labs, newest first.
 
 - [[ideaverse/Collection/What ThinkSpace has become\|What ThinkSpace has become]], 18 August 2026
+- [[ideaverse/Collection/An intro to ThinkSpace\|ThinkSpace]], 14 March 2026
+- [[ideaverse/Collection/Working with AI\|Working with AI]], 1 March 2026
+- [[ideaverse/Collection/Momentum is gathering\|Momentum is gathering]], 27 February 2026
+- [[ideaverse/Collection/Ride the wave\|Ride the wave]], 18 February 2026
+- [[ideaverse/Collection/The pace is accelerating\|The pace is accelerating]], 3 February 2026
