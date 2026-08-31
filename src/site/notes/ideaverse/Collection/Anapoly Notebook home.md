@@ -7,3 +7,27 @@
 # Anapoly Notebook
 
 Stub. The Notebook's front page: what the Notebook is, with the latest diary entries listed below.
+
+## Recent diary entries
+
+
+```base
+views:
+  - type: table
+    name: Recent entries
+    filters:
+      and:
+        - categories.contains(link("Notebook diary"))
+    order:
+      - file.name
+      - published
+      - description
+    sort:
+      - property: published
+        direction: DESC
+    limit: 5
+    columnSize:
+      file.name: 300
+
+```
+
