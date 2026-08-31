@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/phain-startup-prompt/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"aliases":["startup prompt"],"provenance":"collaborative"}}
 ---
 
-<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[ideaverse/Collection/Digital Garden\|Digital Garden]] 
+[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
 
 # PHAIN Startup Prompt 
 

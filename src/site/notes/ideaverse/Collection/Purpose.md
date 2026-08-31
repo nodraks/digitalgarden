@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/purpose/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"aliases":null,"provenance":"alec"}}
 ---
 
+[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
+
 # Reflecting on Purpose
 
 ---

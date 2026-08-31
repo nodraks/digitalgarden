@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/rationale-for-the-project/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"aliases":null,"provenance":"collaborative"}}
 ---
 
-<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[ideaverse/Collection/Digital Garden\|Digital Garden]] 
+[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
 
 # Rationale for the project
 *Status: needs review*

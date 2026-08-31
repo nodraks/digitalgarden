@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/the-distinction-between-project-instructions-and-project-files/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"aliases":["distinction between Project Instructions and Project Files"],"provenance":"collaborative"}}
 ---
 
-<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[ideaverse/Collection/Digital Garden\|Digital Garden]] 
+[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
 
 # Distinction between Project Instructions and Project Files
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/values-ethics-culture-and-ethos/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"aliases":["values, ethics, culture, and ethos","ethos of caring"],"provenance":"collaborative"}}
 ---
 
-<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[ideaverse/Collection/Digital Garden\|Digital Garden]] 
+[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
 # How Values, Ethics, Culture, & Ethos Connect
 
 *Source: Chat with Perplexity AI*

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/digital-garden/","tags":["gardenEntry"],"dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"provenance":"alec"}}
 ---
 
-<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a>
+[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
 # Digital garden
 
 *digital garden: a place to develop and share ideas in a flexible, interconnected, and constantly updated space.*  

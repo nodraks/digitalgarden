@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/a-search-engine-for-ideas/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"aliases":null,"provenance":"alec"}}
 ---
 
-<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[ideaverse/Collection/Digital Garden\|Digital Garden]]
+[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
 
 # A search engine for ideas
 *Building a personal search engine that understands meaning*

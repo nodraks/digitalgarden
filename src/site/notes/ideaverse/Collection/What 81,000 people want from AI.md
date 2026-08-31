@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/what-81-000-people-want-from-ai/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"aliases":null,"provenance":"alec"}}
 ---
 
+[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
+
 # What 81,000 People Want from AI
 
 ---

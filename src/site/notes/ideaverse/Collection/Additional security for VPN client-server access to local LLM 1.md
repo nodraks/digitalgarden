@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/additional-security-for-vpn-client-server-access-to-local-llm-1/","dg-note-properties":{"aliases":["additional security measures"],"source":"Perplexity","created":"2025-08-24","categories":["[[ideaverse/Collection/Garden]]"],"provenance":"peka"}}
 ---
 
-<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[ideaverse/Collection/Digital Garden\|Digital Garden]] 
+[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
 
 # Additional security for VPN access to local LLM
 

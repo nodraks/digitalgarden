@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/goal-directed-context-management-v1/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"aliases":["Goal-Directed Context Management","context management","context management"],"provenance":"alec"}}
 ---
 
-<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[ideaverse/Collection/Digital Garden\|Digital Garden]] 
+[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
 
 # Goal-Directed Context Management
 *Version 1*  *Status: well advanced* 

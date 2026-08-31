@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/think-space-for-research-thinking-and-writing/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"provenance":"collaborative","created":"2026-08-18"}}
 ---
 
-<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[ideaverse/Collection/Digital Garden\|Digital Garden]]
+[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
 
 # ThinkSpace
 *My workspace for research, thinking and writing*

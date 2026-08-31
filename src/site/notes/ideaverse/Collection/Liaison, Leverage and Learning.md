@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/liaison-leverage-and-learning/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"aliases":null,"provenance":"alec"}}
 ---
 
-<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[ideaverse/Collection/Digital Garden\|Digital Garden]]
+[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
 
 # Liaison, Leverage and Learning 
 *A small contribution to the open source community*

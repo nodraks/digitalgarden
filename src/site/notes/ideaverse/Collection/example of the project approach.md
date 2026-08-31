@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/example-of-the-project-approach/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"aliases":["staff onboarding procedure"],"provenance":"collaborative"}}
 ---
 
-<a href="https://anapoly.co.uk/labs">Anapoly Notebook</a> | [[ideaverse/Collection/Digital Garden\|Digital Garden]] 
+[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
 
 # Project Approach Example — Staff Onboarding Procedure
 
