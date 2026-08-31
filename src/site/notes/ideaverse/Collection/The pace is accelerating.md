@@ -7,7 +7,7 @@
 # The pace is accelerating
 
 *Written by Alec Fearon on 3 February 2026 in Anapoly Diary*
-*Transparency label: pending*
+*Transparency label: Human-only*
 *[[ideaverse/Collection/Ride the wave\|Ride the wave]] >>>*
 
 ---
