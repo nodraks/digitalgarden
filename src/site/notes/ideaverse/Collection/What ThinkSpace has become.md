@@ -4,11 +4,10 @@
 
 [[ideaverse/Collection/Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [Garden](https://anapoly.netlify.app) | [Anapoly](https://anapoly.co.uk)
 
-*Previous: none | Next: none*
 # What ThinkSpace has become
 
 *Written by Alec Fearon on 18 August 2026 in Anapoly Diary*
-
+*Previous: none | Next: none*
 *Transparency label: Human-only*
 
 ---
