@@ -36,7 +36,7 @@ views:
 
 
 > [!note]- Standards: published standards we refer to
-
+> 
 ```base
 views:
   - type: table
@@ -59,7 +59,7 @@ views:
 
 
 > [!note]- Frameworks: the frameworks Anapoly AI Labs works to
-
+> 
 ```base
 views:
   - type: table
@@ -82,7 +82,7 @@ views:
 
 
 > [!note]- Tools: prompts and workflows we use and recommend
-
+> 
 ```base
 views:
   - type: table
