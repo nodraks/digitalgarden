@@ -1,23 +1,4 @@
 {
   "version": 1,
-  "plugins": {
-    "breadcrumbs": {
-      "repo": "oleeskild/garden-plugin-breadcrumbs",
-      "installedVersion": "1.0.0",
-      "installedRef": "v1.0.0",
-      "installedAt": "2026-09-01T14:15:46.840Z",
-      "enabled": false,
-      "files": [
-        "src/plugins/breadcrumbs/README.md",
-        "src/plugins/breadcrumbs/garden-plugin.json",
-        "src/plugins/breadcrumbs/index.js",
-        "src/plugins/breadcrumbs/styles/trail.scss",
-        "src/plugins/breadcrumbs/templates/trail.njk"
-      ],
-      "settings": {
-        "homeLabel": "",
-        "separator": "/"
-      }
-    }
-  }
+  "plugins": {}
 }
