@@ -6,7 +6,7 @@
 
 # Anapoly Notebook
 
-Anapoly Notebook is where we document our work in the day-to-day use of general-purpose AI. We reflect on what works and what doesn’t, and share our thinking as it develops. The diary provides a narrative thread through our thinking and development. [[ideaverse/Collection/The idea\|This is how it all started]].
+Anapoly Notebook is where we document our work, reflecting on what succeeds and what doesn’t, and share our thinking as it develops. The diary provides a narrative thread through our progress. This dairy post explains [[ideaverse/Collection/The idea\|how it all started]].
 
 *Note: the search box at the top of the screen does not yet work on a mobile phone.*
 
