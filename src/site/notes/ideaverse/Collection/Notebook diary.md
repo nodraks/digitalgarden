@@ -4,9 +4,7 @@
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
 
-# Diary
-
-Working notes from Anapoly AI Labs, newest first.
+# Diary posts
 
 
 ```base

@@ -6,4 +6,4 @@
 
 # Lab notes
 
-Stub. An index of the lab notes, each dated and carrying its transparency label.
+Stub for an index of the lab notes, each dated and carrying its transparency label.
