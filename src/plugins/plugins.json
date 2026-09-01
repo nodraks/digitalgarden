@@ -15,7 +15,7 @@
         "src/plugins/breadcrumbs/templates/trail.njk"
       ],
       "settings": {
-        "homeLabel": "Home",
+        "homeLabel": "",
         "separator": "/"
       }
     }
