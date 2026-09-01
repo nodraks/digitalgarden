@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/get-it-in-track-it-down-follow-up-dg/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"provenance":"alec","dg":null}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/get-it-in-track-it-down-follow-up-dg/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]","[[Live]]"],"provenance":"alec","dg":null}}
 ---
 
 
@@ -16,4 +16,4 @@
 
 "**Follow up**" means treating the first response as a starting point, not a verdict. Ask for another round. Request a sources table. Ask what experts disagree about. The value comes from iteration, not a single query.
 
-The framework sits alongside AI tools like Caulfield's own [[ideaverse/Collection/Deep Background dg\|Deep Background prompt]], but works with any model that has web search. His goal is to shift people from being passive consumers of AI summaries to active investigators who use AI to map the information landscape and then navigate it themselves.
+The framework sits alongside AI tools like Caulfield's own [[ideaverse/Collection/Deep Background by Mike Caulfield\|Deep Background prompt]], but works with any model that has web search. His goal is to shift people from being passive consumers of AI summaries to active investigators who use AI to map the information landscape and then navigate it themselves.

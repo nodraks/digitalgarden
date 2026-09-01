@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/the-sift-method/","title":["The SIFT Method"],"dg-note-properties":{"title":["The SIFT Method"],"created":"2026-03-08","categories":["[[ideaverse/Collection/Garden]]"],"provenance":"external","source":"https://nwtc.libguides.com/evaluating_resources/sift"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/the-sift-method/","title":["The SIFT Method"],"dg-note-properties":{"title":["The SIFT Method"],"created":"2026-03-08","categories":["[[ideaverse/Collection/Garden]]","[[Live]]"],"provenance":"external","source":"https://nwtc.libguides.com/evaluating_resources/sift"}}
 ---
 
 [[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)

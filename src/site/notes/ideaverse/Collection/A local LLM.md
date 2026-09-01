@@ -6,8 +6,6 @@
 
 # A local LLM
 
-**Status:** 🔸 Seed → ✅ Growing → 🔸 Well-formed → 🔸 Fruitful → 🔸 Retired
-
 *Transparency label: AI-heavy
 
 ---
