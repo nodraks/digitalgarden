@@ -13,7 +13,11 @@
         "src/plugins/breadcrumbs/index.js",
         "src/plugins/breadcrumbs/styles/trail.scss",
         "src/plugins/breadcrumbs/templates/trail.njk"
-      ]
+      ],
+      "settings": {
+        "homeLabel": "Home",
+        "separator": "/"
+      }
     }
   }
 }
