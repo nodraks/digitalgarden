@@ -6,4 +6,100 @@
 
 # Resources
 
-Stub. The resources worth keeping from the WordPress Notebook, curated rather than carried over wholesale.
+A curated set of resources from our work with AI: the people we read, and the standards, frameworks and tools we use. Each entry links to a short note saying what the resource is and where to find it.
+
+> [!info] Thought leaders
+> People whose writing and work shape how we think about AI.
+> 
+```base
+views:
+  - type: table
+    name: Thought leaders
+    filters:
+      and:
+        - categories.contains(link("Notebook resources"))
+        - note["resource-type"] == "Thought leader"
+    order:
+      - file.name
+      - description
+      - url
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 250
+
+```
+
+
+> [!info] Standards
+> Published standards we refer to.
+> 
+```base
+views:
+  - type: table
+    name: Standards
+    filters:
+      and:
+        - categories.contains(link("Notebook resources"))
+        - note["resource-type"] == "Standard"
+    order:
+      - file.name
+      - description
+      - url
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 250
+
+```
+
+
+> [!info] Frameworks
+> The frameworks Anapoly AI Labs works to.
+> 
+```base
+views:
+  - type: table
+    name: Frameworks
+    filters:
+      and:
+        - categories.contains(link("Notebook resources"))
+        - note["resource-type"] == "Framework"
+    order:
+      - file.name
+      - description
+      - url
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 250
+
+```
+
+
+> [!info] Tools
+> Prompts and workflows we use and recommend.
+> 
+```base
+views:
+  - type: table
+    name: Tools
+    filters:
+      and:
+        - categories.contains(link("Notebook resources"))
+        - note["resource-type"] == "Tool"
+    order:
+      - file.name
+      - description
+      - url
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 250
+
+```
+
