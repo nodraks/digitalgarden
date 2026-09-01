@@ -8,9 +8,8 @@
 
 A curated set of resources from our work with AI: the people we read, and the standards, frameworks and tools we use. Each entry links to a short note saying what the resource is and where to find it.
 
-> [!info] Thought leaders
-> People whose writing and work shape how we think about AI.
-> 
+> [!note]- Thought leaders: people whose writing and work shape how we think about AI
+
 ```base
 views:
   - type: table
