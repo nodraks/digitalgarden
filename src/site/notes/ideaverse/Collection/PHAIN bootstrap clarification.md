@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/phain-bootstrap-clarification/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"aliases":["clarification"],"provenance":"collaborative"}}
 ---
 
-[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
+[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
 
 # Bootstrap prompt clarification
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/2025-11-16-154431-hybrid-ai-systems/","title":"2025-11-16-154431 Hybrid AI systems","dg-note-properties":{"title":"2025-11-16-154431 Hybrid AI systems","description":null,"aliases":["hybrid AI systems"],"reference":null,"created":"2025-11-16","categories":["[[ideaverse/Collection/System architecture]]","[[ideaverse/Collection/Garden]]"],"provenance":"collaborative"}}
 ---
 
-[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
+[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
  
 Transparency label: AI-assisted
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/warning-thoughts/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"provenance":"external","source":["[[ideaverse/Collection/Dennis Silverwood]]"]}}
 ---
 
-[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
+[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
 # Warning Thoughts
 *from Dennis Silverwood*
 

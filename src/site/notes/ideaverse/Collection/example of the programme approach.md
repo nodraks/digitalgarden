@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/example-of-the-programme-approach/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"aliases":["policy framework example"],"provenance":"collaborative"}}
 ---
 
-[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
+[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
 
 # Programme Approach Example — Development of a Policy Framework
 

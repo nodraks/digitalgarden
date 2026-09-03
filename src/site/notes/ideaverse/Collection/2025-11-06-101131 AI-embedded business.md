@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/2025-11-06-101131-ai-embedded-business/","title":"2025-11-06-101131 AI-embedded business","dg-note-properties":{"title":"2025-11-06-101131 AI-embedded business","description":null,"aliases":["AI-embedded business"],"reference":null,"created":"2025-11-06","categories":["[[ideaverse/Collection/Anapoly]]","[[ideaverse/Collection/Garden]]"],"provenance":"alec"}}
 ---
 
-[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
+[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
 
 Transparency label: Human-authored, with AI input limited to suggestions, edits, or fact-checking.
 

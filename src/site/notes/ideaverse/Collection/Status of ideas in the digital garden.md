@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/status-of-ideas-in-the-digital-garden/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"aliases":["Status"],"provenance":"alec"}}
 ---
 
-[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
+[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
 
 # Status of ideas in the [[ideaverse/Collection/Digital Garden\|Digital Garden]]
 

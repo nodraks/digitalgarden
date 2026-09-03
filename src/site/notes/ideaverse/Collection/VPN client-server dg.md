@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/vpn-client-server-dg/","dg-note-properties":{"aliases":["VPN client/server","VPN for secure access"],"source":null,"created":"2025-08-24","categories":["[[ideaverse/Collection/Garden]]"],"provenance":"collaborative"}}
 ---
 
-[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
+[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
 
 # VPN Client/Server
 

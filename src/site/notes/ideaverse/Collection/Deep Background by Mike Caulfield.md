@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/collection/deep-background-by-mike-caulfield/","dg-note-properties":{"created":"2026-03-08","categories":["[[ideaverse/Collection/Mike Caulfield]]","[[ideaverse/Collection/Prompts]]","[[ideaverse/Collection/Fact checking]]","[[ideaverse/Collection/Garden]]","[[Live]]"],"provenance":"external","source":"https://checkplease.neocities.org"}}
 ---
 
-[[ideaverse/Collection/Digital Garden\|Garden]] | [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [Anapoly](https://anapoly.co.uk)
+[[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
 
 # Deep Background super-prompt
 
