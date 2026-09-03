@@ -18,4 +18,4 @@ An AI running locally could be accessed over an internal network or remotely thr
 
 This deep-dive conversation produced by NotebookLM provides a helpful overview of the technical issues involved in running an LLM locally.
 
-<audio controls src="https://anapoly.co.uk/labs/media/Your_Desktop,_Your_AI_A_Guide_to_Running_LLMs_Locally.m4a"></audio>
+<audio controls src="https://www.anapoly.co.uk/media/your-desktop-your-ai-running-llms-locally.m4a"></audio>

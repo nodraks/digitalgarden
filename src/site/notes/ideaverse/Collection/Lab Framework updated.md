@@ -13,4 +13,4 @@
 
 ---
 
-Substantial update to the [Lab Framework](https://anapoly.co.uk/labs/wp-content/uploads/2025/08/Lab-Framework.pdf), clarifying how we actually do labs!
+Substantial update to the [Lab Framework](/img/user/ideaverse/Attachments/Lab-Framework.pdf), clarifying how we actually do labs!

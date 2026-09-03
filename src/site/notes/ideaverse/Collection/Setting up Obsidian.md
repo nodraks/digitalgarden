@@ -18,7 +18,7 @@ Callum's channel has over fifteen videos relating his personal experience in bui
 
 One of the great things about NotebookLM is that you can give it fifteen YouTube videos and then have a conversation about their content. The discussion can encompass the content of one, several, or all of the videos. To help you structure the conversation, NotebookLM can produce a mind map setting out all the concepts or ideas contained in the videos. On top of that, to help you reflect on these ideas while strolling round the park after work, the AI can produce an audio overview. This takes the form of a podcast-style discussion between two hosts, and you can set the ground rules for their discussion, for example the focus points, audience, technical level. Listen in for yourself.
 
-<audio controls src="https://anapoly.co.uk/labs/media/notebooklm_obsidian_discussion_2025-08-19.mp3"></audio>
+<audio controls src="https://www.anapoly.co.uk/media/notebooklm-obsidian-discussion-2025-08-19.mp3"></audio>
 
 Intriguingly, the discussion is interactive when you're online to the AI. You can join in to ask questions or steer the discussion in a particular direction. 
 

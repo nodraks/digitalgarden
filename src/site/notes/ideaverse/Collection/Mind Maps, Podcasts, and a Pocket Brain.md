@@ -23,7 +23,7 @@ One of the great things about NotebookLM is that you can give it fifteen YouTube
 
 On top of that, to help you reflect on these ideas while strolling round the park after work, the AI can produce an audio overview. This takes the form of a podcast-style discussion between two hosts, and you can set the ground rules for their discussion, for example the focus points, audience, technical level. Listen in for yourself.
 
-<audio controls src="https://anapoly.co.uk/labs/media/notebooklm_obsidian_discussion_2025-08-19.mp3"></audio>
+<audio controls src="https://www.anapoly.co.uk/media/notebooklm-obsidian-discussion-2025-08-19.mp3"></audio>
 
 Intriguingly, the discussion is interactive when you’re online to the AI. You can join in to ask questions or steer the discussion in a particular direction.
 

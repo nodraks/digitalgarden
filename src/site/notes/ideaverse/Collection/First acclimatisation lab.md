@@ -15,4 +15,4 @@
 
 We ran our first acclimatisation lab yesterday, a trial session with two external participants. There were aspects which can be improved, but overall the feedback was very positive.
 
-This was [the session plan](https://anapoly.co.uk/labs/wp-content/uploads/2025/08/acclimatisation_lab_2025-08-07.pdf).
+This was [the session plan](/img/user/ideaverse/Attachments/acclimatisation_lab_2025-08-07.pdf).

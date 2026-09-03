@@ -13,7 +13,7 @@
 
 ---
 
-Building on recent work around the [three-layer model of AI context](https://anapoly.co.uk/labs/wp-content/uploads/2025/11/the_three-Layer_model_of_ai_context.pdf), I spent some time today working with ChatGPT to write a full [[ideaverse/Collection/Anapoly three-layer instruction set\|three-Layer Instruction]] set for use in Anapoly’s ChatGPT Projects.
+Building on recent work around the [three-layer model of AI context](/img/user/ideaverse/Attachments/the_three-Layer_model_of_ai_context.pdf), I spent some time today working with ChatGPT to write a full [[ideaverse/Collection/Anapoly three-layer instruction set\|three-Layer Instruction]] set for use in Anapoly’s ChatGPT Projects.
 
 If it works as hoped, strong governance is now the default. The AI will challenge weak logic, ask for clarification when the ground is shaky, and keeps its tone plain and grounded. And for the occasions when I want it to bend the rules baked into it, I added an escape hatch: a temporary override, clearly marked, that lasts exactly one turn.
 
