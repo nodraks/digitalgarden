@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/first-lab-note-published/","dg-note-properties":{"description":"The first lab note, on refining ChatGPT custom instructions","created":"2026-08-31","posted":"2025-06-18","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/first-lab-note-published/","dg-note-properties":{"description":"The first lab note, on refining ChatGPT custom instructions","created":"2026-08-31","posted":"2025-06-18","section":"diary","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
@@ -19,4 +19,4 @@ It documents an internal experiment to refine the custom instructions we use wit
 
 It’s a good example of how we’re using the Labs: not to explain AI, but to find out what it’s actually good for.
 
-Read the lab note → [Custom Instructions for ChatGPT](https://anapoly.co.uk/labs/lab-note-instruction-refinement-custom-instructions-for-chatgpt/)
+Read the lab note → [[ideaverse/Collection/Custom instructions for ChatGPT\|Custom Instructions for ChatGPT]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/eric-hudson-thought-leader/","dg-note-properties":{"description":"Education consultant on AI and learning","created":"2026-09-01","resource-type":"Thought leader","url":"https://www.erichudson.co","categories":["[[ideaverse/Collection/Notebook resources]]","[[ideaverse/Collection/Anapoly Notebook]]","[[ideaverse/Collection/Eric Hudson]]"],"provenance":"collaborative"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/eric-hudson-thought-leader/","dg-note-properties":{"description":"Education consultant on AI and learning","created":"2026-09-01","resource-type":"Thought leader","url":"https://www.erichudson.co","section":"resource","categories":["[[ideaverse/Collection/Anapoly Notebook]]","[[ideaverse/Collection/Eric Hudson]]"],"provenance":"collaborative"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)

@@ -17,7 +17,7 @@ views:
     name: Recent diary entries
     filters:
       and:
-        - categories.contains(link("Notebook diary"))
+        - note["section"] == "diary"
     order:
       - file.name
       - posted

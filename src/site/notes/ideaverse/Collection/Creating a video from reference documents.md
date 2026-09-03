@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/creating-a-video-from-reference-documents/","dg-note-properties":{"description":"The video NotebookLM produced unprompted from the Contextual Scaffolding Framework","created":"2026-08-31","posted":"2025-08-13","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/creating-a-video-from-reference-documents/","dg-note-properties":{"description":"The video NotebookLM produced unprompted from the Contextual Scaffolding Framework","created":"2026-08-31","posted":"2025-08-13","section":"diary","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)

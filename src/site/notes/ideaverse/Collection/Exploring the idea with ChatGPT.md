@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/exploring-the-idea-with-chat-gpt/","dg-note-properties":{"description":"Exploring the club idea's viability with ChatGPT","created":"2026-08-31","posted":"2025-06-03","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/exploring-the-idea-with-chat-gpt/","dg-note-properties":{"description":"Exploring the club idea's viability with ChatGPT","created":"2026-08-31","posted":"2025-06-03","section":"diary","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)

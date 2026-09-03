@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/how-chat-gpt-helped-draft-our-first-acclimatisation-lab-setup/","dg-note-properties":{"description":"Racing two ChatGPT models to outline the first acclimatisation session","created":"2026-08-31","posted":"2025-06-24","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/how-chat-gpt-helped-draft-our-first-acclimatisation-lab-setup/","dg-note-properties":{"description":"Racing two ChatGPT models to outline the first acclimatisation session","created":"2026-08-31","posted":"2025-06-24","section":"diary","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
@@ -21,4 +21,4 @@ Highlights:
 - **Time cost:** The branch test took three minutes and gave us a clear winner.
 - **Transparency:** The Lab Note carries an AI‑heavy label because most of the prose came straight from o3. I trimmed, corrected one hallucination, and signed off.
 
-If you are curious about our process or want to see how structured prompting keeps the bot on track, read the full note here: **[First Acclimatisation Session Lab Note →](https://anapoly.co.uk/labs/branch-test-drafting-anapolys-first-lab-setup-with-chatgpt/)**
+If you are curious about our process or want to see how structured prompting keeps the bot on track, read the full note here: **[[ideaverse/Collection/Drafting Anapoly's first Lab Setup with ChatGPT\|First Acclimatisation Session Lab Note]]**

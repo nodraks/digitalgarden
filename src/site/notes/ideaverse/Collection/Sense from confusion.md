@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/sense-from-confusion/","dg-note-properties":{"description":"ChatGPT fails to untangle a diary dashboard, and sense-making stays human","created":"2026-08-31","posted":"2025-06-15","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/sense-from-confusion/","dg-note-properties":{"description":"ChatGPT fails to untangle a diary dashboard, and sense-making stays human","created":"2026-08-31","posted":"2025-06-15","section":"diary","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)

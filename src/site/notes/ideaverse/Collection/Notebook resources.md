@@ -16,7 +16,7 @@ views:
     name: Thought leaders
     filters:
       and:
-        - categories.contains(link("Notebook resources"))
+        - note["section"] == "resource"
         - note["resource-type"] == "Thought leader"
     order:
       - file.name
@@ -39,7 +39,7 @@ views:
     name: Standards
     filters:
       and:
-        - categories.contains(link("Notebook resources"))
+        - note["section"] == "resource"
         - note["resource-type"] == "Standard"
     order:
       - file.name
@@ -62,7 +62,7 @@ views:
     name: Frameworks
     filters:
       and:
-        - categories.contains(link("Notebook resources"))
+        - note["section"] == "resource"
         - note["resource-type"] == "Framework"
     order:
       - file.name
@@ -85,7 +85,7 @@ views:
     name: Tools
     filters:
       and:
-        - categories.contains(link("Notebook resources"))
+        - note["section"] == "resource"
         - note["resource-type"] == "Tool"
     order:
       - file.name

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/make-chat-gpt-mark-its-own-homework/","dg-note-properties":{"description":"A prompt that makes ChatGPT review and improve a draft before outputting it","created":"2026-08-31","posted":"2025-11-23","categories":["[[ideaverse/Collection/Notebook diary]]","[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/make-chat-gpt-mark-its-own-homework/","dg-note-properties":{"description":"A prompt that makes ChatGPT review and improve a draft before outputting it","created":"2026-08-31","posted":"2025-11-23","section":"diary","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)

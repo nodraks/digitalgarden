@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/precision-content-prompt-pack-tool/","dg-note-properties":{"description":"Structured prompts for converting reference material","created":"2026-09-01","resource-type":"Tool","url":"https://anapoly.co.uk/labs/precision-content-prompt-pack/","categories":["[[ideaverse/Collection/Notebook resources]]","[[ideaverse/Collection/Anapoly Notebook]]","[[ideaverse/Collection/Prompts]]"],"provenance":"collaborative"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/precision-content-prompt-pack-tool/","dg-note-properties":{"description":"Structured prompts for converting reference material","created":"2026-09-01","resource-type":"Tool","url":"https://anapoly.co.uk/labs/precision-content-prompt-pack/","section":"resource","categories":["[[ideaverse/Collection/Anapoly Notebook]]","[[ideaverse/Collection/Prompts]]"],"provenance":"collaborative"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
