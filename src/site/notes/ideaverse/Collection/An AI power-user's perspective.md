@@ -13,7 +13,7 @@
 
 ---
 
-[In his YouTube channel](https://www.youtube.com/@d-squared70), Dylan Davis shares his thoughts on how we can make good use of AI. [This infographic](/img/user/ideaverse/Attachments/Five-Habits-of-Heavy-AI-Users-scaled.jpg) (produced by NotebookLM using only [Dylan’s video](https://youtu.be/BbuCK4xrIHQ?si=mpK-omKd5LK4cp7y) as its source) shows five ways power users do so.
+[In his YouTube channel](https://www.youtube.com/@d-squared70), Dylan Davis shares his thoughts on how we can make good use of AI. [This infographic](https://www.anapoly.co.uk/files/five-habits-of-heavy-ai-users.jpg) (produced by NotebookLM using only [Dylan’s video](https://youtu.be/BbuCK4xrIHQ?si=mpK-omKd5LK4cp7y) as its source) shows five ways power users do so.
 
 Importantly, the fifth habit he highlights is not letting AI do all the thinking for us. If we delegate all our reading and summarising to AI, we risk losing the ability to focus for extended periods. We need to read a sufficient number of long-form documents *ourselves*, in order to retain that abiliy. Think of attention span as a muscle: we must exercise it by doing some hard work, or it will wither away.
 

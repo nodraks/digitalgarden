@@ -15,7 +15,7 @@
 
 Terminology was a vexed topic in our recent discussion. It dawned on me that smarter people than us must have faced this problem too, and sure enough Perplexity took me to the National Institute of Standards and Technology (NIST) in the US Department of Commerce.
 
-Their paper *[AI Use Taxonomy, a Human-Centered Approach](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.200-1.pdf)* offers a good way forward. We have adopted it and updated our [Lab Framework](/img/user/ideaverse/Attachments/Lab-Framework.pdf) accordingly.
+Their paper *[AI Use Taxonomy, a Human-Centered Approach](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.200-1.pdf)* offers a good way forward. We have adopted it and updated our [Lab Framework](https://www.anapoly.co.uk/files/lab-framework.pdf) accordingly.
 
 NIST also floated some terms that could help us think about the value of the outcomes from our work.
 

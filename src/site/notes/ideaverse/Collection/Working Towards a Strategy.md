@@ -23,4 +23,4 @@ The result is a good working draft that sets out our purpose, stance, methods, a
 
 We’ve published the draft as a PDF. It explains how Anapoly AI Labs will work: how the labs are set up, what kind of people they’re for, how we plan to run sessions, and what success would look like. We now want to shift focus from shaping the idea to working out how to make it happen.
 
-[Download the full document](/img/user/ideaverse/Attachments/A-Strategy-for-Anapoly-AI-Labs.pdf) if you’d like to see more. We’d welcome thoughts, questions, or constructive criticism – we’re still working it out.
+[Download the full document](https://www.anapoly.co.uk/files/a-strategy-for-anapoly-ai-labs.pdf) if you’d like to see more. We’d welcome thoughts, questions, or constructive criticism – we’re still working it out.

@@ -13,4 +13,4 @@
 
 ---
 
-Substantial update to the [Lab Framework](/img/user/ideaverse/Attachments/Lab-Framework.pdf), clarifying how we actually do labs!
+Substantial update to the [Lab Framework](https://www.anapoly.co.uk/files/lab-framework.pdf), clarifying how we actually do labs!

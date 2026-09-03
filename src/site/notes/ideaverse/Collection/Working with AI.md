@@ -19,7 +19,7 @@ In a recent [post on SubStack](https://emergentinsights.substack.com/p/from-prom
 
 His framework captures the moment perfectly, and it resonates with my own learning and experience. Nishigaya’s beautifully clear explanation, which identifes the five levels outlined below, is a powerful (though deceptively simple) aid to thinking about the human | AI interaction.
 
-See also [this infographic](/img/user/ideaverse/Attachments/Five-Levels-of-Working-with-AI.jpg) or [this one](/img/user/ideaverse/Attachments/AI-Maturity-Framework.jpg) or [this one](/img/user/ideaverse/Attachments/AI-Maturity-Stack.jpg), all produced by NotebookLM.
+See also [this infographic](https://www.anapoly.co.uk/files/five-levels-of-working-with-ai.jpg) or [this one](https://www.anapoly.co.uk/files/ai-maturity-framework.jpg) or [this one](https://www.anapoly.co.uk/files/ai-maturity-stack.jpg), all produced by NotebookLM.
 
 In my (small-scale) project to develop an agent for a recruitment agency, I am currently working at Levels 1 to 3. Once the harness has proved its worth, we’ll explore Level 4.
 
