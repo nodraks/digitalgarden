@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/anapoly-three-layer-instruction-set/","dg-note-properties":{"description":"The custom instructions Anapoly AI Labs gives a ChatGPT Project, in three layers, business context, behavioural governance and task prompt, with a one-turn override","created":"2026-09-03","posted":"2025-11-26","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/anapoly-three-layer-instruction-set/","dg-note-properties":{"description":"The custom instructions Anapoly AI Labs gives a ChatGPT Project, in three layers, business context, behavioural governance and task prompt, with a one-turn override","created":"2026-09-03","posted":"2025-11-26","section":"resource","resource-type":"Framework","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
