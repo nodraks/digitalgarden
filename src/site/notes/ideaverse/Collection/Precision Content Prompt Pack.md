@@ -9,7 +9,7 @@
 Version: 01, 1 August 2025
 Authors: Alec Fearon and ChatGPT-4o.
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-heavy
 
 ---
 

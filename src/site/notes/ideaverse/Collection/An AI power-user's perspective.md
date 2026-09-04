@@ -17,7 +17,7 @@
 
 Importantly, the fifth habit he highlights is not letting AI do all the thinking for us. If we delegate all our reading and summarising to AI, we risk losing the ability to focus for extended periods. We need to read a sufficient number of long-form documents *ourselves*, in order to retain that abiliy. Think of attention span as a muscle: we must exercise it by doing some hard work, or it will wither away.
 
-[In another video](https://youtu.be/3ARPOnbZw2U?si=s25ZiirWJ0baX7sQ), Dylan explains how we can create a GPT (ChatGPT) or a Gem (Gemini)to generate professional Nano Banana Pro image prompts. I used NotebookLM to write a [standard operating procedure](https://anapoly.co.uk/labs/banana-nano-pro-prompt-generator/) for this, based entirely on source material in the video. Users act as Creative Directors providing context, while the Gem serves as a Technical Prompter, transforming inputs into optimized JSON code to ensure consistent, high-quality visual outputs from Nano Banana Pro.
+[In another video](https://youtu.be/3ARPOnbZw2U?si=s25ZiirWJ0baX7sQ), Dylan explains how we can create a GPT (ChatGPT) or a Gem (Gemini)to generate professional Nano Banana Pro image prompts. I used NotebookLM to write a [[ideaverse/Collection/Banana Nano Pro prompt generator\|standard operating procedure]] for this, based entirely on source material in the video. Users act as Creative Directors providing context, while the Gem serves as a Technical Prompter, transforming inputs into optimized JSON code to ensure consistent, high-quality visual outputs from Nano Banana Pro.
 
 ---
 
