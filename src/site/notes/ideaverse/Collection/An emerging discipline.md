@@ -19,7 +19,7 @@ Our **[[ideaverse/Collection/Precision Content Prompt Pack\|precision content pr
 
 We apply the prompts in sequence, checking the AI’s output at each step in the sequence. In effect, it is a program that we run on the AI.
 
-[**Contract-first prompting**](https://anapoly.co.uk/labs/contract-first-prompting/) takes the idea further. It formalises the interaction between human and AI into a negotiated agreement about purpose, scope, constraints, and deliverables before any output is generated. This ensures that both sides – human and AI – share the same understanding of the the work to be done. The agreement also contains compliance mechanisms (eg summarisation, clarifying loops, and self-testing) for quality control.
+**[[ideaverse/Collection/Contract-First Prompting\|Contract-first prompting]]** takes the idea further. It formalises the interaction between human and AI into a negotiated agreement about purpose, scope, constraints, and deliverables before any output is generated. This ensures that both sides – human and AI – share the same understanding of the the work to be done. The agreement also contains compliance mechanisms (eg summarisation, clarifying loops, and self-testing) for quality control.
 
 These ideas reframe the interaction between human and AI: not as simply issuing prompts, but as engineering the conditions under which the AI will perform. Not just prompting, more like *contextual systems engineering*.
 
