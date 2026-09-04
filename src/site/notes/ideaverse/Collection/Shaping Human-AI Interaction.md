@@ -6,7 +6,7 @@
 
 # Shaping Human–AI Interaction
 
-*Transparency label: Human-only*
+*Transparency label: AI-assisted
 
 *An exploration of how values, ethics, and ethos can shape human-AI interaction*
 Authors: Alec Fearon in collaboration with ChatGPT, Perplexity and NotebookLM
