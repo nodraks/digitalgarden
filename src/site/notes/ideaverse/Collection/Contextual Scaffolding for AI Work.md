@@ -15,7 +15,7 @@
 
 In [[ideaverse/Collection/An emerging discipline\|an earlier post]], I introduced the idea of “contextual systems engineering”. Building on that idea, we are developing a way to manage collaborative work with AI — especially where the goal of the collaboration is a knowledge-based product: for example a report, a competitive tender, an academic paper, or a policy framework.
 
-What we have come up with is the idea of a **[Contextual Scaffolding Framework](https://anapoly.co.uk/labs/contextual-scaffolding-framework/)**. The framework combines two models:
+What we have come up with is the idea of a **[[ideaverse/Collection/Contextual Scaffolding Framework\|Contextual Scaffolding Framework]]**. The framework combines two models:
 
 - A *phase model* to provide an overall structure for the work of producing the product, from its concept through to operational use.
 - A *project model* to structure the detailed work within each phase.
@@ -24,7 +24,7 @@ The principle is simple: if we want AI to stay helpful and relevant, we need to 
 
 The information we provide is put into the AI’s “context” — and the context must evolve to keep pace with the work. Like a satnav updating in real time, the contextual scaffolding keeps the AI aware of where you are, what matters most, and how best to move forward.
 
-🧱 [Read the full framework here](https://anapoly.co.uk/labs/contextual-scaffolding-framework/)
+🧱 [[ideaverse/Collection/Contextual Scaffolding Framework\|Read the full framework here]]
 
 ---
 

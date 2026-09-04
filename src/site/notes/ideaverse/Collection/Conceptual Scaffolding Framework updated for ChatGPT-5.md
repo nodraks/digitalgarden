@@ -15,7 +15,7 @@
 
 I put our *Contextual Scaffolding Framework* and OpenAI’s *[GPT-5 Prompting Cookbook](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)* into NotebookLM and asked it “What aspects of the gpt-5 prompting cookbook are most important to know in order to apply the contextual scaffolding framework most effectively?”
 
-It gave me a sensible set of prompting strategies, so I told it to integrate them into an updated *[Contextual Scaffolding Framework for ChatGPT-5](https://anapoly.co.uk/labs/contextual-scaffolding-framework-for-chatgpt-5/)*.
+It gave me a sensible set of prompting strategies, so I told it to integrate them into an updated *[[ideaverse/Collection/Contextual Scaffolding Framework for ChatGPT-5\|Contextual Scaffolding Framework for ChatGPT-5]]*.
 
 I’ve given the updates a cursory review; they look good apart from a reference to use of an API (Application Programming Interface) which is probably outside our scope. But it’s late; a proper review will have to wait for another day. Perhaps a job to do in collaboration with ChatGPT-5.
 
