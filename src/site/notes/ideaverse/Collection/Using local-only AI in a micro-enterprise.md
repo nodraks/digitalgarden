@@ -19,4 +19,4 @@ The note explains how a three-layer model for controlling the behaviour of an AI
 
 If you’re curious about “local-only AI” for a micro-enterprise, or wondering what it might look like in practice, you should find this a useful starting point.
 
-**Read the note:** [Using Local-Only AI in a Micro-Enterprise](https://anapoly.co.uk/labs/briefing-notes/#using-local-only-ai)
+**Read the note:** [[ideaverse/Collection/Briefing Note - Using Local-Only AI in a Micro-Enterprise\|Using Local-Only AI in a Micro-Enterprise]]
