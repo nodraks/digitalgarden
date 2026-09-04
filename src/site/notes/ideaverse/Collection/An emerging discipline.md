@@ -15,7 +15,7 @@
 
 In [[ideaverse/Collection/An LLM is like an operating system\|a recent post]], I observed that LLMs are coming to be seen as like computer operating systems, with prompts being the new application programs and context the new user interface.
 
-Our [**precision content prompt pack**](https://anapoly.co.uk/labs/precision-content-prompt-pack/) is a good example of that thinking. The pack contains a set of prompts designed to take an unstructured document (notes of a meeting, perhaps) and apply structure (precision content) to the information it contains. We do this because AIs perform better if we give them structured information.
+Our **[[ideaverse/Collection/Precision Content Prompt Pack\|precision content prompt pack]]** is a good example of that thinking. The pack contains a set of prompts designed to take an unstructured document (notes of a meeting, perhaps) and apply structure (precision content) to the information it contains. We do this because AIs perform better if we give them structured information.
 
 We apply the prompts in sequence, checking the AI’s output at each step in the sequence. In effect, it is a program that we run on the AI.
 
