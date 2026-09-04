@@ -16,5 +16,3 @@
 OpenAI’s latest release, GPT-5, isn’t just about new features or smarter answers, it’s a strategic move to turn ChatGPT’s 700 million free users into a sustainable business. The real engine behind this shift is the new “router” system, which decides in real time which AI model to use for each request.
 
 SemiAnalysis has [an insightful breakdown](https://semianalysis.com/2025/08/13/gpt-5-ad-monetization-and-the-superapp/) of how this technology could underpin a new monetisation model: ChatGPT as a “SuperApp” that can act as your purchasing agent, make bookings, and complete transactions—all without sending you to a search engine.
-
-Read a [summary of the key points here](https://anapoly.co.uk/labs/monetising-chatgpt-5/).

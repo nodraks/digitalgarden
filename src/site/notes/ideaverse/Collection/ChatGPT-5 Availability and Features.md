@@ -13,4 +13,4 @@
 
 ---
 
-Ray passed on [this useful summary](https://anapoly.co.uk/labs/chatgpt-5-availability-and-features/) of the new features in ChatGPT-5 and their availability to the various tiers of user.
+Ray passed on a useful summary of the new features in ChatGPT-5 and their availability to the various tiers of user.
