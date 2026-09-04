@@ -28,7 +28,7 @@ It also distinguishes between **domains** (like consultancy or authorship) and *
 
 The framework defines a simple set of **participant roles** – observer, explorer, and facilitator – and outlines the kinds of **outcomes** we’re hoping for: confidence, insight, and learning.
 
-The full conceptual framework is [here](https://anapoly.co.uk/labs/conceptual-framework/), and we’ll continue to refine it as our practice develops.
+The full conceptual framework is [[ideaverse/Collection/Conceptual Framework for Anapoly AI Labs\|here]], and we’ll continue to refine it as our practice develops.
 
 This diary post is part of our public notebook. It helps document not just what we’ve tried, but how we’re thinking and rethinking as we go.
 
