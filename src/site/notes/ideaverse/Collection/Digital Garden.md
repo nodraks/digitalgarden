@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/digital-garden/","tags":["gardenEntry"],"dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]","[[Live]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/digital-garden/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]","[[Live]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)

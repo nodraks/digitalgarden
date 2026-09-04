@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/anapoly-three-layer-instruction-set-framework/","dg-note-properties":{"description":"The custom instructions Anapoly gives a ChatGPT Project, in three layers with a one-turn override","created":"2026-09-03","resource-type":"Framework","url":"https://anapoly.netlify.app/ideaverse/collection/anapoly-three-layer-instruction-set/","section":"resource","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"collaborative"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/anapoly-three-layer-instruction-set-framework/","dg-note-properties":{"description":"The custom instructions Anapoly gives a ChatGPT Project, in three layers with a one-turn override","created":"2026-09-03","resource-type":"Framework","url":"https://notebook.anapoly.co.uk/ideaverse/collection/anapoly-three-layer-instruction-set/","section":"resource","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"collaborative"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
