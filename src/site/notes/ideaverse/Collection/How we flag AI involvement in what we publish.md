@@ -15,7 +15,7 @@
 
 Most of what we publish here is written with the help of AI. That’s part of the point. Anapoly AI Labs is about trying these tools out on real work and seeing what they’re good for.
 
-To keep things transparent, we label every post to show how much AI was involved. The label links to our [transparency framework](https://anapoly.co.uk/labs/transparency-framework/). This doesn’t try to assign percentages. Instead, we use a straightforward five-level scale:
+To keep things transparent, we label every post to show how much AI was involved. The label links to our [[ideaverse/Collection/Transparency Framework\|transparency framework]]. This doesn’t try to assign percentages. Instead, we use a straightforward five-level scale:
 
 - **Human-only**: Entirely human-authored. No AI involvement at any stage of development.
 - **Human-led**: Human-authored, with AI input limited to suggestions, edits, or fact-checking.

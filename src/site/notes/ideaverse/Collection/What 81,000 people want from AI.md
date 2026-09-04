@@ -8,13 +8,13 @@
 
 ---
 
-> **Transparency Label: Human-only** ([framework](https://anapoly.co.uk/labs/transparency-framework/))
+> **Transparency Label: Human-only** ([[ideaverse/Collection/Transparency Framework\|framework]])
 
 I asked Peka to read my [[ideaverse/Collection/Purpose\|Reflecting on Purpose]] note and draw connections with Carlo Iacono's article [What do you want from AI?](https://hybridhorizons.substack.com/p/what-do-you-want-from-ai), published the same day on his Hybrid Horizons Substack. Peka's response was as follows.
 
 ---
 
-> **Transparency Label: AI-only** ([framework](https://anapoly.co.uk/labs/transparency-framework/))
+> **Transparency Label: AI-only** ([[ideaverse/Collection/Transparency Framework\|framework]])
 
 Iacono's article draws on Anthropic's study of 80,508 interviews across 159 countries. Researchers expected to learn about use cases. Instead, they found accounts of human exhaustion and systemic overload. People were not asking for smarter software. They wanted their lives back: time, attention, mental space, relief from institutional demands that had accumulated long before AI arrived.
 
