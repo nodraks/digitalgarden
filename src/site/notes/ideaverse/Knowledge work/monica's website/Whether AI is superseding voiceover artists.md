@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ideaverse/knowledge-work/monica-s-website/whether-ai-is-superseding-voiceover-artists/","dg-note-properties":{"description":"research into how far AI voices have displaced voiceover artists, by segment, with what it means for someone launching in 2026","created":"2026-08-29","categories":["[[ideaverse/Collection/Monica's website]]"],"provenance":"peka"}}
 ---
 
-Testing. [[ideaverse/Knowledge work/monica's website/2026-08-29-1515 Monica's first thoughts on website requirements\|First thoughts]] · [[ideaverse/Knowledge work/monica's website/Monica's website requirements\|Requirements]] · **AI and the profession**
+[[ideaverse/Knowledge work/monica's website/2026-08-29-1515 Monica's first thoughts on website requirements\|First thoughts]] · [[ideaverse/Knowledge work/monica's website/Monica's website requirements\|Requirements]] · **AI and the profession**
 
 # Whether AI is superseding voiceover artists
 
