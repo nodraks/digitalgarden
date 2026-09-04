@@ -17,4 +17,4 @@ On 7 August 2025, Anapoly ran a trial [[ideaverse/Collection/First acclimatisati
 
 After exploring some of the options for this, the conversation became a bit philosophical. It touched on the ethics of AI, the risk that students might outsource their thinking, the need to imbue students with values of benefit to society, and the need for them to have an ethos of caring about how the human-AI relationship evolves.
 
-This prompted me to begin thinking about the possibility of exploring these aspects of the Human-AI interaction in more detail. I setup [this digital garden](https://anapoly.netlify.app/) for that purpose.
+This prompted me to begin thinking about the possibility of exploring these aspects of the Human-AI interaction in more detail. I setup [[ideaverse/Collection/Digital Garden\|this digital garden]] for that purpose.

@@ -15,7 +15,7 @@
 
 … to successful use of AI. This is a distinction that matters now because many teams only notice the problem once their AI systems start giving confident but contradictory answers.
 
-With acknowledgment to [Scott Abel](https://anapoly.co.uk/labs/thought-leaders/#scott-abel) and [Michael Iantosca](https://anapoly.co.uk/labs/thought-leaders/#michael-iantosca), whose writing provided the source material for this post.
+With acknowledgment to [[ideaverse/Collection/Scott Abel - thought leader\|Scott Abel]] and [[ideaverse/Collection/Michael Iantosca - thought leader\|Michael Iantosca]], whose writing provided the source material for this post.
 
 ---
 

@@ -14,4 +14,4 @@
 
 I have a digital workspace for my research, thinking and writing, which goes by the name of [[ideaverse/Collection/An intro to ThinkSpace\|ThinkSpace]]. Since adding an AI assistant to it, it has become an essential part of the way I do things.
 
-A recent piece of work made me reflect on what that means, and the result is a short case study: [Liaison, Leverage and Learning](https://anapoly.netlify.app/ideaverse/collection/liaison-leverage-and-learning/).
+A recent piece of work made me reflect on what that means, and the result is a short case study: [[ideaverse/Collection/Liaison, Leverage and Learning\|Liaison, Leverage and Learning]].

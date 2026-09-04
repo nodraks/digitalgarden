@@ -13,7 +13,7 @@
 
 ## Origin and tools
 
-One of the originators of the term was Mike Caulfield, who is one of my [thought leaders](https://anapoly.co.uk/labs/thought-leaders/). He delivered a keynote address [The Garden and the Stream: a Technopastoral](https://www.youtube.com/watch?v=ckv_CjyKyZY&feature=emb_logo) at the 2015 Digital Learning Research Network. It later became [an essay](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) that lays the foundations for our current understanding of digital gardening.
+One of the originators of the term was Mike Caulfield, who is one of my [[ideaverse/Collection/Notebook resources\|thought leaders]]. He delivered a keynote address [The Garden and the Stream: a Technopastoral](https://www.youtube.com/watch?v=ckv_CjyKyZY&feature=emb_logo) at the 2015 Digital Learning Research Network. It later became [an essay](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) that lays the foundations for our current understanding of digital gardening.
 
 Maggie Appleton's own essay [Digital Gardening for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening) explains how to build a digital garden without touching code. One of the gardening tools she highlights is [Obsidian](https://obsidian.md/), a private knowledge base that allows you to publish a selection of notes as a public website. As I am already using [Obsidian](https://obsidian.md/) for my *ideaverse*, that is how this garden is being produced.
 
