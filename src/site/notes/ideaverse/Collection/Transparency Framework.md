@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/transparency-framework/","dg-note-properties":{"description":"How Anapoly AI Labs discloses the level of AI involvement in everything it publishes, with five labels from Human-only to AI-only","created":"2026-09-04","posted":"2025-06-22","section":"resource","resource-type":"Framework","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/transparency-framework/","dg-note-properties":{"description":"How Anapoly AI Labs discloses the level of AI involvement in everything it publishes, with five labels from Human-only to AI-only","created":"2026-09-04","posted":"2025-06-22","section":"resource","resource-type":"framework","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)

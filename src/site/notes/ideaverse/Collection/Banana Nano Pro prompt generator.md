@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/banana-nano-pro-prompt-generator/","dg-note-properties":{"description":"A Gem that writes Nano Banana Pro image prompts","created":"2026-09-01","resource-type":"Tool","url":"https://anapoly.co.uk/labs/banana-nano-pro-prompt-generator/","section":"resource","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"collaborative"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/banana-nano-pro-prompt-generator/","dg-note-properties":{"description":"A Gem that writes Nano Banana Pro image prompts","created":"2026-09-01","resource-type":"tool","url":"https://anapoly.co.uk/labs/banana-nano-pro-prompt-generator/","section":"resource","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"collaborative"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)

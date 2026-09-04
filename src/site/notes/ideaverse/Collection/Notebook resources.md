@@ -17,7 +17,7 @@ views:
     filters:
       and:
         - note["section"] == "resource"
-        - note["resource-type"] == "Thought leader"
+        - note["resource-type"] == "thought-leader"
     order:
       - file.name
       - description
@@ -40,7 +40,7 @@ views:
     filters:
       and:
         - note["section"] == "resource"
-        - note["resource-type"] == "Standard"
+        - note["resource-type"] == "standard"
     order:
       - file.name
       - description
@@ -63,7 +63,7 @@ views:
     filters:
       and:
         - note["section"] == "resource"
-        - note["resource-type"] == "Framework"
+        - note["resource-type"] == "framework"
     order:
       - file.name
       - description
@@ -86,7 +86,7 @@ views:
     filters:
       and:
         - note["section"] == "resource"
-        - note["resource-type"] == "Tool"
+        - note["resource-type"] == "tool"
     order:
       - file.name
       - description

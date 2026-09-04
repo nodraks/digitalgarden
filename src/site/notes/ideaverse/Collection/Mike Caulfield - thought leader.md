@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/mike-caulfield-thought-leader/","dg-note-properties":{"description":"Creator of the SIFT method; fact-checking and co-reasoning with AI","created":"2026-09-01","resource-type":"Thought leader","url":"https://hapgood.us","section":"resource","categories":["[[ideaverse/Collection/Anapoly Notebook]]","[[ideaverse/Collection/Mike Caulfield]]"],"provenance":"collaborative"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/mike-caulfield-thought-leader/","dg-note-properties":{"description":"Creator of the SIFT method; fact-checking and co-reasoning with AI","created":"2026-09-01","resource-type":"thought-leader","url":"https://hapgood.us","section":"resource","categories":["[[ideaverse/Collection/Anapoly Notebook]]","[[ideaverse/Collection/Mike Caulfield]]"],"provenance":"collaborative"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/deep-background-tool/","dg-note-properties":{"description":"Mike Caulfield's fact-checking research prompt","created":"2026-09-01","resource-type":"Tool","url":"https://checkplease.neocities.org","section":"resource","categories":["[[ideaverse/Collection/Anapoly Notebook]]","[[ideaverse/Collection/Mike Caulfield]]"],"provenance":"collaborative"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/deep-background-tool/","dg-note-properties":{"description":"Mike Caulfield's fact-checking research prompt","created":"2026-09-01","resource-type":"tool","url":"https://checkplease.neocities.org","section":"resource","categories":["[[ideaverse/Collection/Anapoly Notebook]]","[[ideaverse/Collection/Mike Caulfield]]"],"provenance":"collaborative"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)

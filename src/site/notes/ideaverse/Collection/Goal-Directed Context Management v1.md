@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/goal-directed-context-management-v1/","dg-note-properties":{"description":"Keeping AI contributions grounded through contextual scaffolding","section":"resource","resource-type":"Framework","categories":["[[ideaverse/Collection/Garden]]"],"aliases":["Goal-Directed Context Management","context management","context management"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/goal-directed-context-management-v1/","dg-note-properties":{"description":"Keeping AI contributions grounded through contextual scaffolding","section":"resource","resource-type":"framework","categories":["[[ideaverse/Collection/Garden]]"],"aliases":["Goal-Directed Context Management","context management","context management"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
