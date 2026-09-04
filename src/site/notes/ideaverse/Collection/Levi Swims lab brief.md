@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/levi-swims-lab-brief/","dg-note-properties":{"description":"The brief for the Levi Swims lab, a SEND swimming micro-enterprise, mapping where AI can help across booking, parent communication, third-party coordination, lesson delivery and safety information","created":"2026-09-04","posted":"2025-11-25","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/levi-swims-lab-brief/","dg-note-properties":{"description":"The brief for the Levi Swims lab, a SEND swimming micro-enterprise, mapping where AI can help across booking, parent communication, third-party coordination, lesson delivery and safety information","created":"2026-09-04","posted":"2025-11-25","categories":["[[ideaverse/Collection/Anapoly Notebook]]","[[ideaverse/Collection/Levi Swims]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
