@@ -6,6 +6,8 @@
 
 # Shaping Human–AI Interaction
 
+*Transparency label: Human-only*
+
 *An exploration of how values, ethics, and ethos can shape human-AI interaction*
 Authors: Alec Fearon in collaboration with ChatGPT, Perplexity and NotebookLM
 It is being written in the form of an evolving, long-form essay, the first item in what might become Anapoly’s “digital garden” (see [Maggie Appleton’s excellent explanation](https://maggieappleton.com/garden-history/) of this concept).
