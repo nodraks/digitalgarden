@@ -9,7 +9,7 @@
 *Written by Alec Fearon on 29 August 2025 in Anapoly Diary*
 *Transparency label: Human-only*
 *<--- [[ideaverse/Collection/Mind Maps, Podcasts, and a Pocket Brain\|Mind Maps, Podcasts, and a Pocket Brain]]*
-*---> [[ideaverse/Collection/A more personalised way to learn with NotebookLM\|A more personalised way to learn with NotebookLM]]*
+*---> [[ideaverse/Collection/The Master Prompt in a changing scenario\|The Master Prompt in a changing scenario]]*
 
 ---
 

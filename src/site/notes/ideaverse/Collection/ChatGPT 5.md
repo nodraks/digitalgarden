@@ -9,7 +9,7 @@
 *Written by Alec Fearon on 8 August 2025 in Anapoly Diary*
 *Transparency label: Human-only*
 *<--- [[ideaverse/Collection/First acclimatisation lab\|First acclimatisation lab]]*
-*---> [[ideaverse/Collection/An ethos of caring\|An ethos of caring]]*
+*---> [[ideaverse/Collection/Shaping Human-AI Interaction\|Shaping Human-AI Interaction]]*
 
 ---
 

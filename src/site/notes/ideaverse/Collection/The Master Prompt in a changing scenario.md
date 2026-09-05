@@ -1,14 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/the-master-prompt-in-a-changing-scenario/","dg-note-properties":{"description":"A discussion with NotebookLM on 21 September 2025 of the Master Prompt method of Tiago Forte and Hayden Miyamoto, its relation to Goal-Directed Context Management, and their combination for an early-stage startup","created":"2026-09-04","posted":"2025-09-21","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/the-master-prompt-in-a-changing-scenario/","dg-note-properties":{"description":"A discussion with NotebookLM on 21 September 2025 of the Master Prompt method of Tiago Forte and Hayden Miyamoto, its relation to Goal-Directed Context Management, and their combination for an early-stage startup","created":"2026-09-04","posted":"2025-09-21","section":"diary","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
 
 # The Master Prompt in a changing scenario
 
+*Written by Alec Fearon on 21 September 2025 in Anapoly Diary*
+*Transparency label: AI-heavy*
+*<--- [[ideaverse/Collection/Testing a local AI\|Testing a local AI]]*
+*---> [[ideaverse/Collection/A more personalised way to learn with NotebookLM\|A more personalised way to learn with NotebookLM]]*
 
-A discussion with NotebookLM  
-21 September 2025
+A discussion with NotebookLM
 
 ---
 

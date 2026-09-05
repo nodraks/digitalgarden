@@ -8,7 +8,7 @@
 
 *Written by Alec Fearon on 26 November 2025 in Anapoly Diary*
 *Transparency label: Human-only*
-*<--- [[ideaverse/Collection/Using local-only AI in a micro-enterprise\|Using local-only AI in a micro-enterprise]]*
+*<--- [[ideaverse/Collection/Levi Swims lab\|Levi Swims lab]]*
 *---> [[ideaverse/Collection/Do AI models have a prompt appetite\|Do AI models have a prompt appetite]]*
 
 ---

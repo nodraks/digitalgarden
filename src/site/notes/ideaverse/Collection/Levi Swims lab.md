@@ -1,10 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/levi-swims-lab/","dg-note-properties":{"description":"The Anapoly lab with the Levi Swims swim school, its brief, the three-layer model applied, the Booking Admin Copilot's components and the first tests","created":"2026-09-04","posted":"2025-11-25","categories":["[[ideaverse/Collection/Anapoly Notebook]]","[[ideaverse/Collection/Levi Swims]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/levi-swims-lab/","dg-note-properties":{"description":"The Anapoly lab with the Levi Swims swim school, its brief, the three-layer model applied, the Booking Admin Copilot's components and the first tests","created":"2026-09-04","posted":"2025-11-25","section":"diary","categories":["[[ideaverse/Collection/Anapoly Notebook]]","[[ideaverse/Collection/Levi Swims]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
 
 # Levi Swims
+
+*Written by Alec Fearon on 25 November 2025 in Anapoly Diary*
+*Transparency label: Human-only*
+*<--- [[ideaverse/Collection/Using local-only AI in a micro-enterprise\|Using local-only AI in a micro-enterprise]]*
+*---> [[ideaverse/Collection/A three-layer instruction set for use in ChatGPT Projects\|A three-layer instruction set for use in ChatGPT Projects]]*
 
 ---
 

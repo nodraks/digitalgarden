@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/shaping-human-ai-interaction/","dg-note-properties":{"description":"An exploration of how values, ethics, and ethos can shape human-AI interaction, begun on 9 August 2025 as the first item in what became the digital garden","created":"2026-09-04","posted":"2025-08-09","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/shaping-human-ai-interaction/","dg-note-properties":{"description":"An exploration of how values, ethics, and ethos can shape human-AI interaction, begun on 9 August 2025 as the first item in what became the digital garden","created":"2026-09-04","posted":"2025-08-09","section":"diary","categories":["[[ideaverse/Collection/Anapoly Notebook]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
 
 # Shaping Human–AI Interaction
 
-*Transparency label: AI-assisted
+*Written by Alec Fearon on 9 August 2025 in Anapoly Diary*
+*Transparency label: AI-assisted*
+*<--- [[ideaverse/Collection/ChatGPT 5\|ChatGPT 5]]*
+*---> [[ideaverse/Collection/An ethos of caring\|An ethos of caring]]*
 
 *An exploration of how values, ethics, and ethos can shape human-AI interaction*
 Authors: Alec Fearon in collaboration with ChatGPT, Perplexity and NotebookLM

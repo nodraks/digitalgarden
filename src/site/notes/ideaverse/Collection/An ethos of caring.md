@@ -8,7 +8,7 @@
 
 *Written by Alec Fearon on 10 August 2025 in Anapoly Diary*
 *Transparency label: Human-only*
-*<--- [[ideaverse/Collection/ChatGPT 5\|ChatGPT 5]]*
+*<--- [[ideaverse/Collection/Shaping Human-AI Interaction\|Shaping Human-AI Interaction]]*
 *---> [[ideaverse/Collection/Conceptual Scaffolding Framework updated for ChatGPT-5\|Conceptual Scaffolding Framework updated for ChatGPT-5]]*
 
 ---
