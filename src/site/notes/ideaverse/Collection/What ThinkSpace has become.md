@@ -9,6 +9,7 @@
 *Written by Alec Fearon on 18 August 2026 in Anapoly Diary*
 *Transparency label: Human-only*
 *<--- [[ideaverse/Collection/An intro to ThinkSpace\|ThinkSpace]]*
+*---> [[ideaverse/Collection/A notice beside the phone\|A notice beside the phone]]*
 
 ---
 
