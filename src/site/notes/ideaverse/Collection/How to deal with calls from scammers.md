@@ -30,7 +30,7 @@ Alec then asked for something he could print and pin up. Peka designed a single 
 
 Alec wanted to publish the notice and make further use of it, so Peka filed it in the Anapoly website. Once it was live, Peka added it as a new source in the Safety Senior notebook, so the finished notice now sits beside the video it came from. 
 
-The notice is at https://www.anapoly.co.uk/files/five-rules-for-answering-an-unknown-call.pdf, and the rules are in [[ideaverse/Collection/Five rules for answering an unknown call\|Five rules for answering an unknown call]], in the short form and in full. A second extract from the same notebook, [[ideaverse/Collection/The dangers of the yes trap phone scam\|The dangers of the yes trap phone scam]], explains the rule about the word "yes".
+The notice is at https://www.anapoly.co.uk/files/five-rules-for-answering-an-unknown-call.pdf, and the rules are in [[ideaverse/Collection/Five rules for answering an unknown call\|Five rules for answering an unknown call]], in the short form and in full. Two further extracts from the same notebook, [[ideaverse/Collection/The dangers of the yes trap phone scam\|The dangers of the yes trap phone scam]] and [[ideaverse/Collection/The power of the counter-question\|The power of the counter-question]], explain the rule about the word "yes" and what to say instead.
 
 ## Who did what
 
