@@ -6,7 +6,29 @@
 
 # Resources
 
-A curated set of resources from our work with AI: the people we read, the standards, frameworks and tools we use, and case studies of the work itself. Each entry links to a short note saying what the resource is and where to find it.
+A curated set of resources from our work with AI: case studies of the work itself, the people we read, and the standards, frameworks and tools we use. Each entry links to a short note saying what the resource is and where to find it.
+
+> [!note]- Case studies: worked examples of a person and an AI assistant producing something useful together
+> 
+```base
+views:
+  - type: table
+    name: Case studies
+    filters:
+      and:
+        - note["section"] == "resource"
+        - note["resource-type"] == "case-study"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 250
+
+```
+
 
 > [!note]- Thought leaders: people whose writing and work shape how we think about AI
 > 
@@ -91,28 +113,6 @@ views:
       - file.name
       - description
       - url
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      file.name: 250
-
-```
-
-
-> [!note]- Case studies: worked examples of a person and an AI assistant producing something useful together
-> 
-```base
-views:
-  - type: table
-    name: Case studies
-    filters:
-      and:
-        - note["section"] == "resource"
-        - note["resource-type"] == "case-study"
-    order:
-      - file.name
-      - description
     sort:
       - property: file.name
         direction: ASC
