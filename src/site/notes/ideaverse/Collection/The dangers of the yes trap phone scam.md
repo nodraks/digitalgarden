@@ -37,7 +37,7 @@ If you do answer a call from an unknown number, Frank Delaney recommends using *
 
 If someone asks you, *"Can you hear me?"*, use these safe replacements instead of "yes":
 
-* **"Who is calling, please?"**
+* **"Who is calling, please?"** (why this one works best is in [[ideaverse/Collection/The power of the counter-question\|The power of the counter-question]])
 * **"I can hear you."**
 * **"I am listening."** / **"Go ahead."**
 * **Simply hang up.** The safest response of all to any suspicious question is the sound of a dead line. Real callers will leave a voicemail; scammers won't.
