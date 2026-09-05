@@ -35,7 +35,7 @@ A scammer, however, is often auto-dialing thousands of numbers at once and usual
 
 ### 4. It Denies Them Vocal Weapons
 
-Saying "yes" is a massive liability. It gives scammers recorded verbal consent that can be spliced into automated systems to authorize fraudulent charges, or clean audio material to feed into AI voice-cloning software.
+Saying "yes" is a massive liability. It gives scammers clean audio material to feed into AI voice-cloning software.
 
 Answering **"Who is calling, please?"** gives them **zero confirmation**. It provides no affirmative "yes" recording, confirms nothing about your identity, and denies them the high-quality, predictable audio clips they need to target you or your family.
 
