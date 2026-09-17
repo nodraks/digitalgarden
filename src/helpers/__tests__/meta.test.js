@@ -10,7 +10,7 @@ import { createRequire } from "module";
 
 const require = createRequire(import.meta.url);
 const globId = require.resolve("glob");
-const metaId = require.resolve("../meta.js");
+const metaId = require.resolve("../../site/_data/meta.js");
 
 const windowsify = (p) => p.split("/").join("\\");
 
