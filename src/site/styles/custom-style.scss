@@ -51,3 +51,13 @@ body {
   overflow: hidden;
 }
 .card .internal-link:focus { outline: 2px solid; } /* keyboard visible focus */
+
+/* The Search button's bar has margin-bottom: -60px, so the page content slides
+   up beneath it, and .content is position: relative with empty top padding,
+   which paints over the unpositioned bar. Wherever the two overlap, in a narrow
+   window and on every phone, the click landed on that padding and never reached
+   the button, while ctrl+K still worked. Lifting the bar fixes it. 18 Sep 2026. */
+.empty-navbar {
+  position: relative;
+  z-index: 2;
+}
