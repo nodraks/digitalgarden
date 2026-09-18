@@ -6,7 +6,7 @@
 
 # Simon Willison
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Simon Willison is a British programmer and co-creator of the Django web framework. He builds Datasette, a tool for publishing data, has blogged on technology since 2002, and is a long-standing contributor to open source and the Python community.
 

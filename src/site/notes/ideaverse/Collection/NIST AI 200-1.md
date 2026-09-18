@@ -6,7 +6,7 @@
 
 # NIST AI 200-1
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 NIST AI 200-1, AI Use Taxonomy: A Human-Centered Approach, is published by the National Institute of Standards and Technology, part of the US Department of Commerce. It describes how humans interact with AI through a taxonomy of sixteen AI use activities, and defines a task as a combination of one or more of them.
 

@@ -6,7 +6,7 @@
 
 # Steve Newman
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Steve Newman is chairman and president of the Golden Gate Institute for AI, a nonprofit think tank addressing the challenges posed by rapid advances in artificial intelligence. He co-founded Writely, the startup that became Google Docs, and Scalyr, acquired by SentinelOne in 2021.
 

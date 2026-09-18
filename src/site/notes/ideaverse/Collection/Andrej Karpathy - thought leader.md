@@ -6,7 +6,7 @@
 
 # Andrej Karpathy
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Andrej Karpathy was a founding member of OpenAI and led the computer vision team for Tesla Autopilot. He now runs Eureka Labs, an AI and education company, and publishes educational videos on AI through his YouTube channel.
 

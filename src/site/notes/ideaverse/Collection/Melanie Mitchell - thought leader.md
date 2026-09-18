@@ -6,7 +6,7 @@
 
 # Melanie Mitchell
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Melanie Mitchell is a professor at the Santa Fe Institute, working in AI, cognitive science and complex systems. She wrote Artificial Intelligence: A Guide for Thinking Humans.
 

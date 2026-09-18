@@ -6,7 +6,7 @@
 
 # Scott Abel
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Scott Abel is Content Strategy Evangelist at Heretto and founder of The Content Wrangler. He writes, speaks and runs conferences on content strategy for technical documentation and information development.
 

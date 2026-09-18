@@ -6,7 +6,7 @@
 
 # Mike Caulfield
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Mike Caulfield created the SIFT method, which has taught thousands of teachers and students to verify claims and sources. His current work examines how students and citizens can use AI for co-reasoning: drawing on large language models to both model and critique arguments.
 

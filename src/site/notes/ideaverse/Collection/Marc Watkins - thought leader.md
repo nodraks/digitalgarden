@@ -6,7 +6,7 @@
 
 # Marc Watkins
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Marc Watkins is Assistant Director of Academic Innovation and Director of the Mississippi AI Institute, and lectures in Writing and Rhetoric at the University of Mississippi. He trains faculty in AI literacy.
 

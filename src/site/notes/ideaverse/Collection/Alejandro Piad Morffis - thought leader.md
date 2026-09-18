@@ -6,7 +6,7 @@
 
 # Alejandro Piad Morffis
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Alejandro Piad Morffis is a college professor and researcher working at the intersection of artificial intelligence and formal systems. He writes on algorithms, computer science theory and AI, with essays and occasional rants on science and education.
 

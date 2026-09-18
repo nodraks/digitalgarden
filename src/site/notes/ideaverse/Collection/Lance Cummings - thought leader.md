@@ -6,7 +6,7 @@
 
 # Lance Cummings
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Lance Cummings is a professor and AI content specialist. He explores how structured content and rhetorical strategies improve the performance of generative AI, in the workplace and in the classroom.
 

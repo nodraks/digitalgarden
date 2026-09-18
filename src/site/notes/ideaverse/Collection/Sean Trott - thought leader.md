@@ -6,7 +6,7 @@
 
 # Sean Trott
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Sean Trott is an assistant professor at the University of California, San Diego. His newsletter covers research on language models and cognition.
 

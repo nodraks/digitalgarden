@@ -6,7 +6,7 @@
 
 # Steven Johnson
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Steven Johnson is an American author and media theorist whose books, The Ghost Map among them, explore science, history and innovation. He is a co-creator of NotebookLM, Google's AI research tool.
 

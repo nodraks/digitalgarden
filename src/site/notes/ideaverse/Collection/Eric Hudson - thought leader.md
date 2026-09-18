@@ -6,7 +6,7 @@
 
 # Eric Hudson
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Eric Hudson is a consultant who partners with schools and learning organisations to help them make sense of what is changing in education. He spent a decade at Global Online Academy, first as an instructional coach and finally as Chief Program Officer, working with schools around the world.
 

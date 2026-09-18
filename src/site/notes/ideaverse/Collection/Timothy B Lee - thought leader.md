@@ -6,7 +6,7 @@
 
 # Timothy B Lee
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Timothy B. Lee is a reporter who has covered technology, economics and public policy for more than a decade, writing for the Washington Post, Vox and Ars Technica before launching the Understanding AI newsletter. He holds a master's degree in computer science from Princeton.
 

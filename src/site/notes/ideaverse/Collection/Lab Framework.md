@@ -6,7 +6,7 @@
 
 # Lab Framework
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 The Lab Framework is a facilitator-facing guide to how Anapoly AI Labs are planned, run and closed down. It defines the types of lab, the roles involved and the lifecycle from planning through launch, operation, review and wrap-up, with the tools, assets, templates and naming conventions each phase uses.
 

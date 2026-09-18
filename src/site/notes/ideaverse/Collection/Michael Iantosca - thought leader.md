@@ -6,7 +6,7 @@
 
 # Michael Iantosca
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Michael Iantosca is a content-engineering specialist who spent decades at IBM, leading teams that built structured authoring systems, enterprise taxonomy models and large-scale documentation operations. His recent work examines how poor content operations create systemic risks for organisations adopting AI.
 

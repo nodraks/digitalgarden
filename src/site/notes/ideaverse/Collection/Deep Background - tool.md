@@ -6,7 +6,7 @@
 
 # Deep Background
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Deep Background is a research project by Mike Caulfield for fact-checking claims. It is a long instruction prompt, pasted at the start of a chat session or added to project instructions, that contextualises textual claims, reduces hallucination and sources conflicting perspectives systematically. In Caulfield's words, it makes an LLM "less chatbot, and more research assistant".
 

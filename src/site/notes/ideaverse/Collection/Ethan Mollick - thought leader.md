@@ -6,7 +6,7 @@
 
 # Ethan Mollick
 
-*Transparency label: AI-assisted*
+*Transparency label: AI-only*
 
 Ethan Mollick is a professor at the Wharton School of the University of Pennsylvania. He studies entrepreneurship, innovation and AI, and what our new AI era means for work and education.
 
