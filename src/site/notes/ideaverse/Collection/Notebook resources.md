@@ -16,7 +16,6 @@ views:
     name: Case studies
     filters:
       and:
-        - note["section"] == "resource"
         - note["resource-type"] == "case-study"
     order:
       - file.name

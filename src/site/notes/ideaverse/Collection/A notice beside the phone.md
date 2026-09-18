@@ -9,7 +9,7 @@
 *Written by Alec Fearon on 5 September 2026 in Anapoly Diary*
 *Transparency label: Human-only*
 *<--- [[ideaverse/Collection/What ThinkSpace has become\|What ThinkSpace has become]]*
-*---> next entry*
+*---> [[ideaverse/Collection/Search now works on a phone\|Search now works on a phone]]*
 
 ---
 
