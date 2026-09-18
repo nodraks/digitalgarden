@@ -76,17 +76,5 @@ document.addEventListener("DOMContentLoaded", function() {
       el.textContent = y + "-" + m + "-" + d + " " + h + ":" + min;
     }
   });
-
-  // Fill .human-date spans: the bases engine emits them empty with the
-  // value in data-date, and no upstream script formats them client-side
-  document.querySelectorAll(".human-date").forEach(function(el) {
-    if (el.textContent.trim() !== "") return;
-    var raw = el.getAttribute("data-date");
-    if (!raw) return;
-    var d = new Date(raw);
-    el.textContent = isNaN(d.getTime())
-      ? raw
-      : d.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
-  });
 });
 </script>
