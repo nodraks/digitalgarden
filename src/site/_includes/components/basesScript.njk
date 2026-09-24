@@ -76,5 +76,22 @@ document.addEventListener("DOMContentLoaded", function() {
       el.textContent = y + "-" + m + "-" + d + " " + h + ":" + min;
     }
   });
+
+  // Fill .human-date spans in Bases views. The bases engine emits them empty,
+  // with the value in data-date; the only formatter for them is the
+  // dg-timestamps plugin's, which loads only when showCreated or showUpdated
+  // is on. Spans that formatter has already filled are left alone.
+  document.querySelectorAll(".human-date").forEach(function(el) {
+    if (el.textContent.trim() !== "") return;
+    var raw = el.getAttribute("data-date");
+    if (!raw) return;
+    var dateOnly = /^\d{4}-\d{2}-\d{2}$/.test(raw.trim());
+    // Parse a date-only value as local midnight, not UTC, so it cannot
+    // shift by a day west of Greenwich
+    var d = dateOnly ? new Date(raw.trim() + "T00:00:00") : new Date(raw);
+    el.textContent = isNaN(d.getTime())
+      ? raw
+      : d.toLocaleDateString(undefined, { day: "numeric", month: "long", year: "numeric" });
+  });
 });
 </script>
