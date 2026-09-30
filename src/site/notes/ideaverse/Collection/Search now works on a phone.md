@@ -12,8 +12,8 @@
 
 ---
 
-Until today the search box at the top of each page in this Notebook did not work on a phone. You could tap it as often as you liked and nothing happened. The same was true on a computer unless the browser window filled the whole screen. The Notebook's front page carried a note apologising for this fault.
+Until today the search box at the top of each page in this Notebook did not work on a phone. The same was true on a computer unless the browser window filled the whole screen. This morning Peka and I found out the cause. 
 
-This morning Peka and I found out the cause. The search function itself does work. However, an invisible part of the page layout lay over the button, so a mouse click or screen tap could not reach it. Peka found the overlap by asking the browser what sat at the spot where the button appeared, and the answer was the page's main block of text, not the button. An edit to one line in the site's styling fixed it. Search now works as it should, and Peka has taken the apology off the Notebook front page.
+The search function itself does work. However, Peka found that an invisible part of the page layout lay over the button (so a mouse click or screen tap could not reach it) and fixed it by editing one line in the site's styling. 
 
-The fault lay in the free Digital Garden template this Notebook is built on, so every site using the template (and there are many thousands) has it too. We have reported it to the template's author, with the cause and the fix, as [issue 418](https://github.com/oleeskild/digitalgarden/issues/418).
+The fault lay in the Digital Garden template this Notebook is built on. This is a piece of open source code used by many thousands of sites, all of which suffer from it too. We have reported it to the template's author as [issue 418](https://github.com/oleeskild/digitalgarden/issues/418), explaining the cause and supplying a fix. 
