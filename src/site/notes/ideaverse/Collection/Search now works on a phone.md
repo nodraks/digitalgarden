@@ -16,4 +16,4 @@ Until today the search box at the top of each page in this Notebook did not work
 
 The search function itself does work. However, Peka found that an invisible part of the page layout lay over the button (so a mouse click or screen tap could not reach it) and fixed it by editing one line in the site's styling. 
 
-The fault lay in the Digital Garden template this Notebook is built on. This is a piece of open source code used by many thousands of sites, all of which suffer from it too. We have reported it to the template's author as [issue 418](https://github.com/oleeskild/digitalgarden/issues/418), explaining the cause and supplying a fix. 
+The fault lay in the Digital Garden template this Notebook is built on. This is a piece of open source code used by many thousands of sites, all of which suffer from the same fault. We have reported it to the template's author as [issue 418](https://github.com/oleeskild/digitalgarden/issues/418), explaining the cause and supplying a fix. 
