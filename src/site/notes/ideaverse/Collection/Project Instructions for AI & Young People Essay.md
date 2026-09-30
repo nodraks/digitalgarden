@@ -6,6 +6,8 @@
 
 # Project Instructions for AI & Young People Essay
 
+*Transparency label: AI-assisted*
+
 ---
 
 ## 1. Purpose & Intended Impact

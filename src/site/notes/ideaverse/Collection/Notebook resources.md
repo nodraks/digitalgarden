@@ -6,7 +6,7 @@
 
 # Resources
 
-A curated set of resources from our work with AI: case studies of the work itself, the people we read, and the standards, frameworks and tools we use. Each entry links to a short note saying what the resource is and where to find it.
+A curated set of resources from our work with AI: case studies of the work itself, the philosophy we are working out, the people we read, and the standards, frameworks and tools we use. Each entry links to a short note saying what the resource is and where to find it.
 
 > [!note]- Case studies: worked examples of a person and an AI assistant producing something useful together
 > 
@@ -17,6 +17,28 @@ views:
     filters:
       and:
         - note["resource-type"] == "case-study"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 250
+
+```
+
+
+> [!note]- Philosophy: the ideas we are working out about people and AI
+> 
+```base
+views:
+  - type: table
+    name: Philosophy
+    filters:
+      and:
+        - note["section"] == "resource"
+        - note["resource-type"] == "philosophy"
     order:
       - file.name
       - description
