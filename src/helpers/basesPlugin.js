@@ -29,7 +29,43 @@ function clearRenderCache() {
   cachedImageIndex = null;
 }
 
+/**
+ * The Obsidian plugin expands `> ![[x.base#View]]` into a ```base fence
+ * without the blockquote prefixes, so a base embed inside a callout arrives
+ * as an empty callout followed by a bare fence. Re-attach such a fence to
+ * the blockquote it directly follows by restoring the `> ` prefixes.
+ * A fence separated from the blockquote by a blank line is left alone.
+ */
+function renestBaseFences(src) {
+  const lines = src.split("\n");
+  const out = [];
+  let i = 0;
+  while (i < lines.length) {
+    const line = lines[i];
+    if (line.trim() === "```base" && out.length > 0 && /^>/.test(out[out.length - 1])) {
+      out.push("> " + line);
+      i++;
+      while (i < lines.length) {
+        out.push("> " + lines[i]);
+        if (lines[i].trim() === "```") {
+          i++;
+          break;
+        }
+        i++;
+      }
+      continue;
+    }
+    out.push(line);
+    i++;
+  }
+  return out.join("\n");
+}
+
 function basesPlugin(md) {
+  md.core.ruler.after("normalize", "dg_renest_base_fences", (state) => {
+    state.src = renestBaseFences(state.src);
+  });
+
   const origFence =
     md.renderer.rules.fence ||
     function (tokens, idx, options, env, self) {
