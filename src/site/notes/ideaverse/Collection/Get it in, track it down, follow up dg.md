@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/get-it-in-track-it-down-follow-up-dg/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]","[[Live]]"],"provenance":"alec","dg":null}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/get-it-in-track-it-down-follow-up-dg/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"provenance":"alec","dg":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/digital-garden/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]","[[Live]]"],"provenance":"alec"}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/digital-garden/","dg-note-properties":{"categories":["[[ideaverse/Collection/Garden]]"],"provenance":"alec"}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)
@@ -21,5 +21,7 @@ When we encounter a dubious claim online, most of us ask the wrong question: is 
 ## ThinkSpace
 
 My digital workspace, a [[ideaverse/Collection/ThinkSpace for research, thinking and writing\|ThinkSpace for research, thinking and writing]], now has [[ideaverse/Collection/A search engine for ideas\|a search engine for ideas]] built into it. Developments in AI capability have made ThinkSpace increasingly useful for all my knowledge work. I'd go so far as to say that it has become an essential part of the way I do things. A recent piece of work caused me to [[ideaverse/Collection/Liaison, Leverage and Learning\|reflect on what that means]]. 
+
+The most recent addition to ThinkSpace has been to give it [[ideaverse/Collection/A local AI assistant\|A local AI assistant]]. 
 
 ---

@@ -9,6 +9,7 @@
 *Written by Alec Fearon on 18 September 2026 in Anapoly Diary*
 *Transparency label: AI-assisted*
 *<--- [[ideaverse/Collection/A notice beside the phone\|A notice beside the phone]]*
+*---> [[ideaverse/Collection/First steps towards a local AI assistant\|First steps towards a local AI assistant]]*
 
 ---
 

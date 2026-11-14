@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/collection/the-dangers-of-the-yes-trap-phone-scam/","tags":["collection"],"dg-note-properties":{"description":"Why saying \"yes\" to an unknown caller is a risk, the myth and the three real dangers, from Frank Delaney's Safety Senior videos","created":"2026-09-05","section":"resource","resource-type":"tool","categories":["[[ideaverse/Collection/Anapoly Notebook]]","[[ideaverse/Collection/Scams]]"],"provenance":"external","tags":["collection"]}}
+{"dg-publish":true,"permalink":"/ideaverse/collection/the-dangers-of-the-yes-trap-phone-scam/","tags":["collection"],"dg-note-properties":{"description":"Why saying \"yes\" to an unknown caller is a risk, the myth and the three real dangers, from Frank Delaney's Safety Senior videos","created":"2026-09-05","section":"resource","resource-type":"tool","categories":["[[ideaverse/Collection/Anapoly Notebook]]","[[ideaverse/Collection/Scams]]"],"provenance":"external","source":"[[ideaverse/Collection/Gemini Notebook]]","tags":["collection"]}}
 ---
 
 [[ideaverse/Collection/Anapoly Notebook home\|Notebook]] | [[ideaverse/Collection/Notebook diary\|Diary]] | [[ideaverse/Collection/Notebook lab notes\|Lab notes]] | [[ideaverse/Collection/Notebook resources\|Resources]] | [[ideaverse/Collection/Digital Garden\|Garden]] | [Anapoly](https://anapoly.co.uk)

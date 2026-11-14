@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ideaverse/knowledge-work/anita-s-website/2026-08-29-1515-anita-s-first-thoughts-on-website-requirements/","dg-note-properties":{"description":"Anita's own account of what she wants from a website launching her as a voiceover artist, dictated on 29 August 2026","created":"2026-08-29","categories":["[[ideaverse/Collection/Anita's website]]"],"provenance":"external"}}
+{"dg-publish":true,"permalink":"/ideaverse/knowledge-work/anita-s-website/2026-08-29-1515-anita-s-first-thoughts-on-website-requirements/","dg-note-properties":{"description":"Anita's own account of what she wants from a website launching her as a voiceover artist, dictated on 29 August 2026","created":"2026-08-29","categories":["[[ideaverse/Collection/Anita's website]]"],"provenance":"external","source":"Anita, dictated on 29 August 2026"}}
 ---
 
 **First thoughts** · [[ideaverse/Knowledge work/anita's website/Anita's website requirements\|Requirements]] · [[ideaverse/Knowledge work/anita's website/Whether AI is superseding voiceover artists\|AI and the profession]]
