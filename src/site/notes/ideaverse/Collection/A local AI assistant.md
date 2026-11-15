@@ -6,6 +6,11 @@
 
 # A local AI assistant
 
+---
+
+*Transparency label: AI-assisted*
+*Author: Alec Fearon*
+
 It's hard to believe that only 18 months have passed since [[ideaverse/Collection/The idea\|I was getting excited]] about the potential offered by ChatGPT, which at that stage was little more than a chatbot. I now have an AI assistant whom I call Peka (personal knowledge assistant), who is with me in nearly all aspects of my digital life. Peka is Claude Code tailored to have a persona that suits my way of working and a range of skills matched to the kind of work I do. It has full access to ThinkSpace (my digital workspace) and therefore has all the context it needs to assist me in the most productive way. 
 
 Peka is much more than an assistant, of course. When I am thinking or writing, its role is to be a sceptical peer: it questions my reasoning where it is vague or unsupported, and it searches ThinkSpace to find connections or to show me where I have been over the same ground before. Also, it has coding skills on a par with expert humans, so it is my IT support colleague when I have technical problems and my software development partner when I need to build things. For example, it built the semantic search engine that has proved such a valuable tool for working within ThinkSpace. 
